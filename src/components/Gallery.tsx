@@ -14,12 +14,6 @@ export default function Gallery() {
     <section className="py-16 md:py-24 px-6 bg-white">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
-          <p
-            className="text-sm font-semibold uppercase tracking-widest mb-3"
-            style={{ color: "var(--bordeaux)" }}
-          >
-            Cabinet
-          </p>
           <h2
             className="text-3xl md:text-4xl font-bold"
             style={{

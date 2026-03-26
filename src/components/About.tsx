@@ -24,16 +24,22 @@ export default function About() {
           <p className="text-gray-600 leading-relaxed mb-6">
             L&apos;ostéopathie est une approche thérapeutique manuelle douce qui
             se fonde sur une vision globale de la structure du corps humain.
-            Vincent Magoni pratique des manipulations manuelles du système
+            Je pratique des manipulations manuelles du système
             musculo-squelettique et utilise des techniques de relâchement
             myofascial afin de soulager les tensions, les déséquilibres et les
             douleurs.
           </p>
-          <p className="text-gray-600 leading-relaxed mb-8">
-            Il peut traiter les maux de dos, les entorses, le stress, les règles
+          <p className="text-gray-600 leading-relaxed mb-6">
+            Je peux traiter les maux de dos, les entorses, le stress, les règles
             douloureuses ou encore les migraines. L&apos;ostéopathie est à visée
             préventive et curative, et s&apos;adresse à tous : nourrissons,
             enfants, sportifs, femmes enceintes et seniors.
+          </p>
+          <p className="text-gray-600 leading-relaxed mb-8">
+            Originaire d&apos;Inde, de Polynésie française et de La Réunion, j&apos;apporte dans ma pratique
+            une sensibilité au soin global héritée de mes cultures — où le corps,
+            l&apos;esprit et l&apos;environnement forment un tout indissociable.
+            Cette vision holistique nourrit mon approche ostéopathique au quotidien.
           </p>
 
           <div className="flex flex-col gap-3">
@@ -52,8 +58,19 @@ export default function About() {
                 style={{ backgroundColor: "var(--bordeaux)" }}
               />
               <span className="text-sm text-gray-700">
+                <strong>Origines :</strong> Inde, Polynésie française, La Réunion
+              </span>
+            </div>
+            <div className="flex items-center gap-3">
+              <span
+                className="w-2 h-2 rounded-full flex-shrink-0"
+                style={{ backgroundColor: "var(--bordeaux)" }}
+              />
+              <span className="text-sm text-gray-700">
                 <strong>Diplôme :</strong> Licence STAPS Éducation et
                 Motricité — Université Bordeaux Montaigne (2019)
+                <br />
+                <span className="text-gray-700">Diplôme d&apos;État d&apos;Ostéopathe — École d&apos;Ostéopathie de Bordeaux</span>
               </span>
             </div>
             <div className="flex items-center gap-3">
