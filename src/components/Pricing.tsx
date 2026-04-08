@@ -1,5 +1,4 @@
-import { tarifs } from "@/lib/data";
-import { DOCTOLIB_URL } from "@/lib/data";
+import { tarifs, tarifDomicile, DOCTOLIB_URL, PHONE, PHONE_DISPLAY } from "@/lib/data";
 
 export default function Pricing() {
   return (
@@ -58,6 +57,43 @@ export default function Pricing() {
               </p>
             </div>
           ))}
+        </div>
+
+        {/* Consultation à domicile */}
+        <div
+          className="rounded-2xl p-6 max-w-lg mx-auto mb-8 flex flex-col sm:flex-row items-center gap-4"
+          style={{ backgroundColor: "white", boxShadow: "0 1px 4px rgba(0,0,0,0.07)" }}
+        >
+          <div
+            className="flex-shrink-0 w-12 h-12 rounded-full flex items-center justify-center text-xl"
+            style={{ backgroundColor: "rgba(123, 28, 28, 0.08)" }}
+          >
+            🏠
+          </div>
+          <div className="flex-1 text-center sm:text-left">
+            <p
+              className="font-semibold text-base mb-0.5"
+              style={{ color: "var(--noir)", fontFamily: "var(--font-playfair)" }}
+            >
+              Consultation à domicile
+            </p>
+            <p className="text-sm text-gray-500 mb-1">
+              Pour les personnes à mobilité réduite ou dans l&apos;impossibilité de se déplacer.
+            </p>
+            <a
+              href={`tel:${PHONE}`}
+              className="text-sm font-medium"
+              style={{ color: "var(--bordeaux)" }}
+            >
+              Nous contacter — {PHONE_DISPLAY}
+            </a>
+          </div>
+          <div
+            className="text-3xl font-bold flex-shrink-0"
+            style={{ fontFamily: "var(--font-playfair)", color: "var(--bordeaux)" }}
+          >
+            {tarifDomicile}
+          </div>
         </div>
 
         {/* Paiement */}
