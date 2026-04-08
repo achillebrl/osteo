@@ -22,24 +22,24 @@ export default function About() {
             Vincent Magoni
           </h2>
           <p className="text-gray-600 leading-relaxed mb-6">
-            L&apos;ostéopathie est une approche thérapeutique manuelle douce qui
-            se fonde sur une vision globale de la structure du corps humain.
+            L&apos;ostéopathie est une <strong>approche thérapeutique manuelle douce</strong> qui
+            se fonde sur une <strong>vision globale de la structure du corps humain</strong>.
             Je pratique des manipulations manuelles du système
-            musculo-squelettique et utilise des techniques de relâchement
-            myofascial afin de soulager les tensions, les déséquilibres et les
+            musculo-squelettique et utilise des techniques de <strong>relâchement
+            myofascial</strong> afin de soulager les tensions, les déséquilibres et les
             douleurs.
           </p>
           <p className="text-gray-600 leading-relaxed mb-6">
-            Je peux traiter les maux de dos, les entorses, le stress, les règles
+            Je peux traiter les <strong>maux de dos</strong>, les entorses, le stress, les règles
             douloureuses ou encore les migraines. L&apos;ostéopathie est à visée
-            préventive et curative, et s&apos;adresse à tous : nourrissons,
-            enfants, sportifs, femmes enceintes et seniors.
+            <strong> préventive et curative</strong>, et s&apos;adresse à tous :{" "}
+            <strong>nourrissons, enfants, sportifs, femmes enceintes et seniors</strong>.
           </p>
           <p className="text-gray-600 leading-relaxed mb-8">
             Originaire d&apos;Inde, de Polynésie française et de La Réunion, j&apos;apporte dans ma pratique
-            une sensibilité au soin global héritée de mes cultures — où le corps,
+            une sensibilité au <strong>soin global</strong> héritée de mes cultures — où le corps,
             l&apos;esprit et l&apos;environnement forment un tout indissociable.
-            Cette vision holistique nourrit mon approche ostéopathique au quotidien.
+            Cette <strong>vision holistique</strong> nourrit mon approche ostéopathique au quotidien.
           </p>
 
           <div className="flex flex-col gap-3">
