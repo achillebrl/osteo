@@ -66,11 +66,9 @@ export default function About() {
                 className="w-2 h-2 rounded-full flex-shrink-0"
                 style={{ backgroundColor: "var(--bordeaux)" }}
               />
-              <span className="text-sm text-gray-700">
-                <strong>Diplôme :</strong> Licence STAPS Éducation et
-                Motricité — Université Bordeaux Montaigne (2019)
-                <br />
-                <span className="text-gray-700">Diplôme d&apos;État d&apos;Ostéopathe — École d&apos;Ostéopathie de Bordeaux</span>
+              <span className="text-sm text-gray-700 flex flex-col gap-1">
+                <span><strong>Diplôme :</strong> Licence STAPS Éducation et Motricité — Université Bordeaux Montaigne (2019)</span>
+                <span>Diplôme d&apos;État d&apos;Ostéopathe — École d&apos;Ostéopathie de Bordeaux</span>
               </span>
             </div>
             <div className="flex items-center gap-3">

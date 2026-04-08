@@ -22,15 +22,15 @@ export default function Navbar() {
       className="sticky top-0 z-50 w-full"
       style={{ backgroundColor: "var(--creme)" }}
     >
-      <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+      <div className="max-w-6xl mx-auto px-6 h-32 flex items-center justify-between">
         {/* Logo */}
         <a href="#" aria-label="Accueil">
           <Image
             src="/images/logo-light.jpg"
             alt="Vincent Magoni Ostéopathe"
-            width={120}
-            height={48}
-            className="h-12 w-auto object-contain"
+            width={280}
+            height={112}
+            className="h-28 w-auto object-contain"
             priority
           />
         </a>

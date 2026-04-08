@@ -15,17 +15,33 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Vincent Magoni — Ostéopathe à La Possession (La Réunion)",
+  title: "Vincent Magoni — Ostéopathe D.O. à La Possession, La Réunion",
   description:
-    "Cabinet d'ostéopathie à La Possession. Vincent Magoni, ostéopathe D.O. Consultations adultes, enfants, sportifs, femmes enceintes. Prise de RDV en ligne sur Doctolib.",
+    "Vincent Magoni, ostéopathe D.O. à La Possession (La Réunion 974). Consultations pour adultes, nourrissons, enfants, sportifs et femmes enceintes. Remboursement mutuelle. Prise de RDV en ligne sur Doctolib.",
   keywords: [
-    "ostéopathe",
-    "La Possession",
-    "La Réunion",
+    "ostéopathe La Possession",
+    "ostéopathe La Réunion",
+    "ostéopathe 974",
     "Vincent Magoni",
     "ostéopathie",
-    "consultation",
+    "consultation ostéopathe",
+    "remboursement mutuelle ostéopathie",
+    "ostéopathe nourrisson",
+    "ostéopathe sportif",
+    "ostéopathe femme enceinte",
+    "mal de dos La Réunion",
+    "rdv ostéopathe Doctolib",
   ],
+  openGraph: {
+    title: "Vincent Magoni — Ostéopathe D.O. à La Possession, La Réunion",
+    description:
+      "Consultations d'ostéopathie à La Possession (974). Adultes, nourrissons, sportifs, femmes enceintes. Remboursable par les mutuelles. RDV sur Doctolib.",
+    locale: "fr_FR",
+    type: "website",
+  },
+  alternates: {
+    canonical: "https://www.vincentmagoni-osteopathe.fr",
+  },
 };
 
 export default function RootLayout({

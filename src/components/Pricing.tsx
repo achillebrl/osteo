@@ -35,7 +35,8 @@ export default function Pricing() {
             color: "var(--bordeaux)",
           }}
         >
-          Consultation non remboursée par l&apos;Assurance Maladie
+          Non remboursée par l&apos;Assurance Maladie —{" "}
+          <strong>remboursable par les mutuelles</strong>
         </div>
 
         {/* Tarif cards */}
@@ -62,7 +63,9 @@ export default function Pricing() {
         {/* Paiement */}
         <div className="text-center mb-3">
           <p className="text-sm font-medium text-gray-700">
-            ⚠️ Paiement en espèces uniquement — cartes bancaires non acceptées
+            Modes de paiement acceptés :{" "}
+            <strong>espèces</strong>, <strong>chèque</strong> et{" "}
+            <strong>virement bancaire</strong>
           </p>
         </div>
         <p className="text-center text-xs text-gray-400 max-w-xl mx-auto mb-8">
