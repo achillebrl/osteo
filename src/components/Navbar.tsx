@@ -6,10 +6,11 @@ import { Menu, X } from "lucide-react";
 import { DOCTOLIB_URL } from "@/lib/data";
 
 const navLinks = [
-  { label: "À propos", href: "#apropos" },
-  { label: "Expertises", href: "#expertises" },
-  { label: "Tarifs", href: "#tarifs" },
-  { label: "Contact", href: "#contact" },
+  { label: "À propos", href: "/#apropos" },
+  { label: "Expertises", href: "/#expertises" },
+  { label: "Tarifs", href: "/#tarifs" },
+  { label: "Blog", href: "/blog" },
+  { label: "Contact", href: "/#contact" },
 ];
 
 export default function Navbar() {

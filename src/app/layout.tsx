@@ -17,7 +17,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Vincent Magoni — Ostéopathe D.O. à La Possession, La Réunion",
   description:
-    "Vincent Magoni, ostéopathe D.O. à La Possession (La Réunion 974). Consultations pour adultes, nourrissons, enfants, sportifs et femmes enceintes. Remboursement mutuelle. Prise de RDV en ligne sur Doctolib.",
+    "Vincent Magoni, ostéopathe D.O. à La Possession (La Réunion 974). Consultations adultes, nourrissons, sportifs, femmes enceintes. Remboursable mutuelle. RDV Doctolib.",
   keywords: [
     "ostéopathe La Possession",
     "ostéopathe La Réunion",
@@ -44,6 +44,48 @@ export const metadata: Metadata = {
   },
 };
 
+const localBusinessSchema = {
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  name: "Vincent Magoni — Ostéopathe D.O.",
+  url: "https://www.vincentmagoni-osteopathe.fr",
+  telephone: "+262693992742",
+  priceRange: "60–75 €",
+  medicalSpecialty: "Osteopathic Medicine",
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "Maison de Santé Sakisoigne, Rue Moulin Joli",
+    addressLocality: "La Possession",
+    postalCode: "97419",
+    addressRegion: "La Réunion",
+    addressCountry: "FR",
+  },
+  openingHoursSpecification: [
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+      ],
+      opens: "09:00",
+      closes: "20:00",
+    },
+  ],
+  employee: {
+    "@type": "Person",
+    name: "Vincent Magoni",
+    jobTitle: "Ostéopathe D.O.",
+    identifier: "RPPS 10110390886",
+  },
+  sameAs: [
+    "https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni",
+  ],
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -55,6 +97,12 @@ export default function RootLayout({
       className={`${playfair.variable} ${inter.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col font-[family-name:var(--font-inter)]">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(localBusinessSchema).replace(/</g, "\\u003c"),
+          }}
+        />
         {children}
       </body>
     </html>
