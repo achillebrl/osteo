@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://www.vincentmagoni-osteopathe.fr/sitemap.xml",
+    sitemap: "https://www.magoni-osteopathe.re/sitemap.xml",
   };
 }

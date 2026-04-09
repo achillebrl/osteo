@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://www.vincentmagoni-osteopathe.fr/images/about-consultation.jpg",
+        url: "https://www.magoni-osteopathe.re/images/about-consultation.jpg",
         width: 1200,
         height: 630,
         alt: "Vincent Magoni, ostéopathe D.O. à La Possession, La Réunion",
@@ -52,10 +52,10 @@ export const metadata: Metadata = {
     title: "Vincent Magoni — Ostéopathe D.O. à La Possession, La Réunion",
     description:
       "Consultations d'ostéopathie à La Possession (974). Adultes, nourrissons, sportifs, femmes enceintes. RDV sur Doctolib.",
-    images: ["https://www.vincentmagoni-osteopathe.fr/images/about-consultation.jpg"],
+    images: ["https://www.magoni-osteopathe.re/images/about-consultation.jpg"],
   },
   alternates: {
-    canonical: "https://www.vincentmagoni-osteopathe.fr",
+    canonical: "https://www.magoni-osteopathe.re",
   },
 };
 
@@ -63,7 +63,7 @@ const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "MedicalBusiness",
   name: "Vincent Magoni — Ostéopathe D.O.",
-  url: "https://www.vincentmagoni-osteopathe.fr",
+  url: "https://www.magoni-osteopathe.re",
   telephone: "+262693992742",
   priceRange: "60–75 €",
   medicalSpecialty: "Osteopathic Medicine",

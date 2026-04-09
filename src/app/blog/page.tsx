@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description:
     "Articles et conseils de votre ostéopathe à La Possession (La Réunion 974). Sciatique, lombalgie, nourrisson, grossesse : les réponses à vos questions sur l'ostéopathie.",
   alternates: {
-    canonical: "https://www.vincentmagoni-osteopathe.fr/blog",
+    canonical: "https://www.magoni-osteopathe.re/blog",
   },
 };
 

@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllArticles } from "@/lib/articles";
 
-const BASE_URL = "https://www.vincentmagoni-osteopathe.fr";
+const BASE_URL = "https://www.magoni-osteopathe.re";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles();

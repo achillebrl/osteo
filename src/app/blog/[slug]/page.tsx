@@ -6,7 +6,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { DOCTOLIB_URL } from "@/lib/data";
 
-const BASE_URL = "https://www.vincentmagoni-osteopathe.fr";
+const BASE_URL = "https://www.magoni-osteopathe.re";
 
 type Props = {
   params: Promise<{ slug: string }>;
