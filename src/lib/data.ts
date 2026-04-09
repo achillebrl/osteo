@@ -71,7 +71,7 @@ export const tarifs = [
   { label: "Consultation enfant (-15 ans)", price: "50 €" },
 ];
 
-export const tarifDomicile = "80 €";
+export const tarifDomicile = "75 €";
 
 export const DOCTOLIB_URL =
   "https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni/booking?source=profile";

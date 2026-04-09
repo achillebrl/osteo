@@ -37,7 +37,7 @@ export default function About() {
           </p>
           <p className="text-gray-600 leading-relaxed mb-8">
             Originaire d&apos;Inde, de Polynésie française et de La Réunion, j&apos;apporte dans ma pratique
-            une sensibilité au <strong>soin global</strong> héritée de mes cultures — où le corps,
+            une sensibilité au <strong>soin global</strong>{" "}héritée de mes cultures — où le corps,
             l&apos;esprit et l&apos;environnement forment un tout indissociable.
             Cette <strong>vision holistique</strong> nourrit mon approche ostéopathique au quotidien.
           </p>

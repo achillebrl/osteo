@@ -30,7 +30,7 @@ export default function Navbar() {
             alt="Vincent Magoni Ostéopathe"
             width={280}
             height={112}
-            className="h-28 w-auto object-contain"
+            className="h-32 md:h-28 w-auto object-contain"
             priority
           />
         </a>
