@@ -38,6 +38,21 @@ export const metadata: Metadata = {
       "Consultations d'ostéopathie à La Possession (974). Adultes, nourrissons, sportifs, femmes enceintes. Remboursable par les mutuelles. RDV sur Doctolib.",
     locale: "fr_FR",
     type: "website",
+    images: [
+      {
+        url: "https://www.vincentmagoni-osteopathe.fr/images/about-consultation.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Vincent Magoni, ostéopathe D.O. à La Possession, La Réunion",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Vincent Magoni — Ostéopathe D.O. à La Possession, La Réunion",
+    description:
+      "Consultations d'ostéopathie à La Possession (974). Adultes, nourrissons, sportifs, femmes enceintes. RDV sur Doctolib.",
+    images: ["https://www.vincentmagoni-osteopathe.fr/images/about-consultation.jpg"],
   },
   alternates: {
     canonical: "https://www.vincentmagoni-osteopathe.fr",

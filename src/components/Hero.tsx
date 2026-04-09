@@ -23,8 +23,8 @@ export default function Hero() {
               color: "var(--noir)",
             }}
           >
-            Votre ostéopathe
-            <br />à La Possession
+            Votre ostéopathe à La Possession,
+            <br />La Réunion
           </h1>
           <p className="text-lg text-gray-600 mb-8 max-w-lg mx-auto md:mx-0 leading-relaxed">
             Approche manuelle globale pour soulager vos douleurs et retrouver

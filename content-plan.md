@@ -14,6 +14,8 @@
 
 **KPIs** : positions Google, clics organiques (Search Console), conversions Doctolib
 
+**DataForSEO** : location_code La Réunion = `2638` (ISO: RE) — à utiliser pour les futures recherches de mots-clés locaux
+
 ---
 
 ## Pilier 1 — Conditions traitées (volume + faible KD)
