@@ -111,6 +111,134 @@ export const articles: Article[] = [
 <p>Si vous souffrez d'une sciatique et souhaitez une prise en charge ostéopathique, vous pouvez prendre rendez-vous directement en ligne sur Doctolib. Une première consultation dure environ 45 minutes à 1 heure, le temps de réaliser un bilan complet et de commencer le traitement dès la première séance.</p>
 `,
   },
+  {
+    slug: "lombalgie-chronique-traitement-osteopathe",
+    title: "Lombalgie chronique : causes, symptômes et traitement naturel par l'ostéopathie",
+    description:
+      "Vous souffrez de douleurs en bas du dos persistantes ? Découvrez les causes de la lombalgie chronique et comment un traitement naturel par l'ostéopathie peut vous soulager durablement. Cabinet à La Possession, La Réunion (974).",
+    date: "2026-04-16",
+    readTime: 8,
+    keywords: [
+      "lombalgie traitement naturel",
+      "lombalgie chronique",
+      "douleur en bas du dos",
+      "que faire pour un lumbago",
+      "lombalgie chronique symptome",
+      "ostéopathe lombalgie La Réunion",
+    ],
+    excerpt:
+      "La lombalgie — douleur en bas du dos — est la première cause de consultation en ostéopathie. Aiguë ou chronique, elle peut devenir invalidante si elle n'est pas prise en charge correctement. En tant qu'ostéopathe à La Possession, voici ce que je vois chaque semaine et comment j'aborde ces douleurs lombaires.",
+    content: `
+<h2>Qu'est-ce que la lombalgie ?</h2>
+<p>La lombalgie désigne toute douleur localisée dans la région lombaire, c'est-à-dire le bas du dos, entre les dernières côtes et le haut des fesses. C'est l'une des plaintes les plus fréquentes en médecine — et la première cause d'invalidité chez les personnes de moins de 45 ans.</p>
+<p>On distingue deux formes principales :</p>
+<ul>
+  <li><strong>La lombalgie aiguë (lumbago)</strong> : douleur soudaine, souvent déclenchée par un faux mouvement ou un effort. Elle dure moins de 6 semaines. La grande majorité des lumbagos guérissent spontanément, mais sans traitement adapté, ils peuvent rechuter ou s'installer.</li>
+  <li><strong>La lombalgie chronique</strong> : douleur persistant au-delà de 3 mois, souvent avec des phases d'amélioration et des rechutes. Elle peut finir par altérer la qualité de vie, le sommeil et l'humeur.</li>
+</ul>
+<p>Dans ma pratique à La Possession (La Réunion), je reçois régulièrement des patients qui "font avec" depuis des mois, parfois des années, sans avoir cherché à traiter la cause profonde de leurs douleurs lombaires. La lombalgie est de loin la première raison de consultation dans mon cabinet.</p>
+
+<h2>Causes de la lombalgie : pourquoi a-t-on mal en bas du dos ?</h2>
+<p>La lombalgie est rarement d'origine unique. Elle résulte souvent d'une combinaison de facteurs mécaniques, posturaux et parfois psychosociaux.</p>
+
+<h3>Les causes mécaniques et structurelles</h3>
+<ul>
+  <li><strong>Contractures musculaires</strong> : les muscles paravertébraux (érecteurs du rachis, carré des lombes) se contractent en réponse à une surcharge ou une mauvaise posture. C'est la cause la plus fréquente du lumbago aigu.</li>
+  <li><strong>Hernie discale</strong> : un disque intervertébral usé ou traumatisé fait saillie et irrite les structures environnantes. Lorsqu'elle touche une racine nerveuse, la hernie peut provoquer une sciatique associée.</li>
+  <li><strong>Arthrose lombaire</strong> : l'usure progressive des articulations vertébrales (facettes articulaires) génère une raideur matinale et des douleurs à l'effort. Elle concerne surtout les personnes de plus de 50 ans.</li>
+  <li><strong>Blocage sacro-iliaque</strong> : l'articulation entre le sacrum et l'os iliaque peut se bloquer, provoquant une douleur unilatérale irradiant vers la fesse et la cuisse. Souvent confondue avec une sciatique.</li>
+  <li><strong>Hyperlordose ou scoliose</strong> : des déséquilibres de courbure rachidienne augmentent les contraintes sur certains segments et favorisent l'usure prématurée.</li>
+</ul>
+
+<h3>Les facteurs aggravants</h3>
+<p>Certains facteurs augmentent le risque de lombalgie chronique ou de rechute :</p>
+<ul>
+  <li>Travail physique intense ou port répété de charges lourdes</li>
+  <li>Sédentarité et travail prolongé en position assise</li>
+  <li>Surpoids (augmentation des contraintes mécaniques sur les disques)</li>
+  <li>Stress chronique et état anxio-dépressif (les tensions musculaires sont amplifiées)</li>
+  <li>Mauvaise qualité du sommeil</li>
+</ul>
+<p>À La Réunion, les métiers à forte sollicitation physique — BTP, agriculture, aide à domicile, soins infirmiers — sont particulièrement représentés dans mes consultations pour lombalgie au cabinet de La Possession. Le terrain volcanique et les activités de plein air (trail, randonnée, surf) amplifient également les contraintes sur le rachis lombaire.</p>
+
+<h2>Lombalgie chronique : quels symptômes ?</h2>
+<p>La lombalgie chronique se manifeste de façon variable selon les personnes, mais on retrouve fréquemment :</p>
+<ul>
+  <li>Une <strong>douleur sourde ou pesante</strong> en bas du dos, permanente ou quasi-permanente</li>
+  <li>Des <strong>raideurs matinales</strong> au lever, qui s'améliorent après quelques minutes de mouvement</li>
+  <li>Une douleur augmentant en position assise prolongée, à la station debout prolongée ou lors d'efforts</li>
+  <li>Des <strong>irradiations</strong> possibles vers les fesses, les cuisses (sans descendre jusqu'au pied, contrairement à la vraie sciatique)</li>
+  <li>Une fatigue générale liée à la douleur continue et aux troubles du sommeil</li>
+</ul>
+<p><strong>Attention</strong> : certains signes doivent vous orienter en priorité vers un médecin : fièvre associée, perte de poids inexpliquée, douleur nocturne intense ne calmant pas au repos, troubles urinaires ou intestinaux. Ces symptômes peuvent évoquer une cause non mécanique nécessitant un bilan médical urgent.</p>
+
+<h2>Que faire pour un lumbago ? Les bons réflexes en phase aiguë</h2>
+<p>Si vous avez un lumbago aigu, voici les mesures immédiates à adopter :</p>
+
+<h3>1. Ne pas rester immobile plus de 48h</h3>
+<p>Le repos strict n'est recommandé qu'en phase très aiguë (première journée). Au-delà, la mobilisation douce est bénéfique : marchez à plat, changez régulièrement de position, évitez de rester assis ou allongé en continu. Le mouvement nourrit les disques et décontracture les muscles.</p>
+
+<h3>2. Appliquer du froid puis du chaud</h3>
+<p>Dans les 24 à 48 premières heures : froid (poche de glace enveloppée dans un linge, 15 min, 3 fois par jour) pour réduire l'inflammation. Ensuite : chaleur (bouillotte, bain chaud) pour relâcher les spasmes musculaires.</p>
+
+<h3>3. Adopter la position antalgique</h3>
+<p>Allongez-vous sur le dos, les jambes fléchies, avec un coussin sous les genoux. Cette position décharge les disques intervertébraux et les muscles paravertébraux. Évitez de dormir sur le ventre.</p>
+
+<h3>4. Consulter rapidement</h3>
+<p>Un lumbago non traité correctement dès le départ a tendance à récidiver et à évoluer vers la chronicité. Consulter un ostéopathe dans les premiers jours permet souvent de résoudre le problème plus rapidement et d'éviter l'installation durable des douleurs.</p>
+
+<h2>Traitement naturel de la lombalgie : le rôle de l'ostéopathie</h2>
+<p>L'ostéopathie est l'une des approches les plus efficaces pour traiter la lombalgie, aussi bien en phase aiguë que chronique. Elle agit directement sur les causes mécaniques sans médicament et sans intervention chirurgicale.</p>
+
+<h3>Ce que je réalise lors de la consultation</h3>
+<p>Lors de votre première venue à mon cabinet de La Possession, je commence par un bilan fonctionnel complet :</p>
+<ul>
+  <li>Analyse de votre posture et des déséquilibres de bassin</li>
+  <li>Tests de mobilité rachidienne (flexion, extension, rotations)</li>
+  <li>Palpation des muscles paravertébraux et des articulations sacro-iliaques</li>
+  <li>Tests orthopédiques pour identifier une éventuelle composante discale ou radiculaire</li>
+  <li>Analyse des facteurs de risque et des habitudes de vie</li>
+</ul>
+
+<h3>Les techniques utilisées</h3>
+<p>En fonction du tableau clinique, j'adapte mon approche :</p>
+<ul>
+  <li><strong>Mobilisations vertébrales douces</strong> : pour restaurer la mobilité des segments bloqués sans forcer. Ces techniques sont indolores et particulièrement adaptées aux phases subaiguës.</li>
+  <li><strong>Thrust lombaire ou sacro-iliaque</strong> : manipulation articulaire précise qui libère un blocage en quelques secondes. Souvent spectaculaire sur un lumbago récent.</li>
+  <li><strong>Relâchement myofascial</strong> : travail en profondeur sur les fascias et les muscles contracturés (carré des lombes, psoas, érecteurs du rachis) pour décomprimer les structures vertébrales.</li>
+  <li><strong>Travail viscéral</strong> : les organes digestifs (côlon, rein) ont des connexions fasciales avec les lombaires. Un relâchement viscéral peut surprendre mais est souvent très efficace sur les lombalgie chroniques récalcitrantes.</li>
+  <li><strong>Conseils posturaux personnalisés</strong> : ergonomie du poste de travail, exercices de renforcement à faire à domicile, adaptations du quotidien.</li>
+</ul>
+
+<h2>Exercices pour soulager la lombalgie chronique</h2>
+<p>Ces exercices sont à pratiquer quotidiennement, progressivement et sans douleur :</p>
+
+<h3>Le gainage abdominal doux</h3>
+<p>Allongé sur le dos, genoux fléchis, pieds à plat : contractez doucement les abdominaux profonds en poussant légèrement le bas du dos vers le sol. Maintenez 5 secondes, relâchez. Répétez 10 fois. Ce mouvement renforce le transverse, le muscle stabilisateur du rachis lombaire.</p>
+
+<h3>Étirement du psoas</h3>
+<p>En fente avant basse, genou arrière au sol : poussez doucement les hanches vers l'avant pour étirer le psoas du côté du genou au sol. Maintenez 30 secondes de chaque côté. Le psoas, muscle profond reliant les vertèbres lombaires au fémur, est souvent contracturé chez les personnes en position assise prolongée.</p>
+
+<h3>Rotation lombaire douce</h3>
+<p>Allongé sur le dos, genoux fléchis : laissez tomber les genoux d'un côté, puis de l'autre, en gardant les épaules au sol. 10 rotations lentes de chaque côté. Cet exercice mobilise les facettes articulaires et détend les muscles paravertébraux.</p>
+
+<h3>La marche quotidienne</h3>
+<p>20 à 30 minutes par jour, à allure modérée, en terrain plat ou légèrement vallonné. La marche est l'exercice le plus recommandé dans les lombalgie chroniques : elle active la pompe discale, renforce les muscles profonds et améliore l'humeur (ce qui réduit la perception de la douleur).</p>
+
+<h2>Combien de séances pour guérir d'une lombalgie ?</h2>
+<p>La durée du traitement dépend du type de lombalgie et de son ancienneté :</p>
+<ul>
+  <li><strong>Lumbago aigu récent (moins de 3 semaines)</strong> : en général 1 à 3 séances suffisent pour résoudre le problème.</li>
+  <li><strong>Lombalgie chronique installée</strong> : 4 à 6 séances sur 2 à 3 mois, avec parfois une séance de suivi à 3 ou 6 mois pour consolider les résultats.</li>
+  <li><strong>Lombalgie sur fond d'arthrose ou de hernie discale</strong> : l'ostéopathie ne guérit pas l'arthrose ou la hernie, mais elle améliore très significativement la gestion de la douleur et la qualité de vie. Des séances régulières (2 à 4 par an) permettent de maintenir une bonne mobilité.</li>
+</ul>
+<p>Si vous souffrez de <a href="/blog/comment-soulager-une-sciatique">sciatique associée à votre lombalgie</a>, la prise en charge sera adaptée pour traiter simultanément les deux composantes.</p>
+
+<h2>Consultation à La Possession — Prenez rendez-vous</h2>
+<p>Mon cabinet est situé au sein de la Maison de Santé Sakisoigne, Rue Moulin Joli, 97419 La Possession, dans le nord de La Réunion. Je reçois du lundi au samedi, de 9h à 20h.</p>
+<p>Si vous souffrez de douleurs lombaires persistantes, aiguës ou chroniques, une consultation d'ostéopathie vous permettra d'identifier précisément l'origine de votre problème et de débuter un traitement adapté dès la première séance. Prenez rendez-vous directement en ligne sur Doctolib.</p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {

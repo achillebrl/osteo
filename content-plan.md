@@ -94,3 +94,4 @@
 ## Articles publiés
 
 - [x] **#1** — `comment-soulager-une-sciatique` — 09/04/2026
+- [x] **#2** — `lombalgie-chronique-traitement-osteopathe` — 16/04/2026
