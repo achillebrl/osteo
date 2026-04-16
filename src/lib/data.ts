@@ -16,7 +16,7 @@ export const expertises = [
   },
   {
     title: "Myofasciale",
-    description: "Relâchement des tensions du système myofascial pour traiter douleurs musculaires chroniques et restrictions de mobilité.",
+    description: "Relâchement des tensions du système myofascial pour soulager douleurs musculaires chroniques et restrictions de mobilité.",
     icon: "Layers",
   },
 ];
@@ -38,7 +38,7 @@ export const reviews = [
     name: "Sitalapresad Julien",
     date: "Février 2025",
     rating: 5,
-    text: "Personne très consciencieuse et à l'écoute. Il a su identifier mes maux et les traiter de manière adéquate. Ce que n'ont pas su faire les autres ostéopathes que j'ai eu l'occasion de consulter.",
+    text: "Personne très consciencieuse et à l'écoute. Il a su identifier mes maux et les soulager de manière adéquate. Ce que n'ont pas su faire les autres ostéopathes que j'ai eu l'occasion de consulter.",
   },
   {
     name: "Elise DELAROCHE",

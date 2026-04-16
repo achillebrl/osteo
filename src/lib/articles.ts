@@ -25,7 +25,7 @@ export const articles: Article[] = [
       "ostéopathe sciatique La Réunion",
     ],
     excerpt:
-      "La sciatique touche des millions de personnes et peut rendre les gestes du quotidien insupportables. En tant qu'ostéopathe à La Possession (La Réunion), je vous explique comment identifier, calmer et traiter durablement cette douleur.",
+      "La sciatique touche des millions de personnes et peut rendre les gestes du quotidien insupportables. En tant qu'ostéopathe à La Possession (La Réunion), je vous explique comment identifier, calmer et soulager durablement cette douleur.",
     content: `
 <h2>Qu'est-ce que la sciatique ?</h2>
 <p>La sciatique n'est pas une maladie en soi, mais un <strong>symptôme</strong> : une douleur qui suit le trajet du nerf sciatique, le plus long et le plus volumineux nerf du corps humain. Ce nerf part du bas du dos, traverse la fesse, descend le long de la cuisse, du mollet et peut atteindre le pied.</p>
@@ -136,7 +136,7 @@ export const articles: Article[] = [
   <li><strong>La lombalgie aiguë (lumbago)</strong> : douleur soudaine, souvent déclenchée par un faux mouvement ou un effort. Elle dure moins de 6 semaines. La grande majorité des lumbagos guérissent spontanément, mais sans traitement adapté, ils peuvent rechuter ou s'installer.</li>
   <li><strong>La lombalgie chronique</strong> : douleur persistant au-delà de 3 mois, souvent avec des phases d'amélioration et des rechutes. Elle peut finir par altérer la qualité de vie, le sommeil et l'humeur.</li>
 </ul>
-<p>Dans ma pratique à La Possession (La Réunion), je reçois régulièrement des patients qui "font avec" depuis des mois, parfois des années, sans avoir cherché à traiter la cause profonde de leurs douleurs lombaires. La lombalgie est de loin la première raison de consultation dans mon cabinet.</p>
+<p>Dans ma pratique à La Possession (La Réunion), je reçois régulièrement des patients qui "font avec" depuis des mois, parfois des années, sans avoir cherché à soulager la cause profonde de leurs douleurs lombaires. La lombalgie est de loin la première raison de consultation dans mon cabinet.</p>
 
 <h2>Causes de la lombalgie : pourquoi a-t-on mal en bas du dos ?</h2>
 <p>La lombalgie est rarement d'origine unique. Elle résulte souvent d'une combinaison de facteurs mécaniques, posturaux et parfois psychosociaux.</p>
@@ -188,7 +188,7 @@ export const articles: Article[] = [
 <p>Un lumbago non traité correctement dès le départ a tendance à récidiver et à évoluer vers la chronicité. Consulter un ostéopathe dans les premiers jours permet souvent de résoudre le problème plus rapidement et d'éviter l'installation durable des douleurs.</p>
 
 <h2>Traitement naturel de la lombalgie : le rôle de l'ostéopathie</h2>
-<p>L'ostéopathie est l'une des approches les plus efficaces pour traiter la lombalgie, aussi bien en phase aiguë que chronique. Elle agit directement sur les causes mécaniques sans médicament et sans intervention chirurgicale.</p>
+<p>L'ostéopathie est l'une des approches les plus efficaces pour soulager la lombalgie, aussi bien en phase aiguë que chronique. Elle agit directement sur les causes mécaniques sans médicament et sans intervention chirurgicale.</p>
 
 <h3>Ce que je réalise lors de la consultation</h3>
 <p>Lors de votre première venue à mon cabinet de La Possession, je commence par un bilan fonctionnel complet :</p>
@@ -232,7 +232,7 @@ export const articles: Article[] = [
   <li><strong>Lombalgie chronique installée</strong> : 4 à 6 séances sur 2 à 3 mois, avec parfois une séance de suivi à 3 ou 6 mois pour consolider les résultats.</li>
   <li><strong>Lombalgie sur fond d'arthrose ou de hernie discale</strong> : l'ostéopathie ne guérit pas l'arthrose ou la hernie, mais elle améliore très significativement la gestion de la douleur et la qualité de vie. Des séances régulières (2 à 4 par an) permettent de maintenir une bonne mobilité.</li>
 </ul>
-<p>Si vous souffrez de <a href="/blog/comment-soulager-une-sciatique">sciatique associée à votre lombalgie</a>, la prise en charge sera adaptée pour traiter simultanément les deux composantes.</p>
+<p>Si vous souffrez de <a href="/blog/comment-soulager-une-sciatique">sciatique associée à votre lombalgie</a>, la prise en charge sera adaptée pour soulager simultanément les deux composantes.</p>
 
 <h2>Consultation à La Possession — Prenez rendez-vous</h2>
 <p>Mon cabinet est situé au sein de la Maison de Santé Sakisoigne, Rue Moulin Joli, 97419 La Possession, dans le nord de La Réunion. Je reçois du lundi au samedi, de 9h à 20h.</p>

@@ -30,7 +30,7 @@ export default function About() {
             douleurs.
           </p>
           <p className="text-gray-600 leading-relaxed mb-6">
-            Je peux traiter les <strong>maux de dos</strong>, les entorses, le stress, les règles
+            Je peux soulager les <strong>maux de dos</strong>, les entorses, le stress, les règles
             douloureuses ou encore les migraines. L&apos;ostéopathie est à visée
             <strong> préventive et curative</strong>, et s&apos;adresse à tous :{" "}
             <strong>nourrissons, enfants, sportifs, femmes enceintes et seniors</strong>.
@@ -77,7 +77,7 @@ export default function About() {
                 style={{ backgroundColor: "var(--bordeaux)" }}
               />
               <span className="text-sm text-gray-700">
-                <strong>Langues :</strong> Français, Anglais
+                <strong>Langues :</strong> Français, Anglais, Créole réunionnais
               </span>
             </div>
           </div>

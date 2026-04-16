@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Playfair_Display, Inter } from "next/font/google";
 import "./globals.css";
+import FloatingCTA from "@/components/FloatingCTA";
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
@@ -118,7 +119,8 @@ export default function RootLayout({
             __html: JSON.stringify(localBusinessSchema).replace(/</g, "\\u003c"),
           }}
         />
-        {children}
+        <div className="pb-16 md:pb-0">{children}</div>
+        <FloatingCTA />
       </body>
     </html>
   );
