@@ -239,6 +239,160 @@ export const articles: Article[] = [
 <p>Si vous souffrez de douleurs lombaires persistantes, aiguës ou chroniques, une consultation d'ostéopathie vous permettra d'identifier précisément l'origine de votre problème et de débuter un traitement adapté dès la première séance. Prenez rendez-vous directement en ligne sur Doctolib.</p>
 `,
   },
+  {
+    slug: "migraine-mal-de-tete-osteopathie",
+    title: "Migraine et mal de tête : comment l'ostéopathie peut vous soulager",
+    description:
+      "Migraines récurrentes ou maux de tête persistants ? Découvrez comment l'ostéopathie agit sur les causes mécaniques (cervicales, crâne, mâchoire) pour soulager durablement. Cabinet à La Possession, La Réunion (974).",
+    date: "2026-04-30",
+    readTime: 8,
+    keywords: [
+      "migraine ostéopathie",
+      "mal de tête ostéopathe",
+      "soulager migraine naturellement",
+      "céphalée de tension",
+      "migraine ophtalmique ostéopathe",
+      "ostéopathe migraine La Réunion",
+    ],
+    excerpt:
+      "Les migraines et maux de tête touchent plus d'une personne sur cinq. Avant de multiplier les antalgiques, il existe une approche naturelle, souvent très efficace : l'ostéopathie. En tant qu'ostéopathe à La Possession (La Réunion), je reçois chaque semaine des patients libérés de leurs crises en quelques séances.",
+    content: `
+<h2>Migraine, céphalée, mal de tête : de quoi parle-t-on exactement ?</h2>
+<p>Avant de chercher à soulager une douleur de tête, il est essentiel de bien la nommer — car les causes (et donc les solutions) ne sont pas les mêmes selon le type. Dans ma pratique à La Possession, je vois principalement trois grandes familles :</p>
+<ul>
+  <li><strong>La migraine</strong> : douleur typiquement <strong>unilatérale</strong> (d'un seul côté de la tête), pulsatile, souvent accompagnée de nausées, d'une intolérance à la lumière (photophobie) et au bruit (phonophobie). Une crise dure de 4 à 72 heures et oblige généralement à s'isoler dans le noir.</li>
+  <li><strong>La céphalée de tension</strong> : douleur diffuse, en "casque" ou "étau", qui serre les deux côtés du crâne. Moins violente qu'une migraine mais souvent quotidienne. C'est le type de mal de tête le plus fréquent en consultation d'ostéopathie.</li>
+  <li><strong>La céphalée cervicogénique</strong> : douleur partant de la nuque et remontant sur l'arrière du crâne, parfois jusqu'à l'œil ou la tempe. Fréquente chez les personnes en travail prolongé sur ordinateur ou après un faux mouvement cervical.</li>
+</ul>
+<p>Il existe aussi des formes plus particulières — <strong>migraine ophtalmique</strong> (avec aura visuelle), <strong>migraine menstruelle</strong>, <strong>algie vasculaire de la face</strong> — que j'aborde plus loin dans l'article.</p>
+
+<h2>Pourquoi a-t-on mal à la tête ? Les principales causes mécaniques</h2>
+<p>La migraine est une maladie neurologique complexe, encore mal comprise. Mais en ostéopathie, on s'intéresse surtout aux <strong>facteurs déclencheurs et entretiens mécaniques</strong> sur lesquels on peut concrètement agir.</p>
+
+<h3>Les tensions cervicales hautes</h3>
+<p>Les trois premières vertèbres cervicales (C0-C1-C2, à la base du crâne) sont particulièrement liées aux maux de tête. Une <strong>restriction de mobilité</strong> à ce niveau irrite les fibres nerveuses qui innervent l'arrière du crâne et peut déclencher ou entretenir une céphalée. Le nerf grand occipital d'Arnold passe précisément dans cette zone — d'où le terme "névralgie d'Arnold" quand il est comprimé.</p>
+
+<h3>Les blocages crâniens et de la mâchoire</h3>
+<p>Le crâne n'est pas un bloc rigide : il est composé de 22 os reliés par des sutures qui conservent une <strong>micromobilité</strong>. Une tension excessive sur la dure-mère (membrane qui entoure le cerveau), un blocage des sutures temporales ou un trouble de la mâchoire (ATM) — bruxisme nocturne, mauvaise occlusion dentaire — peuvent provoquer des douleurs frontales, temporales ou rétro-orbitaires (derrière les yeux).</p>
+
+<h3>Le stress et la posture</h3>
+<p>Sous l'effet du stress chronique, les muscles de la nuque, des trapèzes et de la mâchoire se contractent en permanence. C'est la cause la plus fréquente des céphalées de tension. À La Réunion, mes patients en travail bureau (administration, banque, IT) ou à fortes charges physiques (BTP, infirmiers) cumulent souvent ces deux facteurs : tensions posturales + stress.</p>
+
+<h3>Les facteurs viscéraux</h3>
+<p>Cela surprend souvent mes patients, mais la sphère digestive (foie, estomac, intestin) a une influence directe sur les maux de tête. Une digestion difficile, une congestion hépatique ou un syndrome du côlon irritable peuvent générer des céphalées par tension fasciale ascendante. C'est typiquement le cas des migraines déclenchées après les repas, le matin au réveil, ou en lien avec le cycle menstruel.</p>
+
+<h3>Les autres déclencheurs</h3>
+<ul>
+  <li>Manque de sommeil ou sommeil de mauvaise qualité</li>
+  <li>Déshydratation (particulièrement à La Réunion en été)</li>
+  <li>Aliments déclencheurs : chocolat, fromage affiné, alcool, glutamate, aspartame</li>
+  <li>Variations hormonales (règles, grossesse, ménopause)</li>
+  <li>Variations climatiques (cyclones, descente de pression atmosphérique fréquente sur l'île)</li>
+</ul>
+
+<h2>Comment soulager une migraine rapidement et naturellement ?</h2>
+<p>En attendant une consultation, voici les gestes immédiats que je recommande à mes patients en crise.</p>
+
+<h3>1. S'isoler dans un environnement calme et sombre</h3>
+<p>Allongez-vous dans une pièce fraîche, lumière tamisée, sans bruit. La photophobie et la phonophobie ne sont pas des caprices : elles aggravent réellement la crise. Réduire la stimulation sensorielle aide votre système nerveux à se réguler.</p>
+
+<h3>2. Appliquer du froid sur la nuque ou les tempes</h3>
+<p>Une compresse froide ou une poche de glace enveloppée dans un linge, posée 10 à 15 minutes sur la base du crâne ou les tempes, contracte les vaisseaux sanguins dilatés et réduit la douleur pulsatile typique des migraines vasculaires.</p>
+
+<h3>3. Masser le point Hegu (LI-4)</h3>
+<p>Ce point d'acupression, situé dans le creux entre le pouce et l'index, est connu pour soulager les céphalées. Pressez fermement pendant 1 à 2 minutes, en respirant lentement. Effet apaisant souvent rapide sur les céphalées de tension.</p>
+
+<h3>4. Détendre la nuque et la mâchoire</h3>
+<p>Posez vos doigts à la base du crâne (juste sous l'os occipital), exercez une pression douce et constante pendant 1 minute. Faites de petits mouvements circulaires sur les muscles masséters (devant l'oreille, en serrant les dents pour les sentir). Cela libère les tensions qui entretiennent la douleur.</p>
+
+<h3>5. S'hydrater et oxygéner</h3>
+<p>Buvez un grand verre d'eau (la déshydratation est un déclencheur classique), aérez la pièce, et pratiquez quelques minutes de respiration lente : 4 secondes d'inspiration, 6 secondes d'expiration. La cohérence cardiaque calme le système nerveux autonome impliqué dans la migraine.</p>
+
+<h3>6. Antalgiques : avec mesure</h3>
+<p>Paracétamol ou ibuprofène peuvent dépanner ponctuellement, mais leur usage répété (plus de 10 à 15 jours par mois) crée un cercle vicieux : la <strong>céphalée par abus médicamenteux</strong>. Si vous prenez des antalgiques plus de deux fois par semaine, c'est précisément le moment de consulter pour traiter la cause de fond.</p>
+
+<h2>Est-ce que l'ostéopathie soigne vraiment les migraines ?</h2>
+<p>C'est la question que mes patients me posent en premier. La réponse honnête : <strong>l'ostéopathie ne "guérit" pas la migraine en tant que maladie neurologique</strong>, mais elle agit avec une grande efficacité sur :</p>
+<ul>
+  <li><strong>La fréquence des crises</strong> : la plupart de mes patients constatent une diminution de moitié, voire plus, après 3 à 5 séances</li>
+  <li><strong>L'intensité de la douleur</strong> : crises plus courtes, mieux tolérées</li>
+  <li><strong>Les facteurs mécaniques entretenant les céphalées</strong> : tensions cervicales, troubles de la mâchoire, stress accumulé dans les fascias</li>
+  <li><strong>La consommation d'antalgiques</strong> : objectif majeur quand l'usage devient quotidien</li>
+</ul>
+<p>Plusieurs études cliniques (notamment françaises et nord-américaines) ont confirmé l'efficacité de l'ostéopathie sur les céphalées de tension et les migraines, particulièrement quand une composante cervicale est présente — ce qui est le cas chez la grande majorité de mes patients.</p>
+
+<h2>Consultation d'ostéopathie pour migraine : ce que je fais concrètement</h2>
+<p>Lors d'une première séance à mon cabinet de La Possession, je commence toujours par un <strong>bilan détaillé</strong> avant la moindre manipulation :</p>
+<ul>
+  <li>Histoire des céphalées : depuis quand, à quelle fréquence, type de douleur, déclencheurs identifiés</li>
+  <li>Antécédents : choc à la tête, accident, traumatismes dentaires, accouchement instrumenté</li>
+  <li>Mode de vie : poste de travail, sommeil, alimentation, stress, cycle menstruel</li>
+  <li>Tests de mobilité cervicale, crânienne et de la mâchoire</li>
+  <li>Évaluation posturale globale (le bassin et le bas du dos influencent les cervicales)</li>
+</ul>
+
+<h3>Les techniques que j'utilise</h3>
+<ul>
+  <li><strong>Techniques crâniennes douces</strong> : libération des sutures temporales, frontales et occipitales pour relâcher les tensions sur la dure-mère. Très indolores, parfois imperceptibles, mais souvent les plus efficaces sur les migraines récurrentes.</li>
+  <li><strong>Mobilisation des cervicales hautes (C0-C1-C2)</strong> : techniques articulaires précises et adaptées, sans manipulation brusque, pour restaurer la mobilité de la base du crâne.</li>
+  <li><strong>Travail sur la mâchoire (ATM)</strong> : relâchement des muscles masséters, ptérygoïdiens et temporaux. Indispensable chez les bruxeurs nocturnes et les personnes serrant les dents sous stress.</li>
+  <li><strong>Relâchement myofascial des trapèzes et des sous-occipitaux</strong> : ces muscles, contracturés par la position assise et le stress, entretiennent la majorité des céphalées de tension.</li>
+  <li><strong>Travail viscéral</strong> : si l'interrogatoire oriente vers une composante digestive ou hormonale, je travaille sur le foie, l'estomac ou les fascias pelviens.</li>
+  <li><strong>Conseils personnalisés</strong> : ergonomie, exercices d'auto-libération à faire chez soi, gestion du stress, hygiène alimentaire et de sommeil adaptée à votre quotidien à La Réunion.</li>
+</ul>
+
+<h2>Combien de séances pour soulager mes migraines ?</h2>
+<p>La durée du suivi dépend de l'ancienneté et de la fréquence des crises :</p>
+<ul>
+  <li><strong>Céphalée de tension récente</strong> (quelques semaines à quelques mois) : 1 à 3 séances suffisent généralement</li>
+  <li><strong>Migraines chroniques installées depuis des années</strong> : 4 à 6 séances espacées de 3 à 4 semaines, puis suivi tous les 3 à 6 mois pour consolider</li>
+  <li><strong>Migraine cataméniale (liée aux règles)</strong> : 3 à 4 séances ciblant le bassin, la sphère viscérale et les cervicales, idéalement en milieu de cycle</li>
+  <li><strong>Céphalée cervicogénique</strong> (post-traumatique, post-faux mouvement) : 1 à 3 séances suffisent souvent à résoudre le problème durablement</li>
+</ul>
+<p>Si vos céphalées sont associées à des <a href="/blog/lombalgie-chronique-traitement-osteopathe">douleurs lombaires</a> ou cervicales basses, la prise en charge ostéopathique adressera l'ensemble du tableau postural — souvent avec un effet en chaîne sur les maux de tête.</p>
+
+<h2>Migraine ophtalmique, cervicale, hormonale : que faire ?</h2>
+
+<h3>Migraine ophtalmique (avec aura)</h3>
+<p>Précédée de troubles visuels (points lumineux, vision floue, scotome), elle inquiète souvent. L'ostéopathie agit principalement sur la phase douloureuse qui suit l'aura, et sur la prévention des crises en relâchant les tensions cervicales hautes et la tente du cervelet (membrane intracrânienne).</p>
+
+<h3>Migraine cervicale (cervicogénique)</h3>
+<p>C'est <strong>la forme la plus accessible à l'ostéopathie</strong>. Lorsque la douleur part nettement de la nuque et remonte vers la tête, le travail manuel sur les cervicales hautes donne souvent des résultats spectaculaires dès la première séance.</p>
+
+<h3>Migraine menstruelle ou hormonale</h3>
+<p>Liée aux variations d'œstrogènes, elle survient typiquement 2 à 3 jours avant les règles. Le travail ostéopathique sur le bassin, le diaphragme et les fascias pelviens libère les contraintes mécaniques sur l'utérus et améliore globalement le syndrome prémenstruel.</p>
+
+<h3>Migraine ophtalmique sans aura ou algie vasculaire de la face</h3>
+<p>Pour ces formes plus rares mais très douloureuses, l'ostéopathie est complémentaire d'un suivi neurologique. Elle agit sur la sphère vasculaire et les tensions de la base du crâne.</p>
+
+<h2>Quand ne pas consulter un ostéopathe pour des maux de tête ?</h2>
+<p>Certains signes imposent <strong>un avis médical urgent</strong> avant toute prise en charge ostéopathique :</p>
+<ul>
+  <li>Mal de tête brutal et inhabituel ("le pire mal de tête de votre vie")</li>
+  <li>Céphalée associée à de la fièvre, une raideur de nuque, une confusion ou des troubles de la conscience</li>
+  <li>Apparition après un traumatisme crânien récent</li>
+  <li>Aggravation rapide en quelques jours, sans amélioration</li>
+  <li>Troubles neurologiques associés : faiblesse d'un côté du corps, troubles de la parole, troubles visuels persistants</li>
+  <li>Mal de tête chez l'enfant de moins de 6 ans, ou chez la personne âgée sans antécédent</li>
+</ul>
+<p>Dans ces cas, dirigez-vous immédiatement vers un médecin ou les urgences. L'ostéopathie pourra reprendre la main une fois la cause grave écartée.</p>
+
+<h2>Prévenir les crises sur le long terme</h2>
+<p>Au-delà des séances, voici les habitudes que je recommande à mes patients pour réduire la fréquence des crises :</p>
+<ul>
+  <li><strong>Tenir un journal des crises</strong> : date, intensité, déclencheur identifié, durée, traitement pris. Sur 2 à 3 mois, des patterns apparaissent toujours (alimentation, cycle, sommeil, météo).</li>
+  <li><strong>Régulariser le sommeil</strong> : se coucher et se lever aux mêmes horaires, y compris le week-end. Les variations brusques sont un déclencheur majeur.</li>
+  <li><strong>Activité physique régulière</strong> : 30 minutes 3 fois par semaine — marche, natation, yoga. L'activité cardiovasculaire douce a un effet préventif démontré sur les migraines.</li>
+  <li><strong>Hydratation</strong> : 1,5 à 2 L d'eau par jour, davantage à La Réunion en saison chaude</li>
+  <li><strong>Gérer le stress</strong> : cohérence cardiaque, méditation, sophrologie. Le stress non régulé est le carburant numéro un des céphalées de tension.</li>
+  <li><strong>Ergonomie du poste de travail</strong> : écran à hauteur des yeux, pauses toutes les 45 minutes, étirements cervicaux réguliers.</li>
+</ul>
+
+<h2>Consultation à La Possession — Prenez rendez-vous</h2>
+<p>Mon cabinet est situé au sein de la Maison de Santé Sakisoigne, Rue Moulin Joli, 97419 La Possession, dans le nord de La Réunion. Je reçois du lundi au samedi, de 9h à 20h.</p>
+<p>Si vous souffrez de migraines, de maux de tête récurrents ou de céphalées de tension, une consultation d'ostéopathie permet d'identifier les causes mécaniques de votre douleur et de mettre en place un plan de soin sur mesure dès la première séance. Si vos céphalées sont associées à une <a href="/blog/comment-soulager-une-sciatique">sciatique</a> ou des douleurs lombaires, je traite l'ensemble dans une approche globale. Prenez rendez-vous directement en ligne sur Doctolib.</p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
