@@ -23,6 +23,8 @@ export const articles: Article[] = [
       "soigner la sciatique",
       "calmer une sciatique",
       "ostéopathe sciatique La Réunion",
+      "ostéopathe sciatique La Possession",
+      "ostéopathe La Possession 974",
     ],
     excerpt:
       "La sciatique touche des millions de personnes et peut rendre les gestes du quotidien insupportables. En tant qu'ostéopathe à La Possession (La Réunion), je vous explique comment identifier, calmer et soulager durablement cette douleur.",
@@ -125,6 +127,8 @@ export const articles: Article[] = [
       "que faire pour un lumbago",
       "lombalgie chronique symptome",
       "ostéopathe lombalgie La Réunion",
+      "ostéopathe lombalgie La Possession",
+      "ostéopathe La Possession 974",
     ],
     excerpt:
       "La lombalgie — douleur en bas du dos — est la première cause de consultation en ostéopathie. Aiguë ou chronique, elle peut devenir invalidante si elle n'est pas prise en charge correctement. En tant qu'ostéopathe à La Possession, voici ce que je vois chaque semaine et comment j'aborde ces douleurs lombaires.",
@@ -253,6 +257,8 @@ export const articles: Article[] = [
       "céphalée de tension",
       "migraine ophtalmique ostéopathe",
       "ostéopathe migraine La Réunion",
+      "ostéopathe migraine La Possession",
+      "ostéopathe La Possession 974",
     ],
     excerpt:
       "Les migraines et maux de tête touchent plus d'une personne sur cinq. Avant de multiplier les antalgiques, il existe une approche naturelle, souvent très efficace : l'ostéopathie. En tant qu'ostéopathe à La Possession (La Réunion), je reçois chaque semaine des patients libérés de leurs crises en quelques séances.",
@@ -406,6 +412,8 @@ export const articles: Article[] = [
       "articulation sacro-iliaque douleur",
       "blocage sacro iliaque",
       "sacro-iliaque ostéopathe La Réunion",
+      "sacro-iliaque ostéopathe La Possession",
+      "ostéopathe La Possession 974",
     ],
     excerpt:
       "L'articulation sacro-iliaque est une cause fréquente — et souvent méconnue — de douleur lombaire basse. En tant qu'ostéopathe à La Possession (La Réunion), je vous explique comment la reconnaître, 5 exercices pour la soulager à la maison, et quand l'ostéopathie peut faire la différence.",
