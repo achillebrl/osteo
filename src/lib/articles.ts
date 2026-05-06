@@ -393,6 +393,114 @@ export const articles: Article[] = [
 <p>Si vous souffrez de migraines, de maux de tête récurrents ou de céphalées de tension, une consultation d'ostéopathie permet d'identifier les causes mécaniques de votre douleur et de mettre en place un plan de soin sur mesure dès la première séance. Si vos céphalées sont associées à une <a href="/blog/comment-soulager-une-sciatique">sciatique</a> ou des douleurs lombaires, je traite l'ensemble dans une approche globale. Prenez rendez-vous directement en ligne sur Doctolib.</p>
 `,
   },
+  {
+    slug: "douleur-sacro-iliaque-exercices-osteopathie",
+    title: "Douleur sacro-iliaque : 5 exercices et le rôle de l'ostéopathie pour la soulager",
+    description:
+      "Douleur lombaire basse, fessière ou irradiant dans la jambe ? Découvrez 5 exercices pour soulager une douleur sacro-iliaque + l'apport de l'ostéopathie. Consultations à La Possession (La Réunion 974).",
+    date: "2026-05-06",
+    readTime: 8,
+    keywords: [
+      "douleur sacro-iliaque exercices",
+      "douleur sacro-iliaque",
+      "articulation sacro-iliaque douleur",
+      "blocage sacro iliaque",
+      "sacro-iliaque ostéopathe La Réunion",
+    ],
+    excerpt:
+      "L'articulation sacro-iliaque est une cause fréquente — et souvent méconnue — de douleur lombaire basse. En tant qu'ostéopathe à La Possession (La Réunion), je vous explique comment la reconnaître, 5 exercices pour la soulager à la maison, et quand l'ostéopathie peut faire la différence.",
+    content: `
+<h2>Qu'est-ce que l'articulation sacro-iliaque ?</h2>
+<p>L'articulation sacro-iliaque (SI) relie le <strong>sacrum</strong> (l'os triangulaire à la base de la colonne vertébrale) à <strong>l'ilium</strong> (l'os du bassin). Vous en avez deux : une à droite, une à gauche, situées de part et d'autre du bas du dos, dans cette zone de "fossettes" au-dessus des fesses.</p>
+<p>Bien qu'elle ne bouge que de quelques millimètres, cette articulation joue un rôle <strong>fondamental</strong> : elle absorbe et redistribue les contraintes entre la colonne vertébrale et les membres inférieurs à chaque pas, à chaque mouvement. Quand elle se bloque ou s'enflamme, c'est tout l'équilibre du bassin qui est perturbé.</p>
+<p>En consultation à La Possession, je rencontre régulièrement des patients qui souffrent depuis des mois d'un "mal de dos" sans savoir que la véritable origine est leur articulation sacro-iliaque. Le diagnostic est souvent un soulagement à lui seul.</p>
+
+<h2>Comment reconnaître une douleur sacro-iliaque ?</h2>
+<p>La douleur sacro-iliaque a des caractéristiques précises qui la distinguent d'une lombalgie classique ou d'une <a href="/blog/comment-soulager-une-sciatique">sciatique</a> :</p>
+<ul>
+  <li><strong>Localisation basse et latérale</strong> : la douleur se situe juste au-dessus de la fesse, d'un seul côté le plus souvent (parfois bilatérale).</li>
+  <li><strong>Douleur en position assise prolongée</strong> : conduire, travailler à un bureau, regarder un film deviennent difficiles.</li>
+  <li><strong>Difficulté à passer de la position assise à debout</strong> : les premiers pas sont raides, douloureux, puis s'améliorent après quelques mètres.</li>
+  <li><strong>Douleur en se retournant dans le lit</strong> : un signe très évocateur d'un blocage SI.</li>
+  <li><strong>Irradiation possible</strong> dans la fesse, l'arrière de la cuisse, parfois jusqu'au genou (ce qui peut faire penser à tort à une sciatique).</li>
+  <li><strong>Soulagement par la marche</strong> dans les formes mécaniques pures.</li>
+</ul>
+<p>Si en revanche la douleur descend jusqu'au pied, ou s'accompagne de fourmillements et de perte de force, il s'agit plus probablement d'une véritable atteinte du nerf sciatique.</p>
+
+<h2>Pourquoi a-t-on mal à l'articulation sacro-iliaque ?</h2>
+<p>Les causes les plus fréquentes que je rencontre dans ma patientèle réunionnaise :</p>
+<ul>
+  <li><strong>Déséquilibre du bassin</strong> : une jambe plus courte (réelle ou fonctionnelle), une cicatrice, une mauvaise posture prolongée déséquilibrent le bassin et surchargent une SI.</li>
+  <li><strong>Grossesse et post-partum</strong> : les hormones (relaxine) assouplissent les ligaments, le bassin s'élargit, et la SI peut devenir instable plusieurs mois après l'accouchement.</li>
+  <li><strong>Traumatisme</strong> : chute sur les fesses, accident de voiture, faux pas dans un escalier, plaquage au rugby — autant de chocs qui peuvent bloquer une SI.</li>
+  <li><strong>Sport asymétrique</strong> : course à pied (très pratiquée à La Réunion : trail, raid), tennis, golf, sports avec impulsion sur une seule jambe.</li>
+  <li><strong>Sédentarité prolongée</strong> : le travail assis 8h par jour raidit les hanches et finit par contraindre la SI.</li>
+  <li><strong>Sacro-iliite inflammatoire</strong> : forme plus rare, liée à des maladies rhumatismales (spondylarthrite). Elle nécessite un suivi médical spécialisé.</li>
+</ul>
+
+<h2>5 exercices pour soulager une douleur sacro-iliaque à la maison</h2>
+<p>Ces exercices sont à pratiquer doucement, sans forcer la douleur. Si l'un d'eux aggrave la gêne, arrêtez et consultez. Idéalement, faites-les une à deux fois par jour, pendant 2 à 3 semaines.</p>
+
+<h3>Exercice 1 — Étirement du piriforme (position du "4")</h3>
+<p>Allongé sur le dos, genoux fléchis, pieds à plat au sol. Croisez la cheville du côté douloureux sur le genou opposé (en formant un "4"). Attrapez la cuisse de la jambe du dessous et tirez-la doucement vers votre poitrine. Vous devez sentir un étirement profond dans la fesse. Tenez <strong>30 secondes</strong>, relâchez, puis répétez 3 fois.</p>
+
+<h3>Exercice 2 — Mobilisation du bassin en bascule</h3>
+<p>Allongé sur le dos, genoux fléchis, pieds à plat. Bascule lentement le bassin en collant le bas du dos au sol (rétroversion), puis relâchez en creusant légèrement le bas du dos (antéversion). Mouvement doux et lent, sans forcer. <strong>10 à 15 répétitions</strong>. Cet exercice "huile" l'articulation et réveille la mobilité du bassin.</p>
+
+<h3>Exercice 3 — Étirement du psoas (fente avant)</h3>
+<p>Mettez-vous en position de fente, le genou douloureux au sol (sur un coussin pour le confort), l'autre pied bien à plat devant vous. Avancez doucement le bassin vers l'avant en gardant le buste droit. Vous devez sentir un étirement à l'avant de la hanche du genou au sol. Tenez <strong>20 à 30 secondes</strong>, 3 fois de chaque côté. Le psoas tendu est l'un des grands responsables des blocages SI.</p>
+
+<h3>Exercice 4 — Pont fessier (renforcement doux)</h3>
+<p>Allongé sur le dos, genoux fléchis, pieds à plat à largeur de hanches. Décollez doucement le bassin du sol en contractant les fessiers, jusqu'à former une ligne droite des épaules aux genoux. Tenez <strong>5 secondes</strong>, redescendez lentement. <strong>10 à 12 répétitions</strong>. Ce renforcement stabilise le bassin et soulage durablement la SI.</p>
+
+<h3>Exercice 5 — Mobilisation en torsion lombaire</h3>
+<p>Allongé sur le dos, bras en croix, genoux fléchis. Laissez tomber les deux genoux ensemble d'un côté en gardant les épaules au sol. Tenez <strong>20 secondes</strong>, revenez au centre, puis de l'autre côté. <strong>3 fois de chaque côté</strong>. Cette torsion douce relâche les tensions globales du bas du dos et redonne de la mobilité au sacrum.</p>
+
+<h2>Quel sport peut-on faire avec une douleur sacro-iliaque ?</h2>
+<p>Bonne nouvelle : on n'arrête pas tout. À privilégier en phase douloureuse :</p>
+<ul>
+  <li><strong>La marche</strong> sur terrain plat (la mobilité douce active la pompe articulaire).</li>
+  <li><strong>La natation</strong> dos crawlé ou crawl, en évitant la brasse qui peut solliciter le bassin.</li>
+  <li><strong>Le vélo d'appartement</strong> en position droite, selle bien réglée.</li>
+  <li><strong>Le yoga doux et le Pilates</strong> avec un encadrant prévenu de votre situation.</li>
+</ul>
+<p>À éviter temporairement : course à pied, sports d'impact, mouvements brusques de torsion (golf, tennis), port de charges asymétriques.</p>
+
+<h2>Comment l'ostéopathie peut soulager une douleur sacro-iliaque</h2>
+<p>L'ostéopathie est particulièrement efficace sur les douleurs sacro-iliaques d'origine <strong>mécanique</strong> (la grande majorité des cas). En tant qu'ostéopathe D.O. à La Possession, voici ce que je propose en consultation :</p>
+<ul>
+  <li><strong>Bilan global du bassin</strong> : évaluation des asymétries, de la mobilité du sacrum, des tensions musculaires associées (psoas, piriforme, fessiers, carré des lombes).</li>
+  <li><strong>Techniques de mobilisation articulaire</strong> du sacrum et des os iliaques pour restaurer un mouvement physiologique.</li>
+  <li><strong>Travail des tensions musculaires</strong> et fasciales qui maintiennent le déséquilibre.</li>
+  <li><strong>Examen des zones associées</strong> : lombaires, hanches, viscères pelviens, pieds — car la SI est rarement isolée.</li>
+  <li><strong>Conseils posturaux et exercices personnalisés</strong> à reprendre chez vous pour ne pas rechuter.</li>
+</ul>
+<p>La majorité des patients que je suis pour ce motif voient une amélioration nette dès la première ou la deuxième séance. Une à trois consultations suffisent généralement, sauf chronicité installée. Pour aller plus loin sur les douleurs lombaires associées, lisez aussi mon article sur la <a href="/blog/lombalgie-chronique-traitement-osteopathe">lombalgie chronique</a>.</p>
+
+<h2>Combien de temps dure une douleur sacro-iliaque ?</h2>
+<p>Cela dépend entièrement de la cause :</p>
+<ul>
+  <li><strong>Blocage aigu mécanique</strong> : 3 à 10 jours en général, accéléré par une consultation ostéo.</li>
+  <li><strong>Sacro-iliaque post-partum</strong> : peut persister 3 à 6 mois sans prise en charge ; quelques séances accélèrent fortement la récupération.</li>
+  <li><strong>Chronique liée à un déséquilibre postural</strong> : tant que la cause reste, la douleur revient. Le travail ostéopathique vise à corriger ce déséquilibre.</li>
+  <li><strong>Inflammatoire (sacro-iliite)</strong> : prise en charge médicale spécialisée nécessaire en parallèle.</li>
+</ul>
+
+<h2>Quand consulter en urgence ?</h2>
+<p>Consultez sans attendre votre médecin si la douleur s'accompagne de :</p>
+<ul>
+  <li>Fièvre, sueurs nocturnes ou perte de poids inexpliquée</li>
+  <li>Engourdissement de la zone périnéale ou troubles urinaires/intestinaux récents</li>
+  <li>Perte de force dans la jambe</li>
+  <li>Douleur survenue après un traumatisme important (chute de hauteur, accident)</li>
+</ul>
+<p>Ces signes peuvent évoquer une cause sérieuse qui nécessite un avis médical immédiat.</p>
+
+<h2>Prendre rendez-vous à La Possession (La Réunion)</h2>
+<p>Si vous souffrez d'une douleur sacro-iliaque, que ce soit après un effort, une grossesse, ou de manière récurrente sans cause évidente, je vous reçois à mon cabinet au sein de la Maison de Santé Sakisoigne, à La Possession (974). La consultation dure 45 à 60 minutes et inclut bilan complet, traitement et conseils personnalisés.</p>
+<p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
