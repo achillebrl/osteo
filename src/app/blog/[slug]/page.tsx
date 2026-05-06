@@ -53,17 +53,45 @@ export default async function ArticlePage({ params }: Props) {
   const article = getArticleBySlug(slug);
   if (!article) notFound();
 
-  const jsonLd = {
+  const articleJsonLd = {
     "@context": "https://schema.org",
-    "@type": "Article",
+    "@type": "MedicalWebPage",
     headline: article.title,
+    name: article.title,
     description: article.description,
     datePublished: article.date,
+    dateModified: article.dateModified ?? article.date,
+    inLanguage: "fr-FR",
+    about: {
+      "@type": "MedicalCondition",
+      name: article.keywords[0],
+    },
+    audience: {
+      "@type": "PeopleAudience",
+      geographicArea: {
+        "@type": "AdministrativeArea",
+        name: "La Réunion",
+      },
+    },
     author: {
       "@type": "Person",
       name: "Vincent Magoni",
       jobTitle: "Ostéopathe D.O.",
       url: BASE_URL,
+      sameAs: [
+        "https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni",
+      ],
+      worksFor: {
+        "@type": "MedicalBusiness",
+        name: "Cabinet Vincent Magoni — Maison de Santé Sakisoigne",
+        address: {
+          "@type": "PostalAddress",
+          addressLocality: "La Possession",
+          postalCode: "97419",
+          addressRegion: "La Réunion",
+          addressCountry: "RE",
+        },
+      },
     },
     publisher: {
       "@type": "MedicalBusiness",
@@ -74,6 +102,19 @@ export default async function ArticlePage({ params }: Props) {
     mainEntityOfPage: `${BASE_URL}/blog/${article.slug}`,
   };
 
+  const faqJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: article.faq.map((item) => ({
+      "@type": "Question",
+      name: item.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: item.answer,
+      },
+    })),
+  };
+
   return (
     <>
       <Navbar />
@@ -81,7 +122,13 @@ export default async function ArticlePage({ params }: Props) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c"),
+            __html: JSON.stringify(articleJsonLd).replace(/</g, "\\u003c"),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(faqJsonLd).replace(/</g, "\\u003c"),
           }}
         />
 
@@ -120,11 +167,60 @@ export default async function ArticlePage({ params }: Props) {
             </p>
           </header>
 
+          {/* TL;DR — réponse rapide pour AI Overviews / GEO */}
+          <aside
+            className="mb-12 rounded-2xl p-6 border-l-4"
+            style={{
+              backgroundColor: "white",
+              borderColor: "var(--bordeaux)",
+            }}
+            aria-label="Réponse rapide"
+          >
+            <p
+              className="text-xs font-semibold uppercase tracking-widest mb-2"
+              style={{ color: "var(--bordeaux)" }}
+            >
+              Réponse rapide
+            </p>
+            <p className="text-base text-gray-800 leading-relaxed m-0">
+              {article.tldr}
+            </p>
+          </aside>
+
           {/* Content */}
           <div
             className="prose prose-lg max-w-none article-content"
             dangerouslySetInnerHTML={{ __html: article.content }}
           />
+
+          {/* FAQ — visible et structurée pour SEO/GEO */}
+          <section className="mt-16" aria-label="Questions fréquentes">
+            <h2
+              className="text-2xl md:text-3xl font-bold mb-8"
+              style={{ fontFamily: "var(--font-playfair)", color: "var(--noir)" }}
+            >
+              Questions fréquentes
+            </h2>
+            <div className="flex flex-col gap-5">
+              {article.faq.map((item, idx) => (
+                <details
+                  key={idx}
+                  className="rounded-xl bg-white p-5 shadow-sm"
+                >
+                  <summary
+                    className="font-semibold cursor-pointer list-none flex justify-between items-start gap-4"
+                    style={{ color: "var(--noir)" }}
+                  >
+                    <span>{item.question}</span>
+                    <span style={{ color: "var(--bordeaux)" }}>+</span>
+                  </summary>
+                  <p className="mt-3 text-gray-700 leading-relaxed text-sm">
+                    {item.answer}
+                  </p>
+                </details>
+              ))}
+            </div>
+          </section>
 
           {/* CTA */}
           <div

@@ -1,11 +1,19 @@
+export interface FaqItem {
+  question: string;
+  answer: string;
+}
+
 export interface Article {
   slug: string;
   title: string;
   description: string;
   date: string;
+  dateModified?: string;
   readTime: number;
   keywords: string[];
   excerpt: string;
+  tldr: string;
+  faq: FaqItem[];
   content: string;
 }
 
@@ -28,6 +36,30 @@ export const articles: Article[] = [
     ],
     excerpt:
       "La sciatique touche des millions de personnes et peut rendre les gestes du quotidien insupportables. En tant qu'ostéopathe à La Possession (La Réunion), je vous explique comment identifier, calmer et soulager durablement cette douleur.",
+    tldr:
+      "Pour soulager une sciatique : adopter une position antalgique (allongé jambes fléchies à 90°), alterner froid puis chaud, marcher doucement plutôt que rester immobile, et étirer le piriforme. L'ostéopathie est très efficace sur les sciatiques d'origine musculaire ou posturale (1 à 3 séances). Consultez en urgence si perte de force, troubles urinaires ou engourdissement périnéal.",
+    faq: [
+      {
+        question: "Comment soulager rapidement une sciatique ?",
+        answer:
+          "Allongez-vous sur le dos, jambes relevées sur un coussin pour former un angle de 90° aux hanches et genoux. Appliquez du froid 15 min trois fois par jour pendant 48 h, puis passez à la chaleur. Marchez doucement plutôt que de rester immobile, et évitez la position assise prolongée. Un anti-inflammatoire peut aider en phase aiguë, sur avis médical.",
+      },
+      {
+        question: "Combien de temps dure une sciatique ?",
+        answer:
+          "Une sciatique aiguë mécanique dure en moyenne 4 à 6 semaines sans traitement. Avec une prise en charge ostéopathique adaptée, l'amélioration est souvent perceptible dès la première ou deuxième séance, et la résolution complète intervient en 1 à 3 séances pour les formes musculaires ou posturales.",
+      },
+      {
+        question: "Quel exercice fait passer une sciatique ?",
+        answer:
+          "L'étirement du piriforme en position allongée (cheville croisée sur le genou opposé, on tire la cuisse vers la poitrine, 30 secondes, 3 fois) est l'exercice le plus efficace sur les sciatiques par syndrome du piriforme. À compléter par des mobilisations lombaires douces et 20 à 30 minutes de marche quotidienne.",
+      },
+      {
+        question: "Quand consulter un ostéopathe pour une sciatique ?",
+        answer:
+          "Consultez un ostéopathe si la sciatique persiste plus de quelques jours, est récidivante, liée à une grossesse, survient après un effort, ou résiste à un traitement médical de plus de 3 à 4 semaines. En revanche, en cas de perte de force, troubles sphinctériens ou anesthésie en selle, consultez en urgence un médecin.",
+      },
+    ],
     content: `
 <h2>Qu'est-ce que la sciatique ?</h2>
 <p>La sciatique n'est pas une maladie en soi, mais un <strong>symptôme</strong> : une douleur qui suit le trajet du nerf sciatique, le plus long et le plus volumineux nerf du corps humain. Ce nerf part du bas du dos, traverse la fesse, descend le long de la cuisse, du mollet et peut atteindre le pied.</p>
@@ -132,6 +164,30 @@ export const articles: Article[] = [
     ],
     excerpt:
       "La lombalgie — douleur en bas du dos — est la première cause de consultation en ostéopathie. Aiguë ou chronique, elle peut devenir invalidante si elle n'est pas prise en charge correctement. En tant qu'ostéopathe à La Possession, voici ce que je vois chaque semaine et comment j'aborde ces douleurs lombaires.",
+    tldr:
+      "Le meilleur traitement naturel d'une lombalgie associe : mouvement quotidien (marche 30 min), étirements doux du psoas et des fessiers, application de chaleur, et ostéopathie pour traiter les blocages mécaniques. Le repos prolongé aggrave la douleur. 2 à 4 séances suffisent en général. Consultez votre médecin en cas de fièvre, perte de poids ou sciatique sévère.",
+    faq: [
+      {
+        question: "Quel est le meilleur traitement naturel pour une lombalgie ?",
+        answer:
+          "Combiner trois leviers : maintenir une activité physique douce (marche 30 min/jour, natation, vélo), appliquer de la chaleur humide 15 à 20 min sur la zone tendue, et consulter un ostéopathe pour libérer les blocages articulaires et musculaires. Le repos au lit prolongé est contre-productif.",
+      },
+      {
+        question: "Que faire pour un lumbago bloquant ?",
+        answer:
+          "En phase aiguë, ne restez pas couché plus de 24 à 48 heures. Marchez doucement, dormez en chien de fusil sur le côté avec un coussin entre les genoux, appliquez du chaud, et prenez un antalgique simple si besoin. Consultez un ostéopathe dans les 7 jours pour accélérer la levée du blocage.",
+      },
+      {
+        question: "Combien de séances d'ostéopathie pour une lombalgie ?",
+        answer:
+          "Pour une lombalgie aiguë récente, 1 à 2 séances suffisent souvent. Pour une lombalgie chronique installée depuis plus de 3 mois, comptez 3 à 5 séances espacées de 2 à 3 semaines, complétées par un travail postural et des exercices à domicile.",
+      },
+      {
+        question: "Quand s'inquiéter d'une lombalgie ?",
+        answer:
+          "Consultez votre médecin sans attendre en cas de fièvre, perte de poids inexpliquée, douleur nocturne intense, perte de force dans une jambe, troubles urinaires ou anesthésie en selle. Ces signes peuvent évoquer une cause sérieuse nécessitant un bilan médical urgent.",
+      },
+    ],
     content: `
 <h2>Qu'est-ce que la lombalgie ?</h2>
 <p>La lombalgie désigne toute douleur localisée dans la région lombaire, c'est-à-dire le bas du dos, entre les dernières côtes et le haut des fesses. C'est l'une des plaintes les plus fréquentes en médecine — et la première cause d'invalidité chez les personnes de moins de 45 ans.</p>
@@ -262,6 +318,30 @@ export const articles: Article[] = [
     ],
     excerpt:
       "Les migraines et maux de tête touchent plus d'une personne sur cinq. Avant de multiplier les antalgiques, il existe une approche naturelle, souvent très efficace : l'ostéopathie. En tant qu'ostéopathe à La Possession (La Réunion), je reçois chaque semaine des patients libérés de leurs crises en quelques séances.",
+    tldr:
+      "L'ostéopathie est efficace sur la majorité des migraines et maux de tête d'origine cervicale, posturale ou tensionnelle : la fréquence et l'intensité diminuent dès 1 à 3 séances. Pour soulager une crise rapidement : pièce sombre, hydratation, compresse fraîche sur la nuque, respiration lente. À ne jamais négliger : maux de tête brutaux, fièvre élevée, troubles neurologiques nouveaux.",
+    faq: [
+      {
+        question: "Comment soulager une migraine naturellement ?",
+        answer:
+          "Isolez-vous dans une pièce calme et sombre, appliquez une compresse fraîche sur la nuque ou le front, hydratez-vous régulièrement, et pratiquez une respiration lente (inspiration 4 sec / expiration 6 sec). Une auto-massage doux des trapèzes et de la base du crâne soulage les céphalées de tension.",
+      },
+      {
+        question: "L'ostéopathie est-elle efficace contre les migraines ?",
+        answer:
+          "Oui, surtout sur les migraines d'origine cervicogénique, tensionnelle ou liée à un dysfonctionnement de l'ATM. Les études cliniques rapportent une réduction de 30 à 50 % de la fréquence des crises après 3 à 4 séances. L'ostéopathie est moins efficace sur la migraine pure d'origine vasculaire — où elle reste un complément utile.",
+      },
+      {
+        question: "Combien de séances d'ostéopathie pour une migraine ?",
+        answer:
+          "1 à 3 séances espacées de 3 à 4 semaines suffisent généralement pour évaluer l'efficacité. Si la fréquence des crises diminue après la première séance, un suivi à 6 mois permet de stabiliser durablement. Sans amélioration après 3 séances, il faut explorer d'autres pistes (neurologue, dentiste pour l'ATM).",
+      },
+      {
+        question: "Quels sont les déclencheurs fréquents des migraines ?",
+        answer:
+          "Les principaux déclencheurs sont : le stress, le manque ou l'excès de sommeil, certains aliments (chocolat, fromage affiné, alcool, glutamate), les variations hormonales, la déshydratation, la lumière intense, et les tensions cervicales liées à une mauvaise posture (écran, oreiller inadapté).",
+      },
+    ],
     content: `
 <h2>Migraine, céphalée, mal de tête : de quoi parle-t-on exactement ?</h2>
 <p>Avant de chercher à soulager une douleur de tête, il est essentiel de bien la nommer — car les causes (et donc les solutions) ne sont pas les mêmes selon le type. Dans ma pratique à La Possession, je vois principalement trois grandes familles :</p>
@@ -417,6 +497,30 @@ export const articles: Article[] = [
     ],
     excerpt:
       "L'articulation sacro-iliaque est une cause fréquente — et souvent méconnue — de douleur lombaire basse. En tant qu'ostéopathe à La Possession (La Réunion), je vous explique comment la reconnaître, 5 exercices pour la soulager à la maison, et quand l'ostéopathie peut faire la différence.",
+    tldr:
+      "Une douleur sacro-iliaque se localise au-dessus de la fesse, aggravée par la position assise prolongée et le passage assis-debout. Les 5 exercices clés : étirement du piriforme, bascule de bassin, étirement du psoas, pont fessier, torsion lombaire douce. L'ostéopathie résout la majorité des cas en 1 à 3 séances. Privilégiez la marche, évitez course et sports d'impact pendant la phase douloureuse.",
+    faq: [
+      {
+        question: "Comment reconnaître une douleur sacro-iliaque ?",
+        answer:
+          "Douleur basse au-dessus de la fesse, le plus souvent unilatérale, aggravée par la position assise prolongée, le passage de la position assise à debout, et le retournement dans le lit. La douleur peut irradier dans la fesse ou l'arrière de la cuisse mais ne descend généralement pas jusqu'au pied (contrairement à une vraie sciatique).",
+      },
+      {
+        question: "Quels exercices pour soulager une douleur sacro-iliaque ?",
+        answer:
+          "Cinq exercices sont particulièrement efficaces : étirement du piriforme en position du \"4\" allongé (30 sec × 3), bascule du bassin (10 à 15 répétitions), étirement du psoas en fente (20 à 30 sec × 3), pont fessier (10 à 12 répétitions), torsion lombaire douce (20 sec de chaque côté × 3). À pratiquer une à deux fois par jour pendant 2 à 3 semaines.",
+      },
+      {
+        question: "Combien de temps dure une douleur sacro-iliaque ?",
+        answer:
+          "Un blocage mécanique aigu dure 3 à 10 jours. Une sacro-iliaque post-partum peut persister 3 à 6 mois sans prise en charge. Une forme chronique liée à un déséquilibre postural reste tant que la cause n'est pas corrigée. L'ostéopathie accélère la récupération et permet d'identifier le déséquilibre de fond.",
+      },
+      {
+        question: "Quel sport en cas de douleur sacro-iliaque ?",
+        answer:
+          "Privilégiez la marche sur terrain plat, la natation (dos crawlé ou crawl, éviter la brasse), le vélo en position droite, le yoga doux et le Pilates. Évitez temporairement la course à pied, les sports d'impact, le golf, le tennis et le port de charges asymétriques tant que la douleur est présente.",
+      },
+    ],
     content: `
 <h2>Qu'est-ce que l'articulation sacro-iliaque ?</h2>
 <p>L'articulation sacro-iliaque (SI) relie le <strong>sacrum</strong> (l'os triangulaire à la base de la colonne vertébrale) à <strong>l'ilium</strong> (l'os du bassin). Vous en avez deux : une à droite, une à gauche, situées de part et d'autre du bas du dos, dans cette zone de "fossettes" au-dessus des fesses.</p>
