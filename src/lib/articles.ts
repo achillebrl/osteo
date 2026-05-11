@@ -613,6 +613,184 @@ export const articles: Article[] = [
 <p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
 `,
   },
+  {
+    slug: "hernie-discale-osteopathie-soulager",
+    title: "Hernie discale et ostéopathie : peut-on vraiment être soulagé ?",
+    description:
+      "Hernie discale : l'ostéopathie peut-elle aider ? Découvrez ce qu'un ostéopathe peut faire (ou non), les techniques utilisées, les contre-indications et les bons réflexes. Cabinet à La Possession, La Réunion (974).",
+    date: "2026-05-11",
+    readTime: 9,
+    keywords: [
+      "hernie discale ostéopathie",
+      "hernie discale traitement",
+      "soulager hernie discale",
+      "hernie discale lombaire",
+      "hernie discale L5-S1",
+      "ostéopathe hernie discale La Réunion",
+      "ostéopathe hernie discale La Possession",
+      "ostéopathe La Possession 974",
+    ],
+    excerpt:
+      "L'ostéopathie a-t-elle sa place dans le traitement d'une hernie discale ? La réponse est nuancée : oui dans la grande majorité des cas non compliqués, mais avec des règles strictes à respecter. En tant qu'ostéopathe à La Possession, je vous explique exactement ce qu'on peut — et ne peut pas — attendre d'une prise en charge ostéopathique d'une hernie discale.",
+    tldr:
+      "L'ostéopathie peut soulager une hernie discale non compliquée en agissant sur les tensions musculaires, les blocages articulaires et la posture autour du disque atteint — sans chercher à « remettre » le disque. 3 à 5 séances sont en général nécessaires. Elle est contre-indiquée en cas de déficit neurologique (perte de force, troubles urinaires, anesthésie en selle) : ces signes imposent une consultation médicale d'urgence. L'ostéopathie ne remplace pas la kinésithérapie ni la chirurgie quand elles sont indiquées — elle les complète.",
+    faq: [
+      {
+        question: "Est-ce qu'un ostéopathe peut soulager une hernie discale ?",
+        answer:
+          "Oui, dans la grande majorité des cas non compliqués. L'ostéopathe ne « remet pas » le disque — la hernie elle-même est anatomique. Il agit sur les tensions musculaires, les blocages vertébraux adjacents, la posture et la mobilité du bassin, ce qui réduit la compression sur la racine nerveuse irritée. 60 à 80 % des patients ressentent une amélioration nette en 3 à 5 séances. L'ostéopathie est en revanche contre-indiquée en cas de déficit neurologique (perte de force, troubles urinaires) qui imposent une consultation médicale en urgence.",
+      },
+      {
+        question: "Quel professionnel aller voir pour une hernie discale ?",
+        answer:
+          "Premier réflexe : le médecin généraliste pour confirmer le diagnostic, prescrire les examens (IRM) si nécessaire, et adapter le traitement antalgique. En seconde intention, l'ostéopathe et le kinésithérapeute travaillent en complémentarité : l'ostéopathe lève les blocages mécaniques rapidement, le kiné renforce et stabilise la zone sur le long terme. Le rhumatologue ou le neurochirurgien n'interviennent qu'en cas de douleur résistante, de déficit ou d'urgence neurologique.",
+      },
+      {
+        question: "Comment aider une hernie discale à se résorber ?",
+        answer:
+          "Une hernie discale se résorbe naturellement dans 70 % des cas en 6 à 12 mois — le corps « digère » progressivement le matériel discal hernié. Pour favoriser cette résorption : maintenir une activité physique douce (marche, natation, vélo), éviter le repos prolongé, renforcer le gainage profond, corriger la posture et les contraintes mécaniques. L'ostéopathie aide en réduisant les compensations musculaires qui entretiennent l'inflammation locale.",
+      },
+      {
+        question: "Quand ne pas aller chez l'ostéopathe avec une hernie discale ?",
+        answer:
+          "L'ostéopathie est formellement contre-indiquée en cas de signes neurologiques de gravité : perte de force soudaine dans une jambe, troubles urinaires ou intestinaux, anesthésie en selle (zone du périnée), ou paralysie progressive. Ces signes évoquent un syndrome de la queue de cheval ou une compression médullaire — urgence chirurgicale. Elle est également déconseillée immédiatement après une chirurgie discale ou pendant une poussée hyperalgique avec hospitalisation en cours.",
+      },
+      {
+        question: "Ostéopathie ou kinésithérapie pour une hernie discale ?",
+        answer:
+          "Les deux approches ne s'opposent pas, elles se complètent. L'ostéopathe agit plus globalement et plus vite sur les blocages mécaniques et les tensions associées — utile en phase aiguë et subaiguë. Le kinésithérapeute travaille en profondeur sur le renforcement, la rééducation posturale et la stabilité du rachis — indispensable sur le long terme. L'approche idéale combine souvent 3 à 5 séances d'ostéopathie en début de prise en charge, puis un programme de kiné suivi sur plusieurs semaines.",
+      },
+      {
+        question: "Combien de temps pour guérir d'une hernie discale ?",
+        answer:
+          "Une hernie discale lombaire évolue favorablement dans 90 % des cas en 6 à 12 semaines avec un traitement conservateur (antalgiques, ostéopathie, kinésithérapie, hygiène de vie). La douleur diminue généralement nettement en 4 à 6 semaines. La résorption anatomique complète peut prendre 6 à 12 mois. Seuls 5 à 10 % des patients nécessitent une intervention chirurgicale, en cas de douleur invalidante persistant au-delà de 6 à 8 semaines ou de déficit neurologique progressif.",
+      },
+    ],
+    content: `
+<h2>Hernie discale : de quoi parle-t-on exactement ?</h2>
+<p>Entre chaque vertèbre se trouve un <strong>disque intervertébral</strong>, sorte de petit amortisseur fibreux composé d'un anneau périphérique solide (l'annulus) et d'un noyau central gélatineux (le nucleus pulposus). Ces disques absorbent les chocs et permettent la mobilité de la colonne.</p>
+<p>Avec l'âge, les efforts répétés, les mauvaises postures ou un traumatisme, l'anneau peut se fissurer. Une partie du noyau gélatineux peut alors faire saillie vers l'extérieur : c'est la <strong>hernie discale</strong>. Lorsque cette saillie comprime une racine nerveuse à sa sortie de la colonne, elle peut provoquer une douleur irradiante caractéristique (sciatique, cruralgie, névralgie cervico-brachiale selon l'étage atteint).</p>
+<p>Les localisations les plus fréquentes sont :</p>
+<ul>
+  <li><strong>Hernie discale L4-L5 ou L5-S1</strong> : la plus courante, responsable de la grande majorité des sciatiques mécaniques</li>
+  <li><strong>Hernie discale cervicale C5-C6 ou C6-C7</strong> : douleur dans la nuque irradiant vers le bras</li>
+  <li><strong>Hernie discale dorsale</strong> : beaucoup plus rare, souvent bien tolérée</li>
+</ul>
+<p>En consultation à mon cabinet de La Possession, je vois principalement des hernies lombaires — souvent chez des patients de 30 à 55 ans, dans des métiers physiques (BTP, soins, agriculture) ou au contraire très sédentaires.</p>
+
+<h2>L'ostéopathie peut-elle vraiment aider en cas de hernie discale ?</h2>
+<p>C'est <strong>la</strong> question qui revient le plus souvent en consultation. Et la réponse honnête est : <strong>oui, dans la grande majorité des cas non compliqués</strong>.</p>
+<p>Il faut bien comprendre ce que l'ostéopathie peut faire — et ce qu'elle ne peut pas faire.</p>
+
+<h3>Ce qu'un ostéopathe ne fait pas</h3>
+<p>Un ostéopathe <strong>ne « remet » pas un disque hernié</strong>. La hernie est une lésion anatomique : une fois que du matériel discal est sorti, on ne le repousse pas mécaniquement à l'intérieur. C'est physiologiquement impossible et, en cas de manipulation brutale, potentiellement dangereux.</p>
+<p>Vous trouverez sur internet des sites affirmant le contraire — méfiez-vous. Un ostéopathe sérieux ne promet pas de « réparer » votre hernie. Il propose autre chose, qui est en réalité bien plus efficace que ce qu'on imagine.</p>
+
+<h3>Ce que l'ostéopathie fait concrètement</h3>
+<p>La douleur d'une hernie discale n'est jamais uniquement liée à la compression nerveuse. Elle résulte d'un <strong>cercle vicieux</strong> :</p>
+<ol>
+  <li>Le disque hernié irrite la racine nerveuse → inflammation locale</li>
+  <li>Le corps adopte des compensations posturales pour soulager → contractures musculaires</li>
+  <li>Les muscles contracturés (psoas, carré des lombes, fessiers, ischio-jambiers) tirent sur les vertèbres → blocages articulaires</li>
+  <li>Ces blocages amplifient la compression nerveuse et l'inflammation → la douleur s'auto-entretient</li>
+</ol>
+<p>L'ostéopathie intervient à <strong>tous les étages de ce cercle vicieux</strong>, sauf le disque lui-même. Concrètement :</p>
+<ul>
+  <li><strong>Relâcher les muscles contracturés</strong> qui tirent sur la zone (psoas, piriforme, paravertébraux)</li>
+  <li><strong>Libérer les blocages articulaires</strong> des vertèbres adjacentes au disque atteint</li>
+  <li><strong>Rééquilibrer le bassin et le sacrum</strong>, dont les déséquilibres aggravent souvent la compression</li>
+  <li><strong>Travailler les fascias et la dure-mère</strong> (membrane qui entoure les nerfs) pour réduire les tensions à distance</li>
+  <li><strong>Corriger la posture globale</strong> pour répartir les contraintes mécaniques</li>
+</ul>
+<p>Résultat : la douleur diminue, la mobilité revient, et surtout, on évite l'installation d'une douleur chronique post-hernie qui peut durer des années.</p>
+
+<h2>Quels résultats attendre ?</h2>
+<p>Sur les hernies discales lombaires non compliquées prises en charge tôt, les données cliniques et mon expérience au cabinet convergent :</p>
+<ul>
+  <li><strong>60 à 80 % des patients</strong> ressentent une amélioration nette dès les 2 ou 3 premières séances</li>
+  <li>La douleur radiculaire (sciatique, cruralgie) diminue généralement <strong>plus vite</strong> que la douleur lombaire isolée</li>
+  <li>L'amélioration globale s'étale sur <strong>3 à 6 semaines</strong> avec 3 à 5 séances espacées de 2 à 3 semaines</li>
+  <li>La <strong>résorption anatomique</strong> du fragment hernié (visible sur IRM de contrôle) prend en moyenne 6 à 12 mois — pendant ce temps, l'ostéopathie maintient un terrain favorable</li>
+</ul>
+<p>Les cas où l'ostéopathie n'apporte pas de résultat suffisant sont essentiellement les hernies très volumineuses, les hernies anciennes très calcifiées, ou celles associées à un canal lombaire étroit.</p>
+
+<h2>Hernie discale : quand ne pas aller chez l'ostéopathe ?</h2>
+<p>L'ostéopathie est <strong>formellement contre-indiquée</strong> ou doit être différée dans plusieurs situations.</p>
+
+<h3>Signes de gravité neurologique : urgence médicale</h3>
+<p>Ces signes imposent une consultation médicale ou hospitalière <strong>immédiate</strong>, pas une séance d'ostéopathie :</p>
+<ul>
+  <li><strong>Anesthésie en selle</strong> : perte de sensibilité au niveau du périnée et des organes génitaux</li>
+  <li><strong>Troubles urinaires ou intestinaux</strong> récents : rétention urinaire, incontinence, perte du contrôle des selles</li>
+  <li><strong>Perte de force soudaine</strong> dans une ou les deux jambes (pied tombant, difficulté à monter les escaliers)</li>
+  <li><strong>Paralysie progressive</strong> sur quelques heures à quelques jours</li>
+</ul>
+<p>Ces signes évoquent un <strong>syndrome de la queue de cheval</strong> ou une compression médullaire — c'est une urgence chirurgicale qui peut laisser des séquelles définitives si elle n'est pas opérée dans les heures qui suivent.</p>
+
+<h3>Autres situations à différer</h3>
+<ul>
+  <li><strong>Phase hyperalgique aiguë</strong> avec douleur insupportable : il vaut mieux d'abord obtenir une accalmie médicamenteuse avant la séance</li>
+  <li><strong>Période post-opératoire immédiate</strong> (moins de 6 semaines après chirurgie discale)</li>
+  <li><strong>Infection rachidienne</strong> (spondylodiscite) ou suspicion de cause non mécanique (fièvre, perte de poids, douleur nocturne intense)</li>
+  <li><strong>Ostéoporose sévère</strong> : les techniques sont alors strictement adaptées et les manipulations à haute vélocité évitées</li>
+</ul>
+<p>Un ostéopathe formé identifie ces drapeaux rouges dès l'anamnèse et l'examen clinique. C'est précisément pour cela qu'il est important de consulter un praticien diplômé D.O., capable de vous réorienter immédiatement si nécessaire.</p>
+
+<h2>Comment se déroule une consultation ostéopathique pour une hernie discale ?</h2>
+<p>Une consultation à mon cabinet de La Possession dure entre 45 minutes et 1 heure. Voici comment je procède.</p>
+
+<h3>1. Anamnèse et bilan</h3>
+<p>Je commence par un interrogatoire détaillé : circonstances d'apparition, type de douleur, irradiation, facteurs aggravants et soulageants, antécédents, examens déjà réalisés (IRM, radio, EMG), traitements en cours. Si vous avez une IRM, apportez-la — elle m'aide à adapter précisément l'approche.</p>
+<p>Je réalise ensuite un examen clinique complet :</p>
+<ul>
+  <li>Tests neurologiques (force, sensibilité, réflexes) pour vérifier l'absence de déficit</li>
+  <li>Tests orthopédiques (Lasègue, Léri, test de la queue de cheval)</li>
+  <li>Analyse posturale, palpation segmentaire, tests de mobilité</li>
+</ul>
+
+<h3>2. Traitement adapté</h3>
+<p>Selon ce que je trouve, j'utilise un panel de techniques <strong>douces et adaptées</strong> :</p>
+<ul>
+  <li><strong>Techniques fonctionnelles et de relâchement myofascial</strong> : indolores, idéales en phase aiguë</li>
+  <li><strong>Mobilisations articulaires douces</strong> : pour restaurer la mobilité sans contrainte sur le disque</li>
+  <li><strong>Techniques crâniennes et viscérales</strong> : pour libérer les tensions à distance qui entretiennent l'irritation</li>
+  <li><strong>Manipulations structurelles (thrust)</strong> : uniquement sur les segments vertébraux non concernés par la hernie, jamais directement sur l'étage hernié</li>
+</ul>
+<p>Le travail est progressif. Les premières séances sont prudentes et privilégient le relâchement. À mesure que la douleur recule, on peut intensifier le travail postural et la mobilisation.</p>
+
+<h3>3. Conseils personnalisés</h3>
+<p>Je termine systématiquement par des conseils adaptés à votre quotidien : posture au travail, ergonomie de la voiture, port de charges, exercices d'étirement et de gainage à faire à la maison, sommeil. À La Réunion, j'adapte aussi aux activités locales — trail, surf, jardinage, travail au soleil et à la chaleur.</p>
+
+<h2>Exercices à faire (ou à éviter) en cas de hernie discale</h2>
+
+<h3>Exercices recommandés</h3>
+<ul>
+  <li><strong>Marche quotidienne</strong> : 20 à 30 minutes à plat, c'est le meilleur exercice pour une hernie. La pompe discale activée par la marche aide à la nutrition du disque et à la résorption.</li>
+  <li><strong>Natation</strong> (sauf brasse coulée) : le dos crawlé est idéal car il décharge la colonne tout en mobilisant les muscles profonds.</li>
+  <li><strong>Étirement doux du psoas</strong> : en fente avant basse, genou arrière au sol, 30 secondes de chaque côté.</li>
+  <li><strong>Gainage en planche basse</strong> (en appui sur les genoux d'abord) : renforce le transverse, muscle stabilisateur central du rachis.</li>
+  <li><strong>Mobilisation lombaire douce</strong> : sur le dos, genoux fléchis, basculer doucement le bassin d'avant en arrière (rétroversion / antéversion).</li>
+</ul>
+
+<h3>Exercices et gestes à éviter</h3>
+<ul>
+  <li><strong>Soulever des charges lourdes en flexion</strong> du tronc — toujours plier les genoux et garder le dos droit</li>
+  <li><strong>Mouvements en hyperflexion ou hyperextension</strong> (toucher ses pieds debout, pont gymnique)</li>
+  <li><strong>Rotations forcées</strong> du tronc (mouvements de golf, certains exercices de musculation avec charge)</li>
+  <li><strong>Course à pied intensive</strong>, sauts répétés, équitation, en phase aiguë</li>
+  <li><strong>Repos strict au lit</strong> au-delà de 48 h — c'est l'erreur la plus fréquente, et qui aggrave l'évolution</li>
+</ul>
+
+<h2>Hernie discale et sciatique : la combinaison la plus fréquente</h2>
+<p>Une hernie discale L4-L5 ou L5-S1 comprime quasi systématiquement le nerf sciatique. La prise en charge ostéopathique de la hernie inclut donc le traitement spécifique de la sciatique associée. Si c'est votre cas, vous pouvez aussi consulter mon article dédié pour <a href="/blog/comment-soulager-une-sciatique">soulager une sciatique au quotidien</a>, qui complète celui-ci.</p>
+<p>De même, beaucoup de hernies discales s'inscrivent dans un terrain de <a href="/blog/lombalgie-chronique-traitement-osteopathe">lombalgie chronique</a> qu'il faut traiter conjointement pour éviter les récidives.</p>
+
+<h2>Prendre rendez-vous à La Possession (La Réunion)</h2>
+<p>Si vous avez un diagnostic de hernie discale (lombaire, cervicale, dorsale) ou si vous suspectez une hernie devant des douleurs irradiantes persistantes, je vous reçois en consultation au cabinet de la Maison de Santé Sakisoigne, à La Possession (97419). Le cabinet est situé dans le nord de La Réunion, accessible facilement depuis Saint-Denis, Le Port, La Montagne, Saint-Paul et Le Plate-Saint-Leu.</p>
+<p>Si vous avez une IRM ou un compte-rendu médical, apportez-les — ils m'aideront à adapter précisément le travail à votre situation.</p>
+<p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {

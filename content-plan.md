@@ -97,11 +97,12 @@
 - [x] **#2** — `lombalgie-chronique-traitement-osteopathe` — 16/04/2026
 - [x] **#5** — `migraine-mal-de-tete-osteopathie` — 30/04/2026 *(publié en avance, indexé 30/04 — position 11)*
 - [x] **#4** — `douleur-sacro-iliaque-exercices-osteopathie` — 06/05/2026 *(volume FR 880/mo "exercices" + 5400/mo principal, KD LOW, RE 40+10/mo)*
+- [x] **#6** — `hernie-discale-osteopathie-soulager` — 11/05/2026 *(KD=1 FR, intent informationnel, 0 site Réunion top 10, angle pro nuancé)*
 - [ ] **#3** — `torticolis-traitement-osteopathe` — *à backfill (sauté)*
 
-## Audit GSC — semaine 29/04 → 06/05/2026
+## Audit GSC — semaine 04/05 → 11/05/2026
 
-- ✅ **Migraine indexée** le 30/04 → position 11, 1 impression
-- ✅ **Lombalgie** → 4 impressions, position 14.5 (en progression)
-- ✅ **Home** → 28 impressions, 1 click, position 1 sur "ostéopathe", "ostéopathe la possession 974"
-- ⚠️ `/blog` → toujours **"Discovered, not indexed"** depuis le push initial (Google sait, n'a pas crawlé) — re-push tenté
+- ✅ **Home** stable position 1 sur "ostéopathe la possession", "ostéopathe la possession 974", "ostéo ouvert le samedi", "ostéopathe vincent"
+- ✅ **Migraine** → impressions sur "céphalées de tension" (position 35.7, 6 impressions) — en montée
+- ⚠️ **CTR globale** : 0 click sur 22 impressions cette semaine (positions élevées sauf home) → besoin de descendre les positions en page 1-2 sur les requêtes blog
+- 📊 Next : article #6 hernie discale pour densifier le maillage thématique dos/sciatique/lombalgie/sacro-iliaque/hernie
