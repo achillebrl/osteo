@@ -97,12 +97,15 @@
 - [x] **#2** — `lombalgie-chronique-traitement-osteopathe` — 16/04/2026
 - [x] **#5** — `migraine-mal-de-tete-osteopathie` — 30/04/2026 *(publié en avance, indexé 30/04 — position 11)*
 - [x] **#4** — `douleur-sacro-iliaque-exercices-osteopathie` — 06/05/2026 *(volume FR 880/mo "exercices" + 5400/mo principal, KD LOW, RE 40+10/mo)*
-- [x] **#6** — `hernie-discale-osteopathie-soulager` — 11/05/2026 *(KD=1 FR, intent informationnel, 0 site Réunion top 10, angle pro nuancé)*
-- [ ] **#3** — `torticolis-traitement-osteopathe` — *à backfill (sauté)*
+- [x] **#6** — `hernie-discale-osteopathie-soulager` — 11/05/2026 *(KD=1 FR, indexé en 4 jours, Rich Results FAQ validés)*
+- [x] **#3 + #7 fusionnés** — `cervicalgie-torticolis-cou-bloque-osteopathie` — 18/05/2026 *(KD=1 torticolis, intent informationnel cervicalgie, 0 site Réunion top 10, backfill #3)*
 
-## Audit GSC — semaine 04/05 → 11/05/2026
+## Audit GSC — semaine 11/05 → 18/05/2026
 
-- ✅ **Home** stable position 1 sur "ostéopathe la possession", "ostéopathe la possession 974", "ostéo ouvert le samedi", "ostéopathe vincent"
-- ✅ **Migraine** → impressions sur "céphalées de tension" (position 35.7, 6 impressions) — en montée
-- ⚠️ **CTR globale** : 0 click sur 22 impressions cette semaine (positions élevées sauf home) → besoin de descendre les positions en page 1-2 sur les requêtes blog
-- 📊 Next : article #6 hernie discale pour densifier le maillage thématique dos/sciatique/lombalgie/sacro-iliaque/hernie
+- ✅ **Hernie discale indexé** 15/05 (4 jours après publication !) — déjà 2 impressions "hernie discale" pos 27 + "ostéopathie et hernie discale" pos 29
+- ✅ **Rich Results FAQ validés** par Google sur l'article hernie discale → le schema FAQPage fonctionne
+- ✅ **Migraine** monte spectaculairement sur "mal de tête derrière les yeux causes" → **position 8** (page 1 !)
+- ✅ **Home** : 14 impressions "ostéopathe la possession" pos 1.3 (stable), pos 1 sur "doctolib rdv", "ostheopathe", "ostéopathe", "vincent magoni"
+- ✅ **Lombalgie** : 2 impressions sur "gestion des douleurs lombaires chroniques" pos 39.5
+- ⚠️ Toujours 0 click cette semaine — le portefeuille est en pleine montée mais hors top 10 sauf migraine
+- 📊 Next : article #7 (cervicalgie/torticolis fusionné) pour saturer le sujet "cou" et densifier le maillage interne avec migraine

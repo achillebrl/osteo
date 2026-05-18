@@ -791,6 +791,188 @@ export const articles: Article[] = [
 <p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
 `,
   },
+  {
+    slug: "cervicalgie-torticolis-cou-bloque-osteopathie",
+    title: "Cou bloqué, torticolis, cervicalgie : que faire et quand consulter un ostéopathe ?",
+    description:
+      "Cou bloqué au réveil, torticolis aigu, douleurs cervicales chroniques : voici comment soulager rapidement et le rôle précis de l'ostéopathie. Conseils d'un ostéopathe D.O. à La Possession, La Réunion (974).",
+    date: "2026-05-18",
+    readTime: 9,
+    keywords: [
+      "torticolis traitement",
+      "torticolis ostéopathe",
+      "cervicalgie ostéopathie",
+      "cervicalgie traitement",
+      "cou bloqué",
+      "douleur cervicale",
+      "cervicalgie chronique",
+      "ostéopathe cervicalgie La Réunion",
+      "ostéopathe torticolis La Possession",
+      "ostéopathe La Possession 974",
+    ],
+    excerpt:
+      "Le cou bloqué — torticolis aigu ou cervicalgie installée — fait partie des motifs de consultation les plus fréquents en cabinet d'ostéopathie. En tant qu'ostéopathe à La Possession (La Réunion), je vous explique comment soulager rapidement la douleur, quand consulter, et ce que l'ostéopathie peut concrètement vous apporter.",
+    tldr:
+      "Pour un torticolis aigu : chaleur humide 15 min, mouvements doux dans l'amplitude indolore, antalgique simple, et consultation ostéopathique dans les 24 à 72 h (1 séance suffit souvent). Pour une cervicalgie chronique : ostéopathie + correction posturale (écran, oreiller, stress) + renforcement profond — 3 à 5 séances en général. Consultez en urgence en cas de traumatisme, fièvre, perte de force dans un bras ou maux de tête violents inhabituels.",
+    faq: [
+      {
+        question: "Est-ce qu'un ostéopathe peut soigner un torticolis ?",
+        answer:
+          "Oui, et c'est même l'une des indications les plus efficaces de l'ostéopathie. Sur un torticolis musculaire simple, une seule séance suffit souvent à débloquer le cou si elle est réalisée dans les 24 à 72 heures. L'ostéopathe libère les blocages articulaires des vertèbres cervicales et relâche les muscles contracturés (sternocléidomastoïdien, trapèze supérieur, scalènes). 80 % des patients retrouvent une mobilité quasi normale en une à deux séances.",
+      },
+      {
+        question: "Quel est le moyen le plus rapide de soigner un torticolis ?",
+        answer:
+          "La combinaison la plus rapide : chaleur humide 15 minutes (bouillotte ou serviette chaude), automassage doux du trapèze supérieur, mouvements lents de rotation dans l'amplitude indolore, un antalgique simple (paracétamol) si besoin, et une séance d'ostéopathie le jour même ou le lendemain. Évitez les anti-inflammatoires en première intention sans avis médical. Un torticolis pris en charge tôt peut être levé en 24 à 48 h.",
+      },
+      {
+        question: "Combien de temps dure un torticolis ?",
+        answer:
+          "Un torticolis aigu musculaire dure en moyenne 2 à 7 jours sans traitement, parfois jusqu'à 10 jours s'il s'installe. Avec une séance d'ostéopathie rapide (dans les 72 h), la résolution est souvent obtenue en 24 à 48 heures. Au-delà d'une semaine sans amélioration, il faut chercher une cause sous-jacente : arthrose cervicale, hernie discale cervicale, fibromyalgie, ou cause non mécanique.",
+      },
+      {
+        question: "Cervicalgie : ostéopathe ou kinésithérapeute ?",
+        answer:
+          "Les deux approches sont complémentaires et n'entrent pas en concurrence. L'ostéopathe agit rapidement sur les blocages mécaniques et les tensions associées — idéal en phase aiguë et pour casser un cercle vicieux installé. Le kinésithérapeute travaille en profondeur sur le renforcement musculaire, la rééducation posturale et les exercices à domicile — indispensable pour les cervicalgies chroniques. L'approche optimale combine souvent 2 à 4 séances d'ostéopathie en début de prise en charge, puis un programme de kiné suivi.",
+      },
+      {
+        question: "Pourquoi mon cou se bloque au réveil ?",
+        answer:
+          "Un cou bloqué au réveil résulte presque toujours de la combinaison de trois facteurs : un mauvais positionnement nocturne (oreiller inadapté, dormir sur le ventre), des tensions accumulées dans la journée (écran, stress, posture), et un coup de froid ou de climatisation pendant la nuit. Le muscle sternocléidomastoïdien et les trapèzes se contracturent en réflexe protecteur. Un oreiller ergonomique adapté à votre morphologie et une consultation d'ostéopathie corrigent durablement le problème.",
+      },
+      {
+        question: "Quand consulter en urgence pour une douleur cervicale ?",
+        answer:
+          "Consultez aux urgences sans attendre en cas de : traumatisme récent (accident de voiture, chute, choc à la tête), fièvre élevée associée à une raideur de nuque, mal de tête violent et inhabituel (« coup de tonnerre »), perte de force ou fourmillements dans un bras, troubles de la vision ou de la parole, vertiges importants. Ces signes peuvent évoquer une urgence neurologique, vasculaire ou infectieuse qui contre-indique strictement toute manipulation cervicale.",
+      },
+    ],
+    content: `
+<h2>Torticolis, cervicalgie, cou bloqué : on parle de quoi ?</h2>
+<p>Ces trois termes désignent des situations proches mais distinctes. Bien comprendre la différence aide à savoir comment réagir.</p>
+<ul>
+  <li><strong>Le torticolis</strong> est une contracture musculaire <strong>aiguë et bloquante</strong> du cou, souvent installée en quelques heures. La tête est inclinée et/ou tournée du côté opposé à la douleur, et tout mouvement déclenche une vive douleur. C'est un blocage <em>mécanique</em>, le plus souvent musculaire et bénin.</li>
+  <li><strong>La cervicalgie</strong> est un terme médical plus large : toute douleur localisée dans la région cervicale (nuque, base du crâne, haut du dos). Elle peut être aiguë (moins de 4 semaines) ou chronique (plus de 3 mois), et résulter de causes très variées.</li>
+  <li><strong>Le « cou bloqué »</strong> est un terme commun qui peut désigner un torticolis aigu, un blocage articulaire cervical, ou un épisode aigu sur fond de cervicalgie chronique.</li>
+</ul>
+<p>Dans ma pratique à La Possession (La Réunion), les douleurs cervicales représentent — avec la lombalgie — l'un des deux premiers motifs de consultation. Les profils sont très variés : <strong>jeunes adultes</strong> sédentaires devant un écran toute la journée, <strong>parents jeunes</strong> qui portent des enfants et dorment mal, <strong>travailleurs manuels</strong> (BTP, soins, agriculture) sollicitant fortement les trapèzes, et <strong>seniors</strong> avec arthrose cervicale installée.</p>
+
+<h2>Pourquoi le cou se bloque-t-il ?</h2>
+
+<h3>Les causes mécaniques courantes</h3>
+<ul>
+  <li><strong>Posture prolongée écran / téléphone</strong> ("text neck") : la tête maintenue en avant pendant des heures multiplie par 3 à 5 la charge sur les vertèbres cervicales. Les muscles postérieurs (trapèze, splénius, semi-épineux) finissent par se contracturer.</li>
+  <li><strong>Mauvaise position nocturne</strong> : oreiller trop épais ou trop fin, dormir sur le ventre (qui force une rotation cervicale prolongée), matelas affaissé.</li>
+  <li><strong>Coup de froid ou climatisation</strong> : la chaleur tropicale réunionnaise combinée à une clim trop forte pendant le sommeil ou dans la voiture provoque des contractures réflexes — c'est un classique en consultation à La Possession.</li>
+  <li><strong>Stress chronique</strong> : les muscles trapèzes et sus-épineux sont des "muscles de la tension" — ils se contractent inconsciemment en réponse au stress.</li>
+  <li><strong>Geste brusque ou « faux mouvement »</strong> : tourner la tête trop vite, faire un mouvement de recul, regarder en arrière au volant.</li>
+</ul>
+
+<h3>Les causes structurelles à connaître</h3>
+<p>Quand la cervicalgie persiste ou récidive, il faut chercher une cause sous-jacente :</p>
+<ul>
+  <li><strong>Arthrose cervicale (cervicarthrose)</strong> : usure progressive des facettes articulaires, fréquente après 50 ans, qui provoque des raideurs matinales et limite l'amplitude.</li>
+  <li><strong>Hernie discale cervicale</strong> (C5-C6, C6-C7 le plus souvent) : peut irradier vers l'épaule et le bras (névralgie cervico-brachiale).</li>
+  <li><strong>Whiplash (« coup du lapin »)</strong> : séquelles d'un accident de voiture ou d'une chute, même ancien — les tensions résiduelles entretiennent une cervicalgie chronique.</li>
+  <li><strong>Dysfonctions de l'ATM</strong> (articulation temporo-mandibulaire) : un trouble de la mâchoire, du bruxisme, ou des problèmes d'occlusion dentaire se répercutent directement sur les cervicales hautes.</li>
+  <li><strong>Origine viscérale</strong> : reflux gastrique, troubles digestifs ou tensions diaphragmatiques peuvent générer des cervicalgies par le biais des chaînes fasciales — surprenant mais fréquent en clinique.</li>
+</ul>
+
+<h2>Torticolis aigu : que faire dans les premières heures ?</h2>
+<p>Plus la prise en charge est <strong>rapide</strong>, plus la résolution est facile. Voici les bons réflexes dans les premières 24 h.</p>
+
+<h3>1. Chaleur humide, pas de glace</h3>
+<p>Contrairement à un traumatisme musculaire récent où le froid est indiqué, un torticolis simple est <strong>une contracture, pas une inflammation</strong>. Appliquez de la chaleur humide (serviette chaude essorée, bouillotte sur un linge) pendant 15 minutes, 3 à 4 fois par jour. La chaleur détend les fibres musculaires contracturées et améliore la circulation locale.</p>
+
+<h3>2. Bouger dans l'amplitude indolore</h3>
+<p>L'immobilité totale aggrave la contracture. Faites de petits mouvements lents de rotation et d'inclinaison dans l'amplitude qui ne déclenche pas la douleur. Les exercices d'étirement doux du trapèze supérieur (oreille vers l'épaule du côté opposé, main qui tire légèrement la tête) sont utiles dès que l'amplitude le permet.</p>
+
+<h3>3. Antalgique simple, AINS uniquement sur avis</h3>
+<p>Le paracétamol à dose efficace (500 mg à 1 g, 3 à 4 fois par jour, jusqu'à 3 g/jour chez l'adulte) est en général suffisant. Les anti-inflammatoires (ibuprofène, kétoprofène) peuvent être utiles mais doivent rester ponctuels — ils ne sont pas anodins (estomac, reins) et ne sont à prendre que sur avis médical.</p>
+
+<h3>4. Consulter rapidement un ostéopathe</h3>
+<p>Une séance d'ostéopathie dans les 24 à 72 heures permet de débloquer le cou en une seule consultation dans 70 à 80 % des cas. Au-delà, le corps installe des compensations qui rendent la prise en charge plus longue.</p>
+
+<h2>Cervicalgie chronique : casser le cercle vicieux</h2>
+<p>Une cervicalgie chronique n'est jamais "dans la tête". C'est en revanche presque toujours <strong>multifactorielle</strong> : posture, ergonomie, stress, sommeil, parfois pathologie structurelle. La traiter durablement demande d'agir sur tous les leviers à la fois.</p>
+
+<h3>Le triangle à corriger</h3>
+<ol>
+  <li><strong>Ergonomie de la journée</strong> : écran à hauteur des yeux, téléphone tenu à hauteur (et non incliné), pauses toutes les 45 minutes, sac à dos symétrique. Pour les patients en télétravail à La Réunion, c'est souvent le poste de travail à la maison qui pose problème : table de cuisine, écran trop bas, position prolongée.</li>
+  <li><strong>Ergonomie de la nuit</strong> : oreiller ergonomique adapté à la position de sommeil (ni trop haut, ni trop bas), pas de dormir sur le ventre, attention à la climatisation orientée vers la nuque.</li>
+  <li><strong>Gestion du stress</strong> : respiration diaphragmatique, marche, activité physique régulière. Le yoga, le tai-chi ou la natation sont particulièrement bénéfiques pour les cervicales.</li>
+</ol>
+
+<h3>Le rôle de l'ostéopathie</h3>
+<p>L'ostéopathie est l'un des soins les plus efficaces sur les cervicalgies chroniques car elle agit sur les trois étages du problème :</p>
+<ul>
+  <li><strong>Libération des blocages articulaires</strong> des vertèbres cervicales hautes (C0-C1, C2) souvent en cause dans les céphalées associées</li>
+  <li><strong>Relâchement profond des muscles cervicaux et péri-scapulaires</strong> (trapèze, élévateur de la scapula, sous-occipitaux, scalènes)</li>
+  <li><strong>Travail sur les fascias et la dure-mère</strong> (membrane qui entoure la moelle épinière) pour libérer les tensions à distance</li>
+  <li><strong>Approche viscérale</strong> si une origine digestive ou diaphragmatique est suspectée</li>
+  <li><strong>Conseils posturaux personnalisés</strong> adaptés au métier et au mode de vie du patient</li>
+</ul>
+
+<h2>Comment se déroule une consultation pour un cou bloqué ?</h2>
+<p>Une consultation à mon cabinet de La Possession dure entre 45 minutes et 1 heure. Voici le déroulé.</p>
+
+<h3>1. Examen et drapeaux rouges</h3>
+<p>Je commence toujours par une anamnèse précise : circonstances d'apparition, type de douleur, irradiation, antécédents (whiplash ancien, hernie discale, opération), et surtout recherche systématique de signes de gravité qui contre-indiqueraient toute manipulation. Cela inclut un examen neurologique des membres supérieurs (force, sensibilité, réflexes) et des tests vasculaires pour les manipulations cervicales hautes.</p>
+
+<h3>2. Techniques adaptées au tableau clinique</h3>
+<p>Selon ce que je trouve, j'utilise :</p>
+<ul>
+  <li><strong>Techniques douces de relâchement myofascial</strong> : indolores, idéales en première intention et en cas de cou très douloureux</li>
+  <li><strong>Mobilisations articulaires rythmiques</strong> : restaurer la mobilité progressivement, sans contrainte</li>
+  <li><strong>Techniques crâniennes et sacro-occipitales</strong> : relâcher les tensions de la dure-mère et de la base du crâne</li>
+  <li><strong>Manipulations structurelles cervicales (thrust)</strong> : <strong>uniquement</strong> si elles sont indiquées et après vérification rigoureuse des contre-indications. Les manipulations cervicales à haute vélocité ne sont pas systématiques et ne sont jamais réalisées en cas de doute.</li>
+  <li><strong>Travail à distance</strong> : la cervicalgie est souvent liée à un déséquilibre global (bassin, diaphragme, mandibule) — agir sur ces zones décharge mécaniquement le cou.</li>
+</ul>
+
+<h3>3. Conseils et exercices à domicile</h3>
+<p>Je termine systématiquement par des conseils précis : exercices d'étirement et de mobilité à pratiquer 2 à 3 fois par jour, conseils posturaux adaptés au métier, recommandation d'oreiller, gestion du stress. Pour les patients en télétravail, j'aide souvent à reconfigurer le poste de travail à distance.</p>
+
+<h2>Exercices à faire chez soi pour soulager le cou</h2>
+
+<h3>Étirement du trapèze supérieur</h3>
+<p>Assis bien droit, main droite qui passe au-dessus de la tête et attrape l'oreille gauche. Tirez très doucement la tête vers l'épaule droite jusqu'à sentir un étirement (jamais de douleur vive). Maintenez 30 secondes. Répétez de l'autre côté. À faire 2 à 3 fois par jour.</p>
+
+<h3>Rétraction cervicale (« double menton »)</h3>
+<p>Assis ou debout, regard horizontal. Reculez la tête comme pour faire un double menton, sans baisser ni lever le regard. Maintenez 5 secondes, relâchez. Répétez 10 fois. Cet exercice corrige la posture en projection antérieure de la tête, principale cause de cervicalgie de l'écran.</p>
+
+<h3>Rotation lente du cou</h3>
+<p>Assis, tournez très lentement la tête à droite jusqu'à l'amplitude maximale indolore, regardez par-dessus l'épaule. Maintenez 5 secondes. Revenez lentement au centre. Répétez à gauche. 10 rotations alternées, 1 à 2 fois par jour. <strong>Jamais</strong> de cercles complets de la tête — c'est contre-indiqué et peut aggraver.</p>
+
+<h3>Massage des sous-occipitaux</h3>
+<p>Allongé sur le dos, placez deux balles de tennis dans une chaussette à hauteur des bases du crâne (juste sous l'os occipital). Restez 2 à 5 minutes. Les sous-occipitaux sont des micro-muscles essentiels souvent contracturés — ce simple geste soulage spectaculairement les céphalées de tension associées.</p>
+
+<h2>Cervicalgie, maux de tête et autres douleurs liées</h2>
+<p>Les cervicales sont en lien direct avec le crâne, les épaules, la mâchoire et même le dos. Voici les douleurs associées les plus fréquentes :</p>
+<ul>
+  <li><strong>Maux de tête de tension et migraines</strong> : les muscles sous-occipitaux et le trapèze supérieur sont à l'origine de la majorité des céphalées chroniques. Voir mon article dédié à <a href="/blog/migraine-mal-de-tete-osteopathie">l'ostéopathie pour les migraines et maux de tête</a>.</li>
+  <li><strong>Douleur dans l'épaule et le bras</strong> : peut évoquer une compression cervicale (hernie, arthrose) ou un syndrome cervico-brachial.</li>
+  <li><strong>Vertiges et instabilité</strong> : certains vertiges sont d'origine cervicale (vertige cervicogénique) et répondent bien à l'ostéopathie.</li>
+  <li><strong>Tensions ATM et bruxisme</strong> : la mâchoire et les cervicales hautes sont biomécaniquement liées.</li>
+</ul>
+<p>Si vous avez aussi des douleurs lombaires, sachez qu'une <a href="/blog/lombalgie-chronique-traitement-osteopathe">lombalgie chronique</a> peut entretenir des tensions cervicales par les chaînes fasciales — la prise en charge doit alors être globale.</p>
+
+<h2>Quand consulter en urgence ?</h2>
+<p>Certains signes imposent un avis médical urgent <strong>avant</strong> toute prise en charge ostéopathique :</p>
+<ul>
+  <li>Cervicalgie après un <strong>traumatisme</strong> (accident, chute, choc à la tête) — il faut éliminer une lésion osseuse</li>
+  <li><strong>Raideur de nuque</strong> intense avec fièvre — risque de méningite</li>
+  <li><strong>Mal de tête violent et inhabituel</strong>, en « coup de tonnerre » — urgence neuro</li>
+  <li><strong>Perte de force, fourmillements persistants</strong> dans un bras ou une main</li>
+  <li>Troubles de la vision, de la parole, de l'équilibre, vertiges sévères</li>
+  <li>Cervicalgie inflammatoire (douleur nocturne réveillant, raideur matinale prolongée, fièvre, perte de poids)</li>
+</ul>
+<p>Dans ces situations, l'ostéopathie est <strong>strictement contre-indiquée</strong> en première intention. Consultez votre médecin ou les urgences.</p>
+
+<h2>Prendre rendez-vous à La Possession (La Réunion)</h2>
+<p>Si votre cou s'est bloqué ce matin, ou si vous traînez des cervicalgies depuis des semaines, des mois ou des années, je vous reçois à mon cabinet au sein de la Maison de Santé Sakisoigne, à La Possession (97419). Le cabinet est facilement accessible depuis Saint-Denis, Le Port, Saint-Paul, La Montagne et tout le nord de La Réunion.</p>
+<p>Pour un torticolis aigu, j'essaie toujours de proposer un créneau dans les 24 à 72 heures — c'est la fenêtre où une seule séance suffit le plus souvent. Pour une cervicalgie chronique, on planifie un parcours de 3 à 5 séances avec un travail postural et des exercices à domicile.</p>
+<p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
