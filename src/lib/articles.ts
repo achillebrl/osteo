@@ -973,6 +973,175 @@ export const articles: Article[] = [
 <p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
 `,
   },
+  {
+    slug: "pubalgie-traitement-osteopathie-sport",
+    title: "Pubalgie : traitement, exercices et ostéopathie pour reprendre le sport",
+    description:
+      "Douleur à l'aine ou au pubis qui s'aggrave au sport ? Découvrez comment soulager une pubalgie : causes, traitement, exercices et rôle de l'ostéopathie. Ostéopathe du sport à La Possession, La Réunion (974).",
+    date: "2026-05-27",
+    readTime: 9,
+    keywords: [
+      "pubalgie",
+      "pubalgie traitement",
+      "pubalgie ostéopathie",
+      "douleur à l'aine",
+      "pubalgie footballeur",
+      "ostéite pubienne",
+      "douleur pubis sport",
+      "ostéopathe du sport La Réunion",
+      "ostéopathe sport La Possession",
+      "ostéopathe La Possession 974",
+    ],
+    excerpt:
+      "La pubalgie est l'une des blessures les plus redoutées des sportifs — footballeurs, coureurs, traileurs — car elle est longue à guérir si elle est mal prise en charge. En tant qu'ostéopathe à La Possession (La Réunion), je vous explique comment reconnaître une pubalgie, la soulager, et surtout reprendre le sport durablement.",
+    tldr:
+      "La pubalgie est une douleur de la région du pubis et de l'aine, due à un déséquilibre entre les muscles abdominaux et les adducteurs au niveau de la symphyse pubienne. Le traitement repose sur le repos sportif relatif, le renforcement progressif des adducteurs et du gainage, la kinésithérapie et l'ostéopathie pour rééquilibrer le bassin. Comptez 6 à 12 semaines de prise en charge. La reprise précoce est la première cause de rechute. Consultez un médecin pour écarter une hernie inguinale ou une ostéite pubienne.",
+    faq: [
+      {
+        question: "Est-ce qu'un ostéopathe peut soigner une pubalgie ?",
+        answer:
+          "Oui, l'ostéopathie est très efficace sur la pubalgie, surtout en complément de la kinésithérapie et d'un repos sportif adapté. L'ostéopathe rééquilibre le bassin, libère les tensions des adducteurs et des abdominaux, mobilise la symphyse pubienne et travaille les chaînes musculaires et le diaphragme. Il ne « guérit » pas seul une pubalgie installée, mais il accélère nettement la récupération et réduit le risque de rechute. 3 à 6 séances sont en général nécessaires.",
+      },
+      {
+        question: "Comment guérir vite d'une pubalgie ?",
+        answer:
+          "Il n'existe pas de guérison instantanée : une pubalgie demande 6 à 12 semaines. Le plus rapide est d'agir tôt et sur tous les fronts : repos sportif relatif (arrêter les gestes douloureux, pas l'immobilité totale), glace après effort, renforcement progressif des adducteurs et du gainage profond, kinésithérapie et ostéopathie. La pire erreur est de reprendre le sport dès que la douleur diminue — c'est la première cause de pubalgie chronique.",
+      },
+      {
+        question: "Quel est le meilleur traitement pour la pubalgie ?",
+        answer:
+          "Le traitement de référence est conservateur et combine plusieurs leviers : repos sportif relatif, kinésithérapie du sport (renforcement excentrique des adducteurs, gainage), ostéopathie pour rééquilibrer le bassin et les chaînes musculaires, et reprise progressive encadrée. Les anti-inflammatoires peuvent soulager ponctuellement sur avis médical. La chirurgie n'est envisagée qu'en dernier recours, après 3 à 6 mois d'échec du traitement conservateur.",
+      },
+      {
+        question: "Combien de temps dure une pubalgie ?",
+        answer:
+          "Une pubalgie prise en charge tôt et correctement guérit en général en 6 à 12 semaines. Mal soignée ou avec des reprises trop précoces, elle peut devenir chronique et durer plusieurs mois, voire une saison entière chez le sportif. La durée dépend du type de pubalgie (adducteurs, abdominale, mixte), de l'ancienneté et du respect du repos relatif.",
+      },
+      {
+        question: "Comment différencier une pubalgie d'une hernie inguinale ?",
+        answer:
+          "Les deux provoquent une douleur à l'aine, mais la pubalgie est une douleur d'effort liée au sport (tir, sprint, changement de direction) sans masse palpable, tandis que la hernie inguinale se manifeste souvent par une petite boule à l'aine qui apparaît à l'effort ou à la toux et disparaît en position allongée. Seul un examen médical (et parfois une échographie) permet de trancher. C'est pourquoi un bilan médical est recommandé avant de débuter le traitement.",
+      },
+      {
+        question: "Quand reprendre le sport après une pubalgie ?",
+        answer:
+          "La reprise se fait quand vous êtes indolore au repos ET à l'effort progressif, après avoir retrouvé force et souplesse des adducteurs et du gainage. Concrètement : reprise de la course en ligne droite avant les changements de direction, montée de charge progressive sur 2 à 3 semaines, et validation idéalement par votre kinésithérapeute ou ostéopathe. Reprendre trop tôt parce que « ça va mieux » est la cause n°1 de rechute.",
+      },
+    ],
+    content: `
+<h2>Qu'est-ce qu'une pubalgie ?</h2>
+<p>La pubalgie est une douleur localisée à la jonction entre le bas-ventre, le pubis et l'aine, au niveau de la <strong>symphyse pubienne</strong> — l'articulation qui relie les deux os du bassin à l'avant. Ce n'est pas une maladie unique mais un <strong>syndrome</strong> qui regroupe plusieurs atteintes voisines.</p>
+<p>À cet endroit précis s'opposent deux groupes musculaires puissants :</p>
+<ul>
+  <li>Les <strong>muscles abdominaux</strong> (notamment le grand droit), qui tirent le bassin vers le haut</li>
+  <li>Les <strong>adducteurs</strong> de la cuisse, qui tirent le bassin vers le bas</li>
+</ul>
+<p>Quand l'équilibre entre ces deux forces est rompu — par excès de sollicitation, déséquilibre musculaire ou défaut de gainage — la symphyse pubienne subit des contraintes répétées qui finissent par provoquer douleur et inflammation. C'est la pubalgie.</p>
+<p>On distingue classiquement trois formes : la pubalgie <strong>basse (adducteurs)</strong>, la plus fréquente ; la pubalgie <strong>haute (pariéto-abdominale)</strong> ; et la pubalgie <strong>mixte</strong>. L'<strong>ostéite pubienne</strong> (inflammation de l'os au niveau de la symphyse) en est une forme avancée.</p>
+
+<h2>Pubalgie : une blessure de sportif… et pas que de footballeur</h2>
+<p>La pubalgie est emblématique du football, mais elle touche tous les sports impliquant des courses, des changements de direction, des tirs ou des appuis répétés. À La Réunion, je la rencontre chez :</p>
+<ul>
+  <li><strong>Les footballeurs</strong> — le public le plus concerné, à cause des frappes, sprints et changements d'appui</li>
+  <li><strong>Les coureurs et traileurs</strong> — le relief réunionnais (montées, descentes, sentiers techniques) sollicite énormément le bassin</li>
+  <li><strong>Les pratiquants de sports de combat, rugby, handball</strong></li>
+  <li><strong>Les coureurs sur route</strong> qui augmentent brutalement leur kilométrage</li>
+</ul>
+<p>Les facteurs favorisants sont presque toujours les mêmes : <strong>augmentation trop rapide de la charge d'entraînement</strong>, déséquilibre entre adducteurs (trop forts) et abdominaux (trop faibles), manque de gainage, défaut de souplesse, hygiène de vie (hydratation, sommeil) et parfois un trouble postural ou un blocage du bassin préexistant.</p>
+
+<h2>Quels sont les symptômes d'une pubalgie ?</h2>
+<p>La pubalgie s'installe le plus souvent progressivement. Les signes typiques :</p>
+<ul>
+  <li>Une <strong>douleur au pubis, à l'aine ou au bas-ventre</strong>, d'un seul côté au début, parfois des deux</li>
+  <li>Une douleur qui apparaît <strong>à l'effort</strong> : tir, sprint, changement de direction, montée d'escalier, parfois à la toux ou l'éternuement</li>
+  <li>Une <strong>raideur matinale</strong> et une douleur en début d'entraînement qui « chauffe » puis revient après l'effort</li>
+  <li>Une douleur à la palpation de la symphyse pubienne ou de l'insertion des adducteurs</li>
+  <li>Dans les formes installées, une gêne dans les gestes du quotidien (sortir de voiture, monter les escaliers)</li>
+</ul>
+<p>Le piège classique : la douleur diminue à l'échauffement, ce qui pousse à continuer à jouer. La pubalgie s'aggrave alors silencieusement et devient chronique.</p>
+
+<h3>Attention aux fausses pubalgies</h3>
+<p>Plusieurs pathologies miment une pubalgie et doivent être écartées par un médecin avant de débuter le traitement :</p>
+<ul>
+  <li><strong>La hernie inguinale</strong> : une petite boule à l'aine qui apparaît à l'effort ou à la toux. Voir la question dédiée dans la FAQ.</li>
+  <li><strong>Une atteinte de la hanche</strong> (conflit fémoro-acétabulaire, arthrose, tendinite du psoas) : la <a href="/blog/douleur-sacro-iliaque-exercices-osteopathie">douleur de hanche et du bassin</a> peut irradier vers l'aine.</li>
+  <li><strong>Une fracture de fatigue</strong> du bassin ou du col fémoral, chez le coureur de fond.</li>
+  <li>Une cause <strong>uro-génitale ou digestive</strong> (plus rare).</li>
+</ul>
+
+<h2>Comment soigner une pubalgie ? Le traitement étape par étape</h2>
+<p>La pubalgie se traite presque toujours <strong>sans chirurgie</strong>, à condition d'être patient et méthodique. Voici les étapes.</p>
+
+<h3>1. Le repos sportif relatif (et non l'immobilité totale)</h3>
+<p>Il faut <strong>arrêter les gestes qui déclenchent la douleur</strong> (tirs, sprints, changements de direction), mais pas tout arrêter. Le maintien d'une activité indolore (vélo doux, natation sans brasse, marche) préserve la condition physique et la circulation locale. L'arrêt complet déconditionne et rallonge la récupération.</p>
+
+<h3>2. Calmer la douleur et l'inflammation</h3>
+<p>Glace après les séances ou en cas de poussée (15 min, dans un linge), repos, et éventuellement anti-inflammatoires sur avis médical en phase aiguë. Ce sont des mesures d'appoint : elles soulagent mais ne traitent pas la cause.</p>
+
+<h3>3. La kinésithérapie : le pilier de la rééducation</h3>
+<p>La rééducation chez un kinésithérapeute, idéalement du sport, est <strong>incontournable</strong>. Elle repose sur le renforcement <strong>excentrique progressif des adducteurs</strong>, le renforcement du gainage profond (transverse, abdominaux), le travail de souplesse, et la correction des déséquilibres. C'est le traitement qui a le plus de preuves d'efficacité sur la pubalgie.</p>
+
+<h3>4. L'ostéopathie : rééquilibrer le bassin et les chaînes musculaires</h3>
+<p>L'ostéopathie agit en complément, sur les causes mécaniques qui ont favorisé la pubalgie. J'y reviens en détail ci-dessous.</p>
+
+<h3>5. La reprise progressive et encadrée</h3>
+<p>C'est l'étape la plus importante — et la plus négligée. La reprise se fait par paliers : course en ligne droite, puis accélérations, puis changements de direction, puis gestes spécifiques (tir, appuis). Chaque palier n'est franchi que s'il est indolore. Voir la question dédiée dans la FAQ.</p>
+
+<h2>Pubalgie et ostéopathie : que fait concrètement l'ostéopathe ?</h2>
+<p>La pubalgie est rarement un problème « local » isolé. Elle traduit souvent un <strong>déséquilibre global du bassin et des chaînes musculaires</strong>. C'est là que l'ostéopathie est précieuse.</p>
+<p>Lors d'une consultation à mon cabinet de La Possession, après un bilan complet (et la vérification de l'absence de signe nécessitant un avis médical), je travaille sur :</p>
+<ul>
+  <li><strong>Le rééquilibrage du bassin</strong> : un blocage de l'articulation sacro-iliaque ou une bascule du bassin augmente les contraintes sur la symphyse pubienne. Le corriger soulage mécaniquement la zone.</li>
+  <li><strong>Le relâchement des adducteurs et des abdominaux</strong> : techniques myofasciales pour détendre les muscles tendus et lever les points de tension.</li>
+  <li><strong>La mobilisation douce de la symphyse pubienne</strong> et des articulations de la hanche.</li>
+  <li><strong>Le travail du diaphragme et des viscères</strong> : le diaphragme et les tensions abdominales basses influencent directement la statique du bassin.</li>
+  <li><strong>La correction posturale globale</strong> : appuis des pieds, mobilité lombaire, équilibre global — adaptés à votre sport et au terrain réunionnais.</li>
+</ul>
+<p>L'ostéopathie ne remplace pas la rééducation kiné ni le repos, mais elle <strong>accélère la récupération</strong>, réduit les compensations douloureuses et limite fortement le risque de rechute. La combinaison kiné + ostéo + reprise encadrée est la plus efficace.</p>
+
+<h2>Exercices pour soulager et prévenir la pubalgie</h2>
+<p>Ces exercices se pratiquent <strong>hors phase aiguë</strong>, sans douleur, et idéalement après validation par un professionnel. Ils servent autant à la rééducation qu'à la prévention.</p>
+
+<h3>Gainage planche ventrale</h3>
+<p>En appui sur les avant-bras et la pointe des pieds (ou les genoux pour débuter), corps gainé bien aligné, ventre rentré. Maintenez 20 à 30 secondes, 3 fois. Le gainage profond soulage la symphyse en répartissant les contraintes.</p>
+
+<h3>Renforcement des adducteurs (ballon entre les genoux)</h3>
+<p>Allongé sur le dos, genoux fléchis, un ballon ou un coussin entre les genoux. Serrez doucement 5 secondes, relâchez. 10 à 15 répétitions. À intensifier très progressivement. Renforce les adducteurs en douceur.</p>
+
+<h3>Étirement des adducteurs</h3>
+<p>Assis, plantes de pieds jointes, genoux qui tombent vers l'extérieur (position du papillon). Appuyez doucement sur les genoux, sans à-coups. Maintenez 30 secondes. Améliore la souplesse des adducteurs souvent rétractés.</p>
+
+<h3>Pont fessier</h3>
+<p>Allongé sur le dos, genoux fléchis, pieds à plat. Décollez le bassin en serrant les fessiers, maintenez 5 secondes, redescendez. 10 à 15 répétitions. Renforce la chaîne postérieure et stabilise le bassin.</p>
+
+<h2>Combien de temps pour guérir, et comment éviter la rechute ?</h2>
+<p>Avec une prise en charge précoce et complète, comptez <strong>6 à 12 semaines</strong>. Une pubalgie négligée ou avec des reprises trop précoces peut durer plusieurs mois.</p>
+<p>Pour éviter la rechute :</p>
+<ul>
+  <li><strong>Respecter la reprise progressive</strong> — ne jamais reprendre « parce que ça va mieux »</li>
+  <li><strong>Maintenir un gainage et un renforcement des adducteurs réguliers</strong>, même après guérison</li>
+  <li><strong>Augmenter la charge d'entraînement progressivement</strong> (règle des +10 % par semaine maximum)</li>
+  <li><strong>Bien s'échauffer et s'étirer</strong>, s'hydrater (important sous le climat réunionnais)</li>
+  <li><strong>Consulter en prévention</strong> : 1 à 2 séances d'ostéopathie par saison pour détecter les déséquilibres du bassin avant qu'ils ne se traduisent en blessure</li>
+</ul>
+<p>Si vous souffrez aussi de douleurs du bas du dos, sachez qu'une <a href="/blog/lombalgie-chronique-traitement-osteopathe">lombalgie</a> ou un déséquilibre lombo-pelvien peuvent favoriser la pubalgie : la prise en charge doit alors être globale.</p>
+
+<h2>Quand consulter un médecin ?</h2>
+<p>Avant de débuter le traitement d'une pubalgie, un avis médical est recommandé pour écarter une autre cause. Consultez sans tarder en cas de :</p>
+<ul>
+  <li><strong>Boule ou gonflement à l'aine</strong> (suspicion de hernie inguinale)</li>
+  <li>Douleur intense, brutale, ou après un traumatisme</li>
+  <li>Fièvre, douleur nocturne, altération de l'état général</li>
+  <li>Douleur testiculaire, troubles urinaires ou digestifs associés</li>
+  <li>Absence d'amélioration après plusieurs semaines de traitement bien conduit</li>
+</ul>
+
+<h2>Ostéopathe du sport à La Possession (La Réunion)</h2>
+<p>Si vous êtes sportif — footballeur, coureur, traileur — et que vous traînez une douleur à l'aine ou au pubis, ne laissez pas la pubalgie s'installer. Je vous reçois à mon cabinet au sein de la Maison de Santé Sakisoigne, à La Possession (97419), facilement accessible depuis Saint-Denis, Le Port, Saint-Paul et tout le nord de La Réunion.</p>
+<p>Je travaille volontiers en complémentarité avec votre kinésithérapeute et votre médecin du sport pour vous permettre de reprendre votre activité durablement, sans rechute. Pour les sportifs, je propose aussi un suivi préventif en cours de saison.</p>
+<p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {

@@ -99,6 +99,16 @@
 - [x] **#4** — `douleur-sacro-iliaque-exercices-osteopathie` — 06/05/2026 *(volume FR 880/mo "exercices" + 5400/mo principal, KD LOW, RE 40+10/mo)*
 - [x] **#6** — `hernie-discale-osteopathie-soulager` — 11/05/2026 *(KD=1 FR, indexé en 4 jours, Rich Results FAQ validés)*
 - [x] **#3 + #7 fusionnés** — `cervicalgie-torticolis-cou-bloque-osteopathie` — 18/05/2026 *(KD=1 torticolis, intent informationnel cervicalgie, 0 site Réunion top 10, backfill #3)*
+- [x] **#8** — `pubalgie-traitement-osteopathie-sport` — 27/05/2026 *(pubalgie 49 500/mo +22% an, compét LOW, angle sport Réunion foot/trail, 0 site Réunion top 11)*
+
+## Audit GSC — semaine 18/05 → 27/05/2026
+
+- 🎉 **PREMIERS CLICS** : "vincent magoni" 2 clics (CTR 14.3%, pos 1.8), "ostéopathe la possession" 1 clic (CTR 25%, pos 2.2) → le site convertit enfin
+- ✅ **Cervicalgie/torticolis indexé** : impressions sur "cou bloqué" (pos 26), "cervicales bloquées" (pos 29.3), "blocage cervical" (pos 24), "torticolis ostéopathe" (pos 28)
+- ✅ **Hernie discale** monte : "hernie discale kiné ou ostéopathe" pos 19, plusieurs variantes pos 27-33
+- ✅ **Lombalgie** : "gestion des douleurs lombaires chroniques" 6 impressions pos 39.8
+- ✅ **Migraine** : "migraines et ostéopathie" 4 impressions pos 34, "céphalées de tension" pos 32
+- 📊 Portefeuille en pleine montée — tous les articles indexés génèrent des impressions, premiers clics côté brand/local
 
 ## Audit GSC — semaine 11/05 → 18/05/2026
 
