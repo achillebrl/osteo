@@ -100,6 +100,14 @@
 - [x] **#6** — `hernie-discale-osteopathie-soulager` — 11/05/2026 *(KD=1 FR, indexé en 4 jours, Rich Results FAQ validés)*
 - [x] **#3 + #7 fusionnés** — `cervicalgie-torticolis-cou-bloque-osteopathie` — 18/05/2026 *(KD=1 torticolis, intent informationnel cervicalgie, 0 site Réunion top 10, backfill #3)*
 - [x] **#8** — `pubalgie-traitement-osteopathie-sport` — 27/05/2026 *(pubalgie 49 500/mo +22% an, compét LOW, angle sport Réunion foot/trail, 0 site Réunion top 11)*
+- [x] **#10** — `osteopathe-nourrisson-bebe-coliques-plagiocephalie` — 01/06/2026 *(ostéopathe nourrisson KD=2 intent COMMERCIAL/transactionnel = fort taux RDV, plagiocéphalie 9900/mo, 0 site Réunion top 10, fort potentiel local)*
+
+## Audit GSC — semaine 25/05 → 01/06/2026
+
+- ✅ **Impressions record** : pic à 37/jour le 27/05, ~120/semaine (croissance continue depuis 44/sem fin avril, ×2,7 en 5 semaines)
+- ✅ 1 clic le 29/05, position moyenne oscillant 8.6–17.9 (nouveaux articles entrant en page 2-3)
+- 📊 Pubalgie publié le 27/05, indexation en cours
+- 🎯 Choix #10 nourrisson : intent **commercial** (parents prêts à réserver) → meilleur potentiel de conversion RDV de tout le portefeuille, et angle "fort potentiel local" du plan
 
 ## Audit GSC — semaine 18/05 → 27/05/2026
 

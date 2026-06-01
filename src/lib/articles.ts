@@ -1142,6 +1142,142 @@ export const articles: Article[] = [
 <p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
 `,
   },
+  {
+    slug: "osteopathe-nourrisson-bebe-coliques-plagiocephalie",
+    title: "Ostéopathe pour nourrisson : coliques, plagiocéphalie, torticolis et reflux",
+    description:
+      "Votre bébé pleure, a la tête plate, régurgite ou tourne toujours la tête du même côté ? Découvrez quand et pourquoi consulter un ostéopathe pour nourrisson. Cabinet à La Possession, La Réunion (974).",
+    date: "2026-06-01",
+    readTime: 9,
+    keywords: [
+      "ostéopathe nourrisson",
+      "ostéopathie bébé",
+      "bébé coliques ostéopathe",
+      "plagiocéphalie",
+      "tête plate bébé",
+      "torticolis nourrisson",
+      "ostéopathe bébé reflux",
+      "ostéopathe nourrisson La Réunion",
+      "ostéopathe bébé La Possession",
+      "ostéopathe La Possession 974",
+    ],
+    excerpt:
+      "Coliques, tête plate, régurgitations, bébé qui tourne toujours la tête du même côté… De nombreux troubles du nourrisson répondent très bien à l'ostéopathie, à condition d'être pris en charge tôt et en sécurité. En tant qu'ostéopathe à La Possession (La Réunion), je vous explique quand consulter et ce que je fais concrètement avec un bébé.",
+    tldr:
+      "L'ostéopathie du nourrisson est douce, sans craquement, et soulage efficacement plusieurs troubles fréquents : plagiocéphalie (tête plate), torticolis congénital, coliques, régurgitations et troubles du sommeil. Plus la prise en charge est précoce (avant 4-6 mois), plus elle est efficace, surtout pour la tête plate. Elle ne remplace jamais le suivi pédiatrique : tout signe inhabituel (fièvre, vomissements, perte de poids, retard) impose d'abord une consultation médicale.",
+    faq: [
+      {
+        question: "À quel âge emmener son bébé chez l'ostéopathe ?",
+        answer:
+          "On peut consulter dès les premiers jours de vie, et idéalement dans les premières semaines pour les troubles liés à l'accouchement (torticolis, tête plate naissante, succion difficile). Pour la plagiocéphalie, plus on agit tôt (avant 4 à 6 mois, quand le crâne est encore très malléable), plus le résultat est rapide. Une consultation est aussi recommandée après un accouchement difficile (forceps, ventouse, césarienne, présentation par le siège).",
+      },
+      {
+        question: "L'ostéopathie est-elle sans danger pour un bébé ?",
+        answer:
+          "Oui, lorsqu'elle est pratiquée par un ostéopathe D.O. formé à la pédiatrie. Les techniques utilisées sur un nourrisson sont extrêmement douces : ce sont des pressions légères, des effleurages et des mobilisations subtiles, sans aucune manipulation forcée ni craquement. Il n'y a jamais de manipulation cervicale de type « thrust » chez le bébé. L'ostéopathe vérifie d'abord l'absence de contre-indication et réoriente vers le médecin au moindre doute.",
+      },
+      {
+        question: "L'ostéopathie soigne-t-elle vraiment les coliques du nourrisson ?",
+        answer:
+          "L'ostéopathie aide à soulager les coliques en travaillant en douceur sur le diaphragme, le système digestif et les tensions accumulées pendant la grossesse ou l'accouchement. Beaucoup de parents constatent une amélioration du confort digestif et du sommeil après 1 à 3 séances. Elle vient en complément des mesures classiques (position, portage, rythme des tétées) et ne remplace pas l'avis du pédiatre, qui doit écarter une autre cause (allergie aux protéines de lait, reflux pathologique).",
+      },
+      {
+        question: "Combien de séances d'ostéopathie pour un nourrisson ?",
+        answer:
+          "Pour la plupart des troubles fonctionnels du nourrisson (coliques, inconfort, sommeil), 1 à 3 séances suffisent. Pour une plagiocéphalie ou un torticolis congénital, le suivi est un peu plus long et souvent associé à de la kinésithérapie : comptez quelques séances espacées, avec un travail des parents à la maison. Un suivi trimestriel jusqu'à 1 an peut être conseillé pour accompagner les grandes étapes du développement.",
+      },
+      {
+        question: "Comment savoir si mon bébé a besoin d'un ostéopathe ?",
+        answer:
+          "Quelques signes invitent à consulter : bébé qui tourne toujours la tête du même côté, aplatissement d'un côté du crâne, gêne ou pleurs lors des changements de position, coliques et inconfort digestif, régurgitations fréquentes, sommeil agité, difficulté à prendre le sein d'un côté, ou suite d'accouchement difficile. Ces motifs sont fonctionnels : tout symptôme médical (fièvre, vomissements en jet, perte de poids) relève d'abord du pédiatre.",
+      },
+      {
+        question: "La plagiocéphalie (tête plate) disparaît-elle toute seule ?",
+        answer:
+          "Une plagiocéphalie légère peut s'atténuer seule avec des changements de position, mais les formes modérées à marquées bénéficient nettement d'une prise en charge précoce associant ostéopathie, repositionnement et parfois kinésithérapie. Agir avant 6 mois, pendant que le crâne est malléable, donne les meilleurs résultats esthétiques. Après cet âge, la correction est plus lente et un casque crânien est parfois envisagé par les spécialistes dans les cas sévères.",
+      },
+    ],
+    content: `
+<h2>L'ostéopathie pour les bébés : douce et sécurisée</h2>
+<p>Beaucoup de parents sont surpris d'apprendre qu'on peut emmener un nouveau-né chez l'ostéopathe. Pourtant, l'ostéopathie pédiatrique est l'un des domaines les plus utiles et les plus demandés du métier — à condition d'être pratiquée par un praticien formé, avec des gestes adaptés à la fragilité du nourrisson.</p>
+<p>Soyons clairs sur un point essentiel : <strong>il n'y a jamais de « craquement » ni de manipulation forcée chez un bébé</strong>. Les techniques sont des pressions très légères, des effleurages, des mobilisations douces du crâne, du bassin et du ventre. Le bébé est souvent calme, parfois il s'endort pendant la séance.</p>
+<p>La naissance est une étape mécaniquement intense : le passage dans le bassin maternel, parfois aidé par des instruments (forceps, ventouse) ou une césarienne, peut générer des tensions sur le crâne, le cou et le corps du bébé. L'ostéopathie aide à libérer ces tensions et à accompagner un démarrage en douceur.</p>
+
+<h2>Quand consulter un ostéopathe pour son nourrisson ?</h2>
+<p>Voici les motifs les plus fréquents pour lesquels je reçois des bébés à mon cabinet de La Possession.</p>
+
+<h3>La plagiocéphalie (tête plate)</h3>
+<p>La plagiocéphalie est un aplatissement d'une zone du crâne, le plus souvent à l'arrière ou sur un côté. Très fréquente depuis les recommandations de couchage sur le dos (essentielles contre la mort subite du nourrisson), elle est le plus souvent bénigne sur le plan médical mais mérite une prise en charge précoce pour des raisons esthétiques et fonctionnelles.</p>
+<p>Elle est souvent liée à un <strong>torticolis congénital</strong> : le bébé tourne préférentiellement la tête d'un côté, appuie toujours au même endroit, et le crâne s'aplatit. C'est un cercle vicieux — le torticolis entretient la tête plate, et inversement. L'ostéopathie, associée au repositionnement et parfois à la kinésithérapie, aide à le rompre.</p>
+
+<h3>Le torticolis congénital</h3>
+<p>Le bébé garde la tête inclinée ou tournée d'un côté, a du mal à tourner de l'autre, préfère un sein à l'autre. L'ostéopathe relâche en douceur les tensions des muscles du cou (notamment le sternocléidomastoïdien) et accompagne la récupération de la mobilité. Pris tôt, le torticolis congénital répond très bien.</p>
+
+<h3>Les coliques du nourrisson</h3>
+<p>Pleurs intenses en fin de journée, ventre tendu, bébé qui se tortille et que rien ne semble calmer : les coliques sont éprouvantes pour toute la famille. L'ostéopathie travaille en douceur sur le diaphragme, le ventre et les tensions globales pour améliorer le confort digestif. Beaucoup de parents constatent un apaisement après 1 à 3 séances.</p>
+
+<h3>Les régurgitations et le reflux</h3>
+<p>Des régurgitations fréquentes, un bébé inconfortable après les repas, qui se cambre : l'ostéopathie peut aider en libérant les tensions autour du diaphragme et de l'œsophage. Attention toutefois : un reflux important ou un bébé qui ne prend pas de poids doit toujours être évalué par le pédiatre en premier lieu.</p>
+
+<h3>Les troubles du sommeil et l'agitation</h3>
+<p>Un bébé tendu, qui dort par à-coups, sursaute, semble inconfortable dans certaines positions, peut bénéficier d'un relâchement des tensions accumulées. Le sommeil et la détente s'améliorent souvent après la prise en charge des inconforts physiques sous-jacents.</p>
+
+<h3>Les difficultés de succion et d'allaitement</h3>
+<p>Un bébé qui prend mal le sein, fatigue vite, préfère nettement un côté, ou présente une tension de la mâchoire, peut être gêné par des restrictions au niveau du crâne et de la bouche. L'ostéopathie, en complément de l'accompagnement d'une consultante en lactation, peut faciliter la succion.</p>
+
+<h2>Après quel type d'accouchement consulter ?</h2>
+<p>Certaines naissances justifient particulièrement une consultation ostéopathique précoce, même en l'absence de symptôme évident :</p>
+<ul>
+  <li>Accouchement <strong>très rapide</strong> ou au contraire <strong>très long</strong></li>
+  <li>Utilisation de <strong>forceps, spatules ou ventouse</strong></li>
+  <li><strong>Césarienne</strong> (le bébé n'a pas vécu la compression-décompression du passage)</li>
+  <li>Présentation par le <strong>siège</strong> ou en variété postérieure</li>
+  <li>Bébé volumineux, cordon autour du cou, grossesse gémellaire</li>
+</ul>
+<p>Dans ces situations, une séance permet de vérifier l'absence de tensions résiduelles et d'accompagner un bon départ.</p>
+
+<h2>Comment se déroule une séance d'ostéopathie pour bébé ?</h2>
+<p>À mon cabinet de La Possession, une consultation pour nourrisson dure environ 30 à 45 minutes et se déroule dans un cadre rassurant pour les parents et le bébé.</p>
+
+<h3>1. L'interrogatoire des parents</h3>
+<p>Je commence par échanger longuement avec vous : déroulement de la grossesse et de l'accouchement, poids et développement du bébé, sommeil, alimentation, transit, motif de consultation. Le carnet de santé est précieux. Cet échange me permet aussi de repérer tout signe nécessitant un avis médical préalable.</p>
+
+<h3>2. L'observation et l'examen doux</h3>
+<p>J'observe le bébé : posture, mobilité de la tête, symétrie du crâne, aisance des mouvements. Puis j'examine très doucement, par la palpation, les zones de tension au niveau du crâne, du cou, du bassin et du ventre.</p>
+
+<h3>3. Le traitement tout en douceur</h3>
+<p>Le traitement n'utilise que des techniques adaptées au nourrisson : pressions légères, mobilisations crâniennes subtiles, travail doux sur le ventre et le diaphragme. <strong>Aucun geste brusque, aucun craquement.</strong> Le bébé reste souvent calme, parfois il tète ou s'endort. Vous restez à ses côtés tout le long.</p>
+
+<h3>4. Les conseils aux parents</h3>
+<p>Je termine par des conseils pratiques adaptés à votre situation : positions de couchage et d'éveil, temps sur le ventre (« tummy time »), alternance des côtés, portage, gestes pour les coliques. Ces conseils prolongent l'effet de la séance et sont essentiels, notamment pour la plagiocéphalie.</p>
+
+<h2>Ostéopathie et suivi médical : une complémentarité, pas une substitution</h2>
+<p>L'ostéopathie ne remplace jamais le suivi pédiatrique. Elle s'inscrit en <strong>complément</strong> du médecin, du pédiatre, du kinésithérapeute et, si besoin, de la consultante en lactation.</p>
+<p>Consultez en priorité votre médecin ou pédiatre — et non l'ostéopathe en première intention — en présence de :</p>
+<ul>
+  <li>Fièvre, bébé geignard ou inhabituellement mou</li>
+  <li>Vomissements en jet, refus de s'alimenter, perte de poids ou cassure de la courbe</li>
+  <li>Régurgitations avec sang, selles anormales</li>
+  <li>Asymétrie marquée du visage ou du crâne, raideur importante du cou</li>
+  <li>Retard dans les acquisitions, absence de progrès</li>
+</ul>
+<p>Un bon ostéopathe pédiatrique est aussi celui qui sait reconnaître ses limites et vous réorienter vers le bon professionnel.</p>
+
+<h2>Conseils à la maison pour prévenir la tête plate</h2>
+<p>En complément des séances, quelques gestes simples font une grande différence, surtout dans les premiers mois :</p>
+<ul>
+  <li><strong>Alterner la position de la tête</strong> pendant le sommeil (toujours sur le dos pour dormir, mais en variant le côté vers lequel la tête est tournée)</li>
+  <li><strong>Le temps sur le ventre</strong> (tummy time) plusieurs fois par jour, en éveil et sous surveillance, pour renforcer le cou et soulager l'arrière du crâne</li>
+  <li><strong>Varier les stimulations</strong> : changer le bébé de côté dans le lit, alterner le bras de portage, placer les jouets des deux côtés</li>
+  <li><strong>Limiter le temps passé dans les coques, transats et cosys</strong>, qui maintiennent la tête appuyée au même endroit</li>
+</ul>
+
+<h2>Ostéopathe pour bébé à La Possession (La Réunion)</h2>
+<p>Si votre nourrisson présente une tête plate, un torticolis, des coliques, un reflux ou un inconfort, ou si vous souhaitez simplement un bilan après la naissance, je vous reçois avec votre bébé à mon cabinet au sein de la Maison de Santé Sakisoigne, à La Possession (97419). Le cabinet est facilement accessible depuis Saint-Denis, Le Port, Saint-Paul, La Montagne et tout le nord de La Réunion.</p>
+<p>Je travaille en lien avec votre pédiatre, votre sage-femme et, si besoin, votre kinésithérapeute, pour un accompagnement complet et en sécurité de votre enfant. Pour les troubles du cou chez l'adulte ou l'enfant plus grand, vous pouvez aussi consulter mon article sur <a href="/blog/cervicalgie-torticolis-cou-bloque-osteopathie">le torticolis et les douleurs cervicales</a>.</p>
+<p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
