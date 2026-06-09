@@ -1278,6 +1278,141 @@ export const articles: Article[] = [
 <p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
 `,
   },
+  {
+    slug: "douleur-hanche-aine-arthrose-tendinite-osteopathie",
+    title: "Douleur à la hanche et à l'aine : causes, arthrose, tendinite et ostéopathie",
+    description:
+      "Douleur à la hanche ou à l'aine qui gêne la marche ou réveille la nuit ? Arthrose, tendinite, conflit de hanche : découvrez les causes et le rôle de l'ostéopathie. Cabinet à La Possession, La Réunion (974).",
+    date: "2026-06-09",
+    readTime: 9,
+    keywords: [
+      "douleur hanche",
+      "douleur hanche et aine",
+      "douleur à l'aine",
+      "arthrose hanche",
+      "tendinite hanche",
+      "conflit de hanche",
+      "douleur hanche la nuit",
+      "ostéopathe hanche La Réunion",
+      "ostéopathe hanche La Possession",
+      "ostéopathe La Possession 974",
+    ],
+    excerpt:
+      "La douleur de hanche et d'aine est un motif de consultation très fréquent, du sportif au senior. Derrière elle se cachent des causes variées — arthrose, tendinite, conflit, douleur projetée du dos. En tant qu'ostéopathe à La Possession (La Réunion), je vous aide à comprendre l'origine de votre douleur et ce que l'ostéopathie peut concrètement apporter.",
+    tldr:
+      "Une douleur de hanche se ressent souvent dans l'aine (atteinte de l'articulation : arthrose, conflit) ou sur le côté (tendinite des fessiers, bursite). L'ostéopathie soulage efficacement les tendinites, les douleurs projetées du dos et les compensations, et améliore le confort et la mobilité en cas d'arthrose — sans la guérir. Comptez 3 à 5 séances. Consultez un médecin en cas de douleur après chute, fièvre, blocage complet ou boiterie qui s'aggrave.",
+    faq: [
+      {
+        question: "Où a-t-on mal quand c'est la hanche ?",
+        answer:
+          "La vraie douleur de l'articulation de la hanche se ressent typiquement dans l'aine (le pli de l'aine), parfois jusqu'à la face avant de la cuisse, voire le genou. Une douleur située sur le côté de la hanche (le grand trochanter) évoque plutôt une tendinite des muscles fessiers ou une bursite. Une douleur dans la fesse irradiant derrière la cuisse oriente vers le dos, le nerf sciatique ou l'articulation sacro-iliaque.",
+      },
+      {
+        question: "Comment savoir si ma douleur de hanche vient de l'arthrose ?",
+        answer:
+          "L'arthrose de hanche (coxarthrose) donne une douleur de l'aine d'horaire mécanique : elle augmente à la marche et à l'effort, s'améliore au repos, avec une raideur matinale qui se dérouille en quelques minutes. Elle réduit progressivement la mobilité (difficulté à mettre ses chaussettes, à croiser les jambes). Une radiographie confirme le diagnostic. Une douleur nocturne intense, une fièvre ou une douleur après un traumatisme nécessitent un avis médical sans tarder.",
+      },
+      {
+        question: "L'ostéopathie peut-elle soulager une arthrose de hanche ?",
+        answer:
+          "L'ostéopathie ne guérit pas l'arthrose et ne fait pas disparaître l'usure du cartilage, mais elle améliore nettement le confort et la mobilité en travaillant sur les compensations : raideur du bassin, tensions des muscles péri-articulaires, report de charge sur le dos et le genou. En entretenant la souplesse et en corrigeant les déséquilibres, elle aide à mieux vivre avec l'arthrose et à retarder la gêne. 2 à 4 séances par an en entretien sont souvent utiles.",
+      },
+      {
+        question: "Combien de temps pour soigner une tendinite de hanche ?",
+        answer:
+          "Une tendinite de hanche (tendinopathie des fessiers, du moyen fessier) prise en charge tôt évolue favorablement en 4 à 8 semaines avec repos relatif, glace, renforcement progressif et correction des causes mécaniques. L'ostéopathie accélère la récupération en rééquilibrant le bassin et en relâchant les tensions. Une tendinite négligée peut traîner plusieurs mois : il faut agir tôt et corriger ce qui l'a provoquée (surcharge, déséquilibre, appui).",
+      },
+      {
+        question: "Une douleur à l'aine peut-elle venir du dos ?",
+        answer:
+          "Oui, et c'est fréquent. Une irritation des nerfs issus des lombaires (notamment L2-L3-L4) peut projeter une douleur dans l'aine et la face avant de la cuisse (cruralgie), sans que la hanche elle-même soit en cause. De même, un blocage de l'articulation sacro-iliaque ou une lombalgie peuvent se traduire par une douleur de hanche. C'est pourquoi un bilan global, et pas seulement local, est indispensable avant de conclure.",
+      },
+      {
+        question: "Quand faut-il s'inquiéter d'une douleur de hanche ?",
+        answer:
+          "Consultez un médecin sans tarder en cas de douleur après une chute ou un choc (risque de fracture, surtout chez le senior), de fièvre associée, de blocage complet de l'articulation, de boiterie qui s'aggrave, de douleur nocturne intense et permanente, de gonflement ou rougeur, ou d'altération de l'état général. Chez l'enfant, toute boiterie ou douleur de hanche doit être évaluée médicalement en priorité.",
+      },
+    ],
+    content: `
+<h2>Douleur de hanche ou douleur d'aine : la localisation oriente le diagnostic</h2>
+<p>« J'ai mal à la hanche » recouvre des réalités très différentes selon l'endroit exact de la douleur. Avant tout traitement, il faut localiser précisément :</p>
+<ul>
+  <li><strong>Douleur dans l'aine</strong> (le pli de l'aine), parfois irradiant à l'avant de la cuisse ou au genou : c'est la signature d'une atteinte de l'<strong>articulation de la hanche</strong> elle-même (arthrose, conflit fémoro-acétabulaire).</li>
+  <li><strong>Douleur sur le côté de la hanche</strong> (sur l'os saillant, le grand trochanter) : oriente vers une <strong>tendinite des fessiers</strong> ou une <strong>bursite trochantérienne</strong>.</li>
+  <li><strong>Douleur dans la fesse</strong>, irradiant derrière la cuisse : évoque le <strong>dos</strong>, le nerf sciatique ou l'<strong>articulation sacro-iliaque</strong> plutôt que la hanche.</li>
+</ul>
+<p>Cette distinction est essentielle : on ne traite pas de la même façon une articulation usée, un tendon enflammé et une douleur projetée par le dos. À mon cabinet de La Possession, le premier travail est toujours de déterminer d'où vient vraiment la douleur.</p>
+
+<h2>Les principales causes de douleur à la hanche et à l'aine</h2>
+
+<h3>L'arthrose de hanche (coxarthrose)</h3>
+<p>C'est la cause la plus fréquente après 50 ans. L'usure progressive du cartilage de l'articulation provoque une douleur de l'aine d'horaire <strong>mécanique</strong> : elle augmente à la marche, à la montée des escaliers, en fin de journée, et s'améliore au repos. Elle s'accompagne d'une raideur matinale brève et d'une perte progressive de mobilité (mettre ses chaussettes, croiser les jambes devient difficile). Le diagnostic se confirme par radiographie.</p>
+
+<h3>La tendinite des fessiers et la bursite</h3>
+<p>La tendinopathie du moyen fessier (et la bursite trochantérienne associée) donne une douleur sur le <strong>côté</strong> de la hanche, gênante quand on s'allonge sur le côté, qu'on monte les escaliers ou qu'on marche longtemps. Très fréquente chez le coureur, le marcheur et la femme après 50 ans, elle répond bien à une prise en charge précoce.</p>
+
+<h3>Le conflit fémoro-acétabulaire</h3>
+<p>Chez le sujet jeune et sportif, un conflit mécanique entre le col du fémur et le bord de la cavité articulaire provoque une douleur de l'aine lors des mouvements de flexion et de rotation (s'accroupir, position assise prolongée, certains gestes sportifs). Il peut à terme abîmer le bourrelet cartilagineux (labrum).</p>
+
+<h3>La douleur projetée par le dos</h3>
+<p>Une irritation des racines nerveuses lombaires hautes (L2-L3-L4) peut projeter une douleur dans l'aine et la cuisse (cruralgie), sans atteinte de la hanche. De même, un blocage <a href="/blog/douleur-sacro-iliaque-exercices-osteopathie">sacro-iliaque</a> ou une <a href="/blog/lombalgie-chronique-traitement-osteopathe">lombalgie</a> peuvent se manifester par une douleur de hanche trompeuse. D'où l'importance d'un bilan global.</p>
+
+<h3>Chez le sportif : penser aussi à la pubalgie</h3>
+<p>Si la douleur d'aine survient surtout à l'effort (tir, sprint, changement de direction) chez un sportif, il peut s'agir d'une pubalgie plutôt que d'une atteinte de la hanche. Je détaille ce cas dans mon article dédié à <a href="/blog/pubalgie-traitement-osteopathie-sport">la pubalgie et l'ostéopathie du sport</a>.</p>
+
+<h2>Que fait l'ostéopathe en cas de douleur de hanche ?</h2>
+<p>Après un bilan complet — interrogatoire, examen de la mobilité, tests orthopédiques, recherche de drapeaux rouges — j'adapte la prise en charge à la cause identifiée.</p>
+
+<h3>En cas de tendinite ou de douleur mécanique</h3>
+<ul>
+  <li><strong>Relâchement des muscles péri-articulaires</strong> : fessiers, pelvi-trochantériens, psoas, adducteurs, tenseur du fascia lata</li>
+  <li><strong>Rééquilibrage du bassin</strong> : une bascule ou un blocage du bassin surcharge un côté et entretient la tendinite</li>
+  <li><strong>Mobilisation douce de la hanche</strong> pour restaurer l'amplitude</li>
+  <li><strong>Correction des appuis</strong> : un déséquilibre des pieds, des genoux ou du dos reporte les contraintes sur la hanche</li>
+</ul>
+
+<h3>En cas d'arthrose</h3>
+<p>L'ostéopathie ne guérit pas l'arthrose, mais elle est précieuse pour <strong>mieux vivre avec</strong> : en entretenant la souplesse articulaire, en relâchant les muscles qui se contractent en protection, et en soulageant les zones qui compensent (dos, genou, hanche opposée). L'objectif est de préserver le confort et la mobilité le plus longtemps possible, en complément de l'activité physique adaptée et du suivi médical. Des séances d'entretien régulières sont souvent utiles.</p>
+
+<h3>En cas de douleur projetée par le dos</h3>
+<p>Si la hanche n'est pas la vraie coupable, je traite la source : mobilisation des lombaires, libération sacro-iliaque, relâchement des tensions du bassin. La douleur de hanche disparaît alors en traitant le dos.</p>
+
+<h2>Exercices pour soulager la hanche au quotidien</h2>
+<p>À pratiquer sans douleur, hors phase très aiguë, et idéalement après validation par un professionnel.</p>
+
+<h3>Étirement du fessier (en position allongée)</h3>
+<p>Allongé sur le dos, ramenez un genou vers la poitrine opposée en gardant les épaules au sol. Maintenez 30 secondes de chaque côté. Détend les muscles fessiers souvent en cause dans les douleurs latérales.</p>
+
+<h3>Étirement du psoas</h3>
+<p>En fente avant basse, genou arrière au sol, poussez doucement le bassin vers l'avant. 30 secondes de chaque côté. Le psoas, fléchisseur de hanche, est souvent rétracté chez les personnes assises de longues heures.</p>
+
+<h3>Renforcement du moyen fessier (abduction couchée)</h3>
+<p>Allongé sur le côté, jambes tendues, levez lentement la jambe du dessus vers le plafond sans basculer le bassin. 10 à 15 répétitions de chaque côté. Stabilise la hanche et soulage les tendinites latérales.</p>
+
+<h3>Mobilité douce de hanche</h3>
+<p>À quatre pattes, réalisez de petits cercles lents avec le bassin, puis avancez-reculez doucement les fesses vers les talons. Entretient l'amplitude articulaire, utile notamment en cas d'arthrose débutante.</p>
+
+<h3>La marche et la natation</h3>
+<p>Activités portées et douces, idéales pour entretenir la hanche sans la traumatiser. La natation et le vélo (selle bien réglée) sont particulièrement recommandés en cas d'arthrose.</p>
+
+<h2>Quand consulter un médecin en priorité ?</h2>
+<p>L'ostéopathie n'est pas le premier recours dans certaines situations. Consultez un médecin sans tarder en cas de :</p>
+<ul>
+  <li>Douleur de hanche <strong>après une chute ou un choc</strong> — risque de fracture, surtout chez le senior ostéoporotique</li>
+  <li><strong>Fièvre</strong> associée, gonflement ou rougeur de l'articulation</li>
+  <li><strong>Blocage complet</strong> de la hanche ou boiterie qui s'aggrave</li>
+  <li>Douleur <strong>nocturne intense et permanente</strong>, non calmée par le repos</li>
+  <li>Altération de l'état général, perte de poids inexpliquée</li>
+  <li>Chez l'<strong>enfant</strong> : toute boiterie ou douleur de hanche doit être évaluée médicalement en priorité</li>
+</ul>
+<p>Un ostéopathe formé sait reconnaître ces signes et vous réorienter immédiatement.</p>
+
+<h2>Douleur de hanche : consultation à La Possession (La Réunion)</h2>
+<p>Que votre douleur de hanche ou d'aine soit liée à une arthrose, une tendinite, un conflit ou qu'elle vienne en réalité du dos, je vous reçois à mon cabinet au sein de la Maison de Santé Sakisoigne, à La Possession (97419), accessible depuis Saint-Denis, Le Port, Saint-Paul, La Montagne et tout le nord de La Réunion.</p>
+<p>Si vous avez une radiographie ou un compte-rendu, apportez-le : il m'aidera à adapter précisément la prise en charge. Je travaille volontiers en complémentarité avec votre médecin et votre kinésithérapeute.</p>
+<p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {

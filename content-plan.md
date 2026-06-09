@@ -101,6 +101,14 @@
 - [x] **#3 + #7 fusionnés** — `cervicalgie-torticolis-cou-bloque-osteopathie` — 18/05/2026 *(KD=1 torticolis, intent informationnel cervicalgie, 0 site Réunion top 10, backfill #3)*
 - [x] **#8** — `pubalgie-traitement-osteopathie-sport` — 27/05/2026 *(pubalgie 49 500/mo +22% an, compét LOW, angle sport Réunion foot/trail, 0 site Réunion top 11)*
 - [x] **#10** — `osteopathe-nourrisson-bebe-coliques-plagiocephalie` — 01/06/2026 *(ostéopathe nourrisson KD=2 intent COMMERCIAL/transactionnel = fort taux RDV, plagiocéphalie 9900/mo, 0 site Réunion top 10, fort potentiel local)*
+- [x] **#9** — `douleur-hanche-aine-arthrose-tendinite-osteopathie` — 09/06/2026 *(douleur hanche 12 100/mo + douleur à l'aine 4400/mo, compét LOW, angle arthrose/tendinite/conflit pour ne PAS cannibaliser pubalgie ; data live DataForSEO du 01/06)*
+
+## Audit GSC — semaine 01/06 → 09/06/2026
+
+- ✅ **Impressions record** : pic à **48/jour le 07/06** (vs 37 sem précédente), ~155/semaine — croissance continue (×3,5 depuis fin avril)
+- ✅ Clics : 1 (02/06) + 2 (05/06) ; CTR 6-8% les jours à clic
+- ⚠️ **DataForSEO MCP déconnecté** ce jour → topic #9 choisi sur le pull live du 01/06 (toujours valide)
+- 🎯 #9 anglé arthrose/tendinite/conflit + douleur projetée pour se différencier nettement de #8 pubalgie (sport) ; maillage interne croisé hanche ↔ pubalgie ↔ sacro-iliaque ↔ lombalgie
 
 ## Audit GSC — semaine 25/05 → 01/06/2026
 
