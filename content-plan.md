@@ -102,6 +102,14 @@
 - [x] **#8** — `pubalgie-traitement-osteopathie-sport` — 27/05/2026 *(pubalgie 49 500/mo +22% an, compét LOW, angle sport Réunion foot/trail, 0 site Réunion top 11)*
 - [x] **#10** — `osteopathe-nourrisson-bebe-coliques-plagiocephalie` — 01/06/2026 *(ostéopathe nourrisson KD=2 intent COMMERCIAL/transactionnel = fort taux RDV, plagiocéphalie 9900/mo, 0 site Réunion top 10, fort potentiel local)*
 - [x] **#9** — `douleur-hanche-aine-arthrose-tendinite-osteopathie` — 09/06/2026 *(douleur hanche 12 100/mo + douleur à l'aine 4400/mo, compét LOW, angle arthrose/tendinite/conflit pour ne PAS cannibaliser pubalgie ; data live DataForSEO du 01/06)*
+- [x] **#11** — `sciatique-grossesse-osteopathe-femme-enceinte` — 22/06/2026 *(sciatique enceinte + mal de dos grossesse 720/mo chacun, KD=0 LOW, 0 site Réunion top 11 ; couvre aussi #12 femme enceinte ; angle fausse sciatique/sacro-iliaque + sécurité par trimestre)*
+
+## Audit GSC — semaine 08/06 → 22/06/2026
+
+- ✅ **Clics réguliers** : 7 jours sur 13 avec au moins 1 clic (vs sporadique avant) — CTR jusqu'à 12,5% le 20/06
+- ✅ **Impressions stables** ~25/jour, pic 41 le 08/06
+- ✅ **DataForSEO MCP réparé** (install global + chemins absolus dans ~/.claude.json) → données live de nouveau dispo nativement
+- 🎯 #11 grossesse : intent conversion fort (futures mamans), couvre #11 ET #12 du plan, maillage interne vers sciatique (#1) + sacro-iliaque (#4)
 
 ## Audit GSC — semaine 01/06 → 09/06/2026
 

@@ -1413,6 +1413,139 @@ export const articles: Article[] = [
 <p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
 `,
   },
+  {
+    slug: "sciatique-grossesse-osteopathe-femme-enceinte",
+    title: "Sciatique pendant la grossesse : soulager la douleur naturellement par l'ostéopathie",
+    description:
+      "Sciatique ou mal de dos enceinte qui gêne la marche et le sommeil ? Découvrez comment soulager naturellement la sciatique de grossesse : causes, positions, exercices et ostéopathie. Cabinet à La Possession, La Réunion (974).",
+    date: "2026-06-22",
+    readTime: 8,
+    keywords: [
+      "sciatique grossesse",
+      "sciatique enceinte",
+      "mal de dos grossesse",
+      "douleur bas du dos grossesse",
+      "ostéopathe femme enceinte",
+      "ostéopathe grossesse",
+      "fausse sciatique grossesse",
+      "ostéopathe femme enceinte La Réunion",
+      "ostéopathe grossesse La Possession",
+      "ostéopathe La Possession 974",
+    ],
+    excerpt:
+      "Près d'une femme enceinte sur deux souffre de douleurs de type sciatique ou de mal de dos pendant la grossesse. Bonne nouvelle : ces douleurs se soulagent très bien, naturellement et sans médicament. En tant qu'ostéopathe à La Possession (La Réunion), je vous explique d'où vient cette douleur et comment l'apaiser en toute sécurité.",
+    tldr:
+      "La « sciatique » de grossesse est le plus souvent une fausse sciatique liée au bassin (articulation sacro-iliaque, ligaments, posture) plutôt qu'à une vraie compression du nerf. Pour la soulager : adapter sa posture, dormir sur le côté avec un coussin entre les genoux, appliquer de la chaleur, marcher et nager doucement, et consulter un ostéopathe formé à la femme enceinte. L'ostéopathie est sans danger pendant la grossesse, avec des techniques douces. Consultez en urgence en cas de perte de force, troubles urinaires, saignements ou contractions.",
+    faq: [
+      {
+        question: "Une femme enceinte peut-elle consulter un ostéopathe ?",
+        answer:
+          "Oui, l'ostéopathie est sans danger pendant toute la grossesse lorsqu'elle est pratiquée par un ostéopathe formé à la femme enceinte. Les techniques employées sont douces, adaptées au terme, et ne comportent jamais de manipulation brusque sur le ventre ou le bassin. On peut consulter à chaque trimestre, et l'ostéopathie est particulièrement utile pour les douleurs de dos, la sciatique, les tensions du bassin et la préparation à l'accouchement.",
+      },
+      {
+        question: "Pourquoi a-t-on une sciatique pendant la grossesse ?",
+        answer:
+          "Pendant la grossesse, plusieurs facteurs se combinent : la prise de poids et l'augmentation du ventre déplacent le centre de gravité et creusent le bas du dos ; l'hormone relaxine assouplit les ligaments du bassin, qui devient plus instable ; et le bébé peut appuyer sur certaines structures. Le plus souvent, il s'agit d'une « fausse sciatique » d'origine sacro-iliaque ou musculaire plutôt que d'une vraie compression du nerf sciatique par une hernie.",
+      },
+      {
+        question: "Comment soulager une sciatique enceinte naturellement ?",
+        answer:
+          "Plusieurs gestes simples aident : dormir sur le côté (de préférence gauche) avec un coussin entre les genoux, appliquer de la chaleur douce sur le bas du dos ou la fesse, éviter de rester assise ou debout trop longtemps, marcher régulièrement, pratiquer la natation ou des étirements doux validés, et soigner sa posture. L'ostéopathie complète efficacement ces mesures en rééquilibrant le bassin. Les médicaments sont à éviter sans avis médical pendant la grossesse.",
+      },
+      {
+        question: "Combien de séances d'ostéopathie pendant la grossesse ?",
+        answer:
+          "Pour une douleur ponctuelle comme une sciatique, 1 à 3 séances suffisent souvent à soulager nettement. Beaucoup de femmes choisissent aussi un suivi préventif avec une séance par trimestre, plus une séance de préparation en fin de grossesse (vers 8 mois) pour assouplir le bassin en vue de l'accouchement. Le rythme s'adapte à votre confort et à l'évolution des douleurs.",
+      },
+      {
+        question: "Sciatique de grossesse : quand faut-il s'inquiéter ?",
+        answer:
+          "Consultez rapidement votre sage-femme, votre gynécologue ou les urgences en cas de perte de force dans la jambe, de troubles urinaires ou intestinaux récents, d'anesthésie de la zone du périnée, de saignements, de contractions douloureuses ou de fièvre. Ces signes nécessitent un avis médical avant toute prise en charge ostéopathique. En dehors de ces situations, la sciatique de grossesse est bénigne et se soulage bien.",
+      },
+      {
+        question: "L'ostéopathie peut-elle soulager le mal de dos en fin de grossesse ?",
+        answer:
+          "Oui, c'est même l'un des motifs les plus fréquents au 3e trimestre. À ce stade, l'ostéopathe travaille en position adaptée (sur le côté, semi-assise) pour relâcher les tensions lombaires, mobiliser doucement le bassin et soulager le diaphragme souvent comprimé. Une séance vers le 8e mois aide aussi à préparer le bassin à l'accouchement. Les techniques sont toujours douces et confortables pour la maman et le bébé.",
+      },
+    ],
+    content: `
+<h2>Sciatique et mal de dos pendant la grossesse : très fréquents, et soulageables</h2>
+<p>Environ une femme enceinte sur deux souffre de douleurs lombaires ou de type sciatique pendant sa grossesse. Ces douleurs, souvent vécues comme une fatalité, sont en réalité <strong>bénignes dans la grande majorité des cas</strong> et répondent très bien à une prise en charge naturelle.</p>
+<p>À mon cabinet de La Possession, j'accompagne régulièrement de futures mamans du nord de La Réunion qui n'osaient pas consulter, pensant qu'il fallait « faire avec ». C'est dommage, car quelques séances et de bons réflexes suffisent souvent à retrouver un vrai confort — y compris pour bien dormir.</p>
+
+<h2>Vraie sciatique ou « fausse sciatique » ? La distinction est importante</h2>
+<p>On parle souvent de « sciatique » de grossesse, mais dans la plupart des cas il ne s'agit pas d'une vraie compression du nerf sciatique par une hernie discale. C'est le plus souvent une <strong>fausse sciatique</strong> (sciatalgie), dont la douleur vient :</p>
+<ul>
+  <li>De l'<strong>articulation sacro-iliaque</strong>, entre le sacrum et le bassin, qui devient instable et douloureuse</li>
+  <li>Du <strong>muscle piriforme</strong>, dans la fesse, qui se contracte et irrite le trajet du nerf</li>
+  <li>Des <strong>tensions ligamentaires et posturales</strong> liées au poids du ventre</li>
+</ul>
+<p>Cette distinction est rassurante : une fausse sciatique d'origine mécanique se soulage particulièrement bien par l'ostéopathie, qui agit précisément sur le bassin et les muscles. Si vous voulez comprendre la sciatique en général, j'y consacre un article complet : <a href="/blog/comment-soulager-une-sciatique">comment soulager une sciatique</a>. Et pour la composante bassin, voir aussi <a href="/blog/douleur-sacro-iliaque-exercices-osteopathie">la douleur sacro-iliaque</a>, très impliquée pendant la grossesse.</p>
+
+<h2>Pourquoi la grossesse favorise ces douleurs</h2>
+<p>Trois mécanismes se combinent au fil des trimestres :</p>
+<ul>
+  <li><strong>Le changement de posture</strong> : le ventre qui grossit avance le centre de gravité, accentue la cambrure lombaire et surcharge le bas du dos.</li>
+  <li><strong>L'hormone relaxine</strong> : elle assouplit les ligaments pour préparer le bassin à l'accouchement, mais rend du même coup les articulations du bassin plus instables et sensibles.</li>
+  <li><strong>La prise de poids et la pression du bébé</strong> : elles augmentent les contraintes sur le rachis, le bassin et les muscles fessiers.</li>
+</ul>
+<p>À cela s'ajoutent, sous le climat réunionnais, la fatigue, la chaleur et parfois une activité physique réduite — autant de facteurs qui amplifient les tensions.</p>
+
+<h2>Comment soulager une sciatique de grossesse au quotidien</h2>
+<p>Voici les mesures les plus efficaces, sans médicament :</p>
+
+<h3>1. Soigner les positions</h3>
+<p>Évitez de rester assise ou debout trop longtemps. En position assise, calez le bas du dos et gardez les pieds à plat. Évitez de croiser les jambes. Pour vous relever, passez par le côté plutôt que de forcer sur le ventre.</p>
+
+<h3>2. Bien dormir</h3>
+<p>Dormez sur le côté (de préférence le gauche pour la circulation), avec un <strong>coussin entre les genoux</strong> et éventuellement un coussin sous le ventre. Un coussin de grossesse en U ou en L améliore beaucoup le confort nocturne.</p>
+
+<h3>3. Appliquer de la chaleur douce</h3>
+<p>Une bouillotte tiède (jamais brûlante) ou une douche chaude sur le bas du dos ou la fesse détend les muscles contractés. Évitez le chaud directement sur le ventre.</p>
+
+<h3>4. Bouger en douceur</h3>
+<p>La marche régulière, la natation et l'aquagym prénatale sont idéales : elles soulagent le dos en déchargeant le poids du corps. Quelques étirements doux du piriforme et des fessiers, validés par un professionnel, complètent bien.</p>
+
+<h3>5. Consulter un ostéopathe formé à la femme enceinte</h3>
+<p>C'est souvent ce qui fait la différence quand les douleurs persistent. L'ostéopathie agit directement sur la cause mécanique.</p>
+
+<h2>Ce que fait l'ostéopathe pour une femme enceinte</h2>
+<p>L'ostéopathie est <strong>sans danger pendant toute la grossesse</strong> lorsqu'elle est pratiquée par un praticien formé. Les techniques sont douces, adaptées au terme, et le confort de la maman est la priorité.</p>
+<p>Lors d'une consultation à mon cabinet de La Possession, après un interrogatoire et un examen attentif (et la vérification de l'absence de signe nécessitant un avis médical), je travaille notamment sur :</p>
+<ul>
+  <li><strong>Le rééquilibrage du bassin</strong> et de l'articulation sacro-iliaque, souvent à l'origine de la fausse sciatique</li>
+  <li><strong>Le relâchement des muscles</strong> fessiers, piriforme, lombaires et du psoas</li>
+  <li><strong>La mobilité du diaphragme et des côtes</strong>, comprimés en fin de grossesse</li>
+  <li><strong>La posture globale</strong> et les tensions ligamentaires liées au poids du ventre</li>
+  <li><strong>Des conseils personnalisés</strong> : positions, sommeil, étirements, ergonomie</li>
+</ul>
+<p>En fin de grossesse (vers le 8e mois), une séance permet aussi d'<strong>assouplir le bassin en vue de l'accouchement</strong>. Il n'y a jamais de manipulation brusque : tout est doux, lent et confortable.</p>
+
+<h2>À chaque trimestre, son accompagnement</h2>
+<ul>
+  <li><strong>1er trimestre</strong> : on soulage les nausées, les tensions et on fait un premier bilan postural. Les techniques sont particulièrement douces.</li>
+  <li><strong>2e trimestre</strong> : période idéale pour traiter les douleurs lombaires et de bassin qui apparaissent, et prévenir leur installation.</li>
+  <li><strong>3e trimestre</strong> : soulagement du mal de dos, de la sciatique et des tensions, travail en position adaptée (côté, semi-assise), puis préparation du bassin à l'accouchement.</li>
+</ul>
+<p>Après la naissance, une consultation post-partum est aussi recommandée pour aider le corps à se rééquilibrer.</p>
+
+<h2>Quand consulter en urgence ?</h2>
+<p>La sciatique de grossesse est bénigne, mais certains signes imposent un avis médical (sage-femme, gynécologue ou urgences) <strong>avant</strong> toute séance d'ostéopathie :</p>
+<ul>
+  <li>Perte de force dans une jambe, difficulté à marcher</li>
+  <li>Troubles urinaires ou intestinaux récents, anesthésie de la zone du périnée</li>
+  <li>Saignements, perte de liquide</li>
+  <li>Contractions douloureuses et régulières</li>
+  <li>Fièvre, ou douleur brutale et intense inhabituelle</li>
+</ul>
+<p>En dehors de ces situations, vous pouvez consulter sereinement pour soulager vos douleurs.</p>
+
+<h2>Ostéopathe pour femme enceinte à La Possession (La Réunion)</h2>
+<p>Si vous êtes enceinte et que vous souffrez d'une sciatique, d'un mal de dos ou de tensions du bassin, je vous reçois en consultation au cabinet de la Maison de Santé Sakisoigne, à La Possession (97419), accessible depuis Saint-Denis, Le Port, Saint-Paul, La Montagne et tout le nord de La Réunion.</p>
+<p>Je travaille en lien avec votre sage-femme et votre gynécologue, dans le respect de votre suivi de grossesse, avec des techniques douces et adaptées à chaque trimestre. N'hésitez pas à consulter dès les premières douleurs : plus on agit tôt, plus le soulagement est rapide et durable.</p>
+<p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
