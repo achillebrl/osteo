@@ -103,6 +103,14 @@
 - [x] **#10** — `osteopathe-nourrisson-bebe-coliques-plagiocephalie` — 01/06/2026 *(ostéopathe nourrisson KD=2 intent COMMERCIAL/transactionnel = fort taux RDV, plagiocéphalie 9900/mo, 0 site Réunion top 10, fort potentiel local)*
 - [x] **#9** — `douleur-hanche-aine-arthrose-tendinite-osteopathie` — 09/06/2026 *(douleur hanche 12 100/mo + douleur à l'aine 4400/mo, compét LOW, angle arthrose/tendinite/conflit pour ne PAS cannibaliser pubalgie ; data live DataForSEO du 01/06)*
 - [x] **#11** — `sciatique-grossesse-osteopathe-femme-enceinte` — 22/06/2026 *(sciatique enceinte + mal de dos grossesse 720/mo chacun, KD=0 LOW, 0 site Réunion top 11 ; couvre aussi #12 femme enceinte ; angle fausse sciatique/sacro-iliaque + sécurité par trimestre)*
+- [x] **#17** — `effet-rebond-fatigue-apres-osteopathie-normal` — 07/07/2026 *(effet rebond / fatigue après ostéopathie 210/mo, KD~0, compét LOW, tendance +24%/mois, 0 site Réunion top 11 ; pilier E-E-A-T rassurance patient, PAA riches)*
+
+## Audit GSC — semaine 20/06 → 07/07/2026
+
+- ✅ **Clics quasi-quotidiens** : 12 jours sur 16 avec ≥1 clic (vraie régularité), CTR 4-15%, jusqu'à 2 clics/jour
+- ✅ **Impressions stables/hautes** ~20-40/jour, pic 41 le 25/06
+- ✅ Évolution 2 mois confirmée : impressions +76% mois/mois, portefeuille en montée
+- 🎯 #17 effet rebond : sujet E-E-A-T (confiance/expertise), rassure les patients = soutient la conversion RDV sur tout le site ; maillage interne vers lombalgie + cervicalgie
 
 ## Audit GSC — semaine 08/06 → 22/06/2026
 
