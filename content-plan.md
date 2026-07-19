@@ -104,6 +104,14 @@
 - [x] **#9** — `douleur-hanche-aine-arthrose-tendinite-osteopathie` — 09/06/2026 *(douleur hanche 12 100/mo + douleur à l'aine 4400/mo, compét LOW, angle arthrose/tendinite/conflit pour ne PAS cannibaliser pubalgie ; data live DataForSEO du 01/06)*
 - [x] **#11** — `sciatique-grossesse-osteopathe-femme-enceinte` — 22/06/2026 *(sciatique enceinte + mal de dos grossesse 720/mo chacun, KD=0 LOW, 0 site Réunion top 11 ; couvre aussi #12 femme enceinte ; angle fausse sciatique/sacro-iliaque + sécurité par trimestre)*
 - [x] **#17** — `effet-rebond-fatigue-apres-osteopathie-normal` — 07/07/2026 *(effet rebond / fatigue après ostéopathie 210/mo, KD~0, compét LOW, tendance +24%/mois, 0 site Réunion top 11 ; pilier E-E-A-T rassurance patient, PAA riches)*
+- [x] **#13** — `osteopathe-du-sport-la-reunion-blessures-recuperation-performance` — 19/07/2026 *(ostéopathie sport 1000/mo compét LOW CPC 1,89€ intent commercial, 0 site Réunion top 17, angle hub sport local trail/surf/foot ; maillage vers pubalgie/hanche/sacro-iliaque/cervicalgie/effet rebond)*
+
+## Audit GSC — semaine 05/07 → 19/07/2026
+
+- 🎉 **RECORD clics** : 13/07 = **5 clics** (CTR 15,15%, pos 6,6) — meilleure journée depuis le lancement
+- 🎉 **RECORD impressions** : 09/07 = **64 impressions** (vs pic 48 précédent)
+- ✅ Impressions désormais ~30-40/jour de base, clics plusieurs jours/semaine
+- 🎯 #13 sport : hub local à fort potentiel (audience trail/surf/foot Réunion), intent commercial = conversion RDV ; maille tout le cluster musculo-squelettique existant
 
 ## Audit GSC — semaine 20/06 → 07/07/2026
 

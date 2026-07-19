@@ -1667,6 +1667,109 @@ export const articles: Article[] = [
 <p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
 `,
   },
+  {
+    slug: "osteopathe-du-sport-la-reunion-blessures-recuperation-performance",
+    title: "Ostéopathe du sport à La Réunion : blessures, récupération et performance",
+    description:
+      "Trail, course, surf, football : l'ostéopathie aide les sportifs à prévenir les blessures, mieux récupérer et progresser. Découvrez quand et pourquoi consulter. Ostéopathe du sport à La Possession, La Réunion (974).",
+    date: "2026-07-19",
+    readTime: 8,
+    keywords: [
+      "ostéopathie sport",
+      "ostéopathe du sport",
+      "ostéopathe sportif",
+      "ostéopathe du sport La Réunion",
+      "ostéopathe sport La Possession",
+      "récupération sportive ostéopathie",
+      "ostéopathe trail Réunion",
+      "prévention blessures sport",
+      "ostéopathe La Possession 974",
+    ],
+    excerpt:
+      "À La Réunion, on court, on grimpe, on surfe, on joue au foot — et le corps encaisse. L'ostéopathie du sport aide à prévenir les blessures, à récupérer plus vite et à optimiser la performance. En tant qu'ostéopathe à La Possession, j'accompagne les sportifs de l'île, du coureur du dimanche au traileur confirmé.",
+    tldr:
+      "L'ostéopathie du sport agit sur trois axes : prévenir les blessures (corriger les déséquilibres avant qu'ils ne cassent), accélérer la récupération (drainer les tensions, relancer la mobilité) et optimiser la performance (amplitude, respiration, gestuelle). Idéale en préparation d'un objectif (trail, course, compétition) et en entretien 2 à 4 fois par an. Elle complète le médecin du sport et le kiné, sans les remplacer. Après une blessure aiguë (entorse, choc), un avis médical prime avant l'ostéopathie.",
+    faq: [
+      {
+        question: "Qu'est-ce que l'ostéopathie du sport ?",
+        answer:
+          "L'ostéopathie du sport est une approche adaptée aux sportifs, amateurs comme confirmés, qui vise trois objectifs : prévenir les blessures en corrigeant les déséquilibres mécaniques, améliorer la récupération après l'effort, et optimiser la performance en libérant la mobilité et la gestuelle. L'ostéopathe travaille sur les articulations, les muscles, les fascias et la posture globale, en tenant compte des contraintes propres à chaque discipline (course, trail, surf, sports collectifs).",
+      },
+      {
+        question: "Pourquoi un sportif devrait-il consulter un ostéopathe ?",
+        answer:
+          "Parce que le corps du sportif accumule des micro-déséquilibres liés aux gestes répétés, aux appuis et aux chocs. Non corrigés, ils finissent par provoquer tendinites, contractures, douleurs de dos ou blessures. Consulter régulièrement permet de détecter et corriger ces tensions avant qu'elles ne dégénèrent, de mieux récupérer entre les séances, et de préparer le corps à un objectif (compétition, trail, course). C'est une démarche de prévention autant que de soin.",
+      },
+      {
+        question: "Quand consulter un ostéopathe avant ou après une compétition ?",
+        answer:
+          "Avant une compétition : idéalement 5 à 10 jours avant, pour laisser au corps le temps d'intégrer les ajustements (jamais la veille, à cause de l'éventuel effet rebond). Après : quelques jours après l'effort, pour aider à évacuer les tensions et accélérer la récupération. En dehors des échéances, un suivi d'entretien de 2 à 4 séances par an suffit à la plupart des sportifs pour rester équilibrés.",
+      },
+      {
+        question: "Ostéopathe ou kinésithérapeute pour le sport ?",
+        answer:
+          "Les deux sont complémentaires. L'ostéopathe a une approche globale et rapide : il libère les blocages, rééquilibre le corps et travaille la prévention. Le kinésithérapeute intervient surtout en rééducation après blessure, avec un travail de renforcement et de reprogrammation sur la durée. Pour une blessure sportive, l'idéal est souvent de combiner les deux, en lien avec le médecin du sport.",
+      },
+      {
+        question: "Quand consulter un ostéopathe après une entorse ?",
+        answer:
+          "Après une entorse, la priorité est d'abord un avis médical pour évaluer la gravité (protocole GREC/repos, glace, radio si besoin). Pour une entorse légère à modérée, l'ostéopathe peut intervenir dès les 72 premières heures pour redonner de la mobilité à l'articulation et relancer la circulation, puis accompagner la récupération. En cas de gonflement important, d'impossibilité d'appui ou de suspicion de fracture, consultez un médecin en priorité.",
+      },
+      {
+        question: "L'ostéopathie améliore-t-elle vraiment la performance ?",
+        answer:
+          "L'ostéopathie n'est pas un dopage : elle n'ajoute pas de puissance. En revanche, en restaurant l'amplitude articulaire, en relâchant les tensions qui brident le geste et en améliorant la respiration diaphragmatique, elle permet au sportif d'exploiter pleinement son potentiel et de bouger plus librement. Beaucoup de sportifs constatent une gestuelle plus fluide, une meilleure récupération et moins de blessures — ce qui, indirectement, sert la performance.",
+      },
+    ],
+    content: `
+<h2>Le corps du sportif réunionnais est mis à rude épreuve</h2>
+<p>À La Réunion, le sport fait partie du quotidien — et le terrain ne fait pas de cadeau. Le <strong>trail et la randonnée</strong> sur les sentiers volcaniques enchaînent dénivelés et appuis instables. La <strong>course à pied</strong> sur route ou en montagne sollicite intensément le bassin et les membres inférieurs. Le <strong>surf</strong> mobilise le dos, les épaules et la nuque. Le <strong>football</strong>, très pratiqué sur l'île, multiplie sprints, frappes et changements de direction. Ajoutez la chaleur et l'humidité, qui accentuent la fatigue et la déshydratation, et vous avez un corps fortement sollicité.</p>
+<p>À mon cabinet de La Possession, j'accompagne des sportifs de tous niveaux du nord de l'île : coureurs, traileurs, footballeurs, surfeurs, pratiquants de fitness. Leur point commun : un corps qui encaisse, et qui gagne à être entretenu.</p>
+
+<h2>Les trois rôles de l'ostéopathie du sport</h2>
+
+<h3>1. Prévenir les blessures</h3>
+<p>La plupart des blessures sportives ne sortent pas de nulle part : elles résultent de <strong>déséquilibres mécaniques</strong> installés petit à petit. Un bassin légèrement bloqué, une cheville raide, une tension dans le mollet ou le psoas modifient la façon dont le corps encaisse les chocs. À force, une zone compense, se fatigue, et finit par lâcher — tendinite, contracture, déchirure, douleur de dos.</p>
+<p>En détectant et corrigeant ces déséquilibres <strong>avant</strong> qu'ils ne provoquent une blessure, l'ostéopathie joue un vrai rôle préventif. C'est particulièrement précieux à l'approche d'un objectif (trail, course, saison sportive).</p>
+
+<h3>2. Accélérer la récupération</h3>
+<p>Après un effort intense, le corps est chargé de tensions musculaires et de micro-restrictions de mobilité. L'ostéopathie aide à <strong>relâcher ces tensions</strong>, à relancer la circulation et à restaurer une bonne mobilité articulaire. Résultat : une récupération plus rapide, moins de courbatures persistantes, et un corps prêt plus tôt pour la prochaine séance.</p>
+
+<h3>3. Optimiser la performance</h3>
+<p>L'ostéopathie n'est pas un produit dopant : elle n'ajoute pas de force. Mais en <strong>libérant l'amplitude articulaire</strong>, en relâchant ce qui bride le geste et en améliorant la respiration (travail sur le diaphragme et la cage thoracique), elle permet au sportif d'exploiter pleinement son potentiel. Un geste plus libre, une foulée plus ample, une respiration plus efficace : autant de gains indirects sur la performance.</p>
+
+<h2>Les blessures et douleurs les plus fréquentes chez le sportif</h2>
+<p>Voici ce que je rencontre le plus souvent en consultation, et pour lesquelles l'ostéopathie est utile — seule ou en complément :</p>
+<ul>
+  <li><strong>Tendinites</strong> (Achille, genou, hanche, épaule) liées aux gestes répétés et aux déséquilibres</li>
+  <li><strong>Pubalgie</strong> chez le footballeur et le coureur — j'y consacre un article dédié : <a href="/blog/pubalgie-traitement-osteopathie-sport">pubalgie et ostéopathie du sport</a></li>
+  <li><strong>Douleurs de hanche et d'aine</strong> — voir <a href="/blog/douleur-hanche-aine-arthrose-tendinite-osteopathie">douleur hanche et aine</a></li>
+  <li><strong>Entorses</strong> (cheville surtout), en complément de l'avis médical</li>
+  <li><strong>Douleurs de dos et de bassin</strong> : lombalgie du coureur, blocage <a href="/blog/douleur-sacro-iliaque-exercices-osteopathie">sacro-iliaque</a></li>
+  <li><strong>Cervicalgies</strong> du surfeur et du cycliste — voir <a href="/blog/cervicalgie-torticolis-cou-bloque-osteopathie">douleurs cervicales</a></li>
+</ul>
+
+<h2>Quand consulter : avant, pendant, après la saison</h2>
+
+<h3>En préparation d'un objectif</h3>
+<p>Idéalement <strong>5 à 10 jours avant</strong> une compétition ou un trail : le corps a le temps d'intégrer les ajustements. On évite la séance la veille, à cause de l'éventuel effet rebond (fatigue, courbatures passagères) — un phénomène normal que j'explique dans mon article sur <a href="/blog/effet-rebond-fatigue-apres-osteopathie-normal">l'effet rebond après une séance</a>.</p>
+
+<h3>Après l'effort ou une blessure</h3>
+<p>Quelques jours après une grosse échéance pour favoriser la récupération. Après une blessure (entorse légère, choc), l'ostéopathe peut intervenir dès les 72 heures pour une atteinte bénigne — <strong>après avoir écarté une lésion grave par un avis médical</strong>.</p>
+
+<h3>En entretien</h3>
+<p>Pour la plupart des sportifs, <strong>2 à 4 séances par an</strong> suffisent à maintenir l'équilibre et à prévenir les blessures, avec des séances supplémentaires en cas de douleur ou de préparation spécifique.</p>
+
+<h2>Ostéopathie, médecin du sport et kiné : une équipe</h2>
+<p>L'ostéopathie ne remplace ni le médecin du sport ni le kinésithérapeute — elle s'intègre dans une prise en charge globale. Le médecin pose le diagnostic et gère les blessures sérieuses ; le kiné assure la rééducation et le renforcement sur la durée ; l'ostéopathe rééquilibre, libère les blocages et travaille la prévention. Les meilleurs résultats viennent de cette complémentarité.</p>
+<p><strong>Un avis médical prime toujours</strong> en cas de gonflement important, d'impossibilité d'appui, de douleur intense, de suspicion de fracture ou de tout signe inquiétant.</p>
+
+<h2>Ostéopathe du sport à La Possession (La Réunion)</h2>
+<p>Que vous prépariez un trail, une course, une saison de foot ou que vous vouliez simplement mieux récupérer et éviter les blessures, je vous reçois à mon cabinet au sein de la Maison de Santé Sakisoigne, à La Possession (97419), accessible depuis Saint-Denis, Le Port, Saint-Paul, La Montagne et tout le nord de La Réunion.</p>
+<p>Je prends en compte votre discipline, votre calendrier sportif et vos objectifs pour adapter chaque séance. Sportifs réguliers : n'attendez pas la blessure pour consulter — la prévention est le meilleur allié de la performance.</p>
+<p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
