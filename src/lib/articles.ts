@@ -1770,6 +1770,122 @@ export const articles: Article[] = [
 <p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
 `,
   },
+  {
+    slug: "osteopathie-senior-arthrose-equilibre-chutes",
+    title: "Ostéopathie pour les seniors : soulager l'arthrose, garder l'équilibre et prévenir les chutes",
+    description:
+      "Arthrose, raideurs, perte d'équilibre, douleurs liées à l'âge : l'ostéopathie douce aide les seniors à rester mobiles et autonomes. Découvrez ses bienfaits et ses limites. Ostéopathe à La Possession, La Réunion (974).",
+    date: "2026-07-31",
+    readTime: 8,
+    keywords: [
+      "ostéopathie arthrose",
+      "ostéopathe senior",
+      "ostéopathie personne âgée",
+      "arthrose traitement",
+      "arthrose soulager douleur",
+      "ostéopathie équilibre chutes",
+      "ostéopathe senior La Réunion",
+      "ostéopathe personne âgée La Possession",
+      "ostéopathe La Possession 974",
+    ],
+    excerpt:
+      "Avec l'âge, l'arthrose, les raideurs et la perte d'équilibre s'installent. L'ostéopathie ne rajeunit pas les articulations, mais elle aide les seniors à moins souffrir, mieux bouger et rester autonomes plus longtemps. En tant qu'ostéopathe à La Possession (La Réunion), voici comment j'accompagne les personnes âgées, tout en douceur.",
+    tldr:
+      "Chez le senior, l'ostéopathie ne guérit pas l'arthrose mais soulage les douleurs, réduit les raideurs, entretient la mobilité et aide à prévenir les chutes en améliorant l'équilibre et la souplesse. Les techniques sont douces, adaptées à la fragilité osseuse — sans manipulation forcée. 2 à 4 séances d'entretien par an suffisent souvent. Un avis médical prime en cas d'ostéoporose sévère, de chute récente, de douleur inflammatoire ou de tout signe inhabituel.",
+    faq: [
+      {
+        question: "Est-ce que l'ostéopathie soigne l'arthrose ?",
+        answer:
+          "Non, l'ostéopathie ne guérit pas l'arthrose : elle ne répare pas le cartilage usé ni l'articulation abîmée. En revanche, elle soulage efficacement les douleurs et les raideurs liées à l'arthrose en travaillant sur la mobilité articulaire, la souplesse des muscles et des tissus, et les compensations que le corps met en place. L'objectif est d'améliorer le confort et de préserver l'autonomie, en complément du suivi médical et de l'activité physique adaptée.",
+      },
+      {
+        question: "L'ostéopathie est-elle sans danger pour une personne âgée ?",
+        answer:
+          "Oui, à condition d'être pratiquée par un ostéopathe qui adapte ses techniques à la fragilité du senior. Chez la personne âgée, on privilégie des approches très douces (techniques fonctionnelles, mobilisations lentes, travail sur les tissus) et on évite les manipulations forcées, surtout en cas d'ostéoporose. Un bon praticien vérifie d'abord l'absence de contre-indication et travaille en lien avec le médecin traitant.",
+      },
+      {
+        question: "Comment soulager l'arthrose chez une personne âgée ?",
+        answer:
+          "La meilleure approche combine plusieurs leviers : maintenir une activité physique douce et régulière (marche, natation, vélo, gymnastique douce), garder un poids de forme, appliquer de la chaleur sur les articulations raides, et consulter un ostéopathe pour entretenir la mobilité et soulager les tensions. Les traitements médicaux (antalgiques, parfois infiltrations) restent gérés par le médecin. L'immobilité est le pire ennemi de l'arthrose : il faut bouger, en douceur.",
+      },
+      {
+        question: "L'ostéopathie peut-elle aider à prévenir les chutes ?",
+        answer:
+          "Oui, indirectement. En améliorant la mobilité des chevilles, des hanches et de la colonne, en relâchant les tensions qui perturbent la posture, et en travaillant sur les capteurs de l'équilibre (pieds, bassin, crâne), l'ostéopathie contribue à une meilleure stabilité. Elle s'inscrit dans une prévention globale des chutes qui inclut aussi l'activité physique, l'aménagement du domicile, la vérification de la vue et la revue des médicaments avec le médecin.",
+      },
+      {
+        question: "Combien de séances d'ostéopathie pour un senior ?",
+        answer:
+          "Pour une douleur ponctuelle, 1 à 3 séances suffisent souvent à soulager. Pour l'entretien d'une arthrose ou d'un terrain douloureux chronique, un rythme de 2 à 4 séances par an permet de maintenir la mobilité et de prévenir les blocages. Le rythme s'adapte à l'état de chacun : certains seniors bénéficient d'un suivi un peu plus rapproché, d'autres d'un simple entretien saisonnier.",
+      },
+      {
+        question: "Quand un senior ne doit-il pas consulter un ostéopathe en premier ?",
+        answer:
+          "En cas de chute récente (risque de fracture, surtout avec ostéoporose), de douleur brutale et intense, de fièvre, de gonflement articulaire chaud et rouge, de douleur nocturne inflammatoire, d'altération de l'état général ou de perte de poids inexpliquée, il faut consulter un médecin en priorité. L'ostéopathie intervient une fois ces causes écartées, en complément et jamais à la place du suivi médical.",
+      },
+    ],
+    content: `
+<h2>Bien vieillir : ce que l'ostéopathie peut (et ne peut pas) faire</h2>
+<p>Avec les années, le corps change : le cartilage s'use (arthrose), les muscles perdent en souplesse, les articulations s'enraidissent, l'équilibre devient plus précaire. Ces évolutions sont naturelles, mais elles n'obligent pas à souffrir ni à perdre son autonomie.</p>
+<p>Soyons clairs d'emblée : <strong>l'ostéopathie ne rajeunit pas les articulations et ne guérit pas l'arthrose</strong>. Aucune main, aussi experte soit-elle, ne reconstruit du cartilage usé. En revanche, l'ostéopathie fait quelque chose de très utile : elle aide le senior à <strong>moins souffrir, mieux bouger et rester autonome plus longtemps</strong>. C'est un objectif de qualité de vie, et il est parfaitement atteignable.</p>
+<p>À mon cabinet de La Possession, j'accompagne des personnes âgées du nord de La Réunion avec des techniques adaptées à leur fragilité — tout en douceur, sans jamais forcer.</p>
+
+<h2>Les bienfaits de l'ostéopathie pour les seniors</h2>
+
+<h3>Soulager les douleurs de l'arthrose</h3>
+<p>L'arthrose (genou, hanche, colonne, mains) provoque douleurs et raideurs. L'ostéopathe ne traite pas l'usure elle-même, mais il agit sur tout ce qui l'entoure : <strong>les muscles contracturés</strong> en protection, <strong>les articulations voisines</strong> qui compensent, et la <strong>mobilité globale</strong>. Résultat : la douleur diminue, la raideur s'atténue, les gestes du quotidien redeviennent plus faciles. Pour l'arthrose de hanche en particulier, voir mon article sur la <a href="/blog/douleur-hanche-aine-arthrose-tendinite-osteopathie">douleur de hanche et l'arthrose</a>.</p>
+
+<h3>Entretenir la mobilité et la souplesse</h3>
+<p>Le corps qui bouge moins s'enraidit davantage — un cercle vicieux fréquent chez le senior. En restaurant de la mobilité articulaire et en relâchant les tensions, l'ostéopathie aide à rester souple et à conserver de bonnes amplitudes de mouvement, essentielles pour l'autonomie (s'habiller, se baisser, monter les escaliers).</p>
+
+<h3>Améliorer l'équilibre et prévenir les chutes</h3>
+<p>Les chutes sont l'une des principales causes de perte d'autonomie chez la personne âgée. L'ostéopathie contribue à une meilleure stabilité en travaillant sur la <strong>mobilité des chevilles et des hanches</strong>, la <strong>posture</strong>, et les <strong>capteurs de l'équilibre</strong> (pieds, bassin, système crânien). Elle s'intègre dans une prévention globale des chutes — avec l'activité physique, l'aménagement du logement et le suivi médical.</p>
+
+<h3>Soulager le dos, la nuque et les tensions du quotidien</h3>
+<p>Lombalgies, <a href="/blog/cervicalgie-torticolis-cou-bloque-osteopathie">cervicalgies</a>, tensions liées à une posture qui se voûte : autant de motifs fréquents chez le senior, qui répondent bien à un travail ostéopathique doux. Voir aussi mon article sur la <a href="/blog/lombalgie-chronique-traitement-osteopathe">lombalgie chronique</a>.</p>
+
+<h3>Accompagner le confort global</h3>
+<p>Au-delà des articulations, l'ostéopathie peut aider sur des troubles fonctionnels fréquents avec l'âge : digestion, sommeil, respiration, tensions générales. L'objectif reste toujours le même : <strong>améliorer le confort de vie</strong>.</p>
+
+<h2>Des techniques douces, adaptées à la fragilité</h2>
+<p>C'est le point essentiel : chez le senior, <strong>on n'utilise pas les mêmes techniques que chez un jeune adulte sportif</strong>. La fragilité osseuse (ostéoporose), la fragilité vasculaire et les traitements en cours imposent une grande prudence.</p>
+<p>Concrètement, je privilégie :</p>
+<ul>
+  <li>Les <strong>techniques fonctionnelles</strong> et de relâchement des tissus, indolores</li>
+  <li>Les <strong>mobilisations douces et lentes</strong>, sans à-coups</li>
+  <li>Le <strong>travail crânien et viscéral</strong>, très doux</li>
+  <li>J'évite les <strong>manipulations forcées à haute vélocité</strong>, surtout sur une colonne fragilisée</li>
+</ul>
+<p>Avant toute séance, je vérifie les antécédents, les traitements (notamment anticoagulants), la densité osseuse connue, et je travaille en lien avec le médecin traitant. Un ostéopathe consciencieux sait aussi <strong>réorienter</strong> vers le médecin quand c'est nécessaire.</p>
+
+<h2>Comment soulager l'arthrose au quotidien</h2>
+<p>En complément des séances, quelques principes font une vraie différence :</p>
+<ul>
+  <li><strong>Bouger, en douceur</strong> : l'immobilité est le pire ennemi de l'arthrose. Marche, natation, vélo, gymnastique douce, tai-chi entretiennent les articulations sans les traumatiser.</li>
+  <li><strong>Garder un poids de forme</strong> : chaque kilo en moins soulage les articulations porteuses (genoux, hanches).</li>
+  <li><strong>Appliquer de la chaleur</strong> sur les articulations raides (le matin notamment).</li>
+  <li><strong>Protéger ses articulations</strong> : éviter le port de charges lourdes, adapter les gestes.</li>
+  <li><strong>Rester régulier</strong> : un peu d'activité chaque jour vaut mieux qu'un gros effort ponctuel.</li>
+</ul>
+<p>Le traitement médicamenteux (antalgiques, anti-inflammatoires, parfois infiltrations) reste géré par le médecin. L'ostéopathie et ces mesures d'hygiène de vie se complètent.</p>
+
+<h2>Quand consulter un médecin en priorité ?</h2>
+<p>Chez le senior, certaines situations imposent un avis médical <strong>avant</strong> l'ostéopathie :</p>
+<ul>
+  <li><strong>Chute récente</strong> ou traumatisme — risque de fracture, surtout avec ostéoporose</li>
+  <li>Douleur <strong>brutale et intense</strong>, ou articulation <strong>chaude, rouge et gonflée</strong></li>
+  <li><strong>Fièvre</strong>, douleur nocturne inflammatoire, altération de l'état général</li>
+  <li><strong>Perte de poids</strong> inexpliquée</li>
+  <li>Tout <strong>signe neurologique</strong> (perte de force, troubles de la parole, vertiges importants)</li>
+</ul>
+<p>Ces signes nécessitent une évaluation médicale. L'ostéopathie intervient ensuite, en complément.</p>
+
+<h2>Ostéopathe pour seniors à La Possession (La Réunion)</h2>
+<p>Que ce soit pour soulager une arthrose, retrouver de la mobilité, améliorer votre équilibre ou simplement mieux vivre les petits maux liés à l'âge, je vous reçois à mon cabinet au sein de la Maison de Santé Sakisoigne, à La Possession (97419), accessible depuis Saint-Denis, Le Port, Saint-Paul, La Montagne et tout le nord de La Réunion.</p>
+<p>J'adapte chaque séance à votre état, en douceur et en sécurité, en lien avec votre médecin traitant. L'objectif : vous aider à rester mobile, autonome et confortable le plus longtemps possible.</p>
+<p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {

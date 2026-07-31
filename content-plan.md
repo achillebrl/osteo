@@ -105,6 +105,14 @@
 - [x] **#11** — `sciatique-grossesse-osteopathe-femme-enceinte` — 22/06/2026 *(sciatique enceinte + mal de dos grossesse 720/mo chacun, KD=0 LOW, 0 site Réunion top 11 ; couvre aussi #12 femme enceinte ; angle fausse sciatique/sacro-iliaque + sécurité par trimestre)*
 - [x] **#17** — `effet-rebond-fatigue-apres-osteopathie-normal` — 07/07/2026 *(effet rebond / fatigue après ostéopathie 210/mo, KD~0, compét LOW, tendance +24%/mois, 0 site Réunion top 11 ; pilier E-E-A-T rassurance patient, PAA riches)*
 - [x] **#13** — `osteopathe-du-sport-la-reunion-blessures-recuperation-performance` — 19/07/2026 *(ostéopathie sport 1000/mo compét LOW CPC 1,89€ intent commercial, 0 site Réunion top 17, angle hub sport local trail/surf/foot ; maillage vers pubalgie/hanche/sacro-iliaque/cervicalgie/effet rebond)*
+- [x] **#14** — `osteopathie-senior-arthrose-equilibre-chutes` — 31/07/2026 *(ostéopathie arthrose compét quasi-nulle backlinks 0.4, cluster arthrose KD 1-5, 0 site Réunion top 11, AI Overview présent = format GEO adapté ; angle senior arthrose/équilibre/chutes/douceur ; maillage hanche/lombalgie/cervicalgie)*
+
+## Audit GSC — semaine 17/07 → 31/07/2026
+
+- ✅ **Croissance confirmée** : impressions ~25-44/jour, base plus haute qu'en juin
+- ✅ 28/07 = **3 clics** (44 impressions), 18-19/07 clics aussi
+- ⚠️ MCP gsc-indexing déconnecté ce jour → indexation via API REST Google en fallback
+- 🎯 #14 senior : audience âgée locale (fort potentiel RDV), sujet à AI Overview donc bien servi par notre schema FAQPage/TL;DR ; complète le cluster arthrose entamé avec #9 hanche
 
 ## Audit GSC — semaine 05/07 → 19/07/2026
 
