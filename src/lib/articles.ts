@@ -1886,6 +1886,117 @@ export const articles: Article[] = [
 <p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
 `,
   },
+  {
+    slug: "remboursement-prix-osteopathie-la-reunion-974",
+    title: "Remboursement et prix d'une séance d'ostéopathie à La Réunion (974)",
+    description:
+      "Combien coûte une séance d'ostéopathie à La Réunion et comment se faire rembourser par sa mutuelle ? Prix, prise en charge, démarches. Ostéopathe à La Possession (974).",
+    date: "2026-08-10",
+    readTime: 7,
+    keywords: [
+      "remboursement ostéopathie",
+      "prix séance ostéopathie",
+      "tarif ostéopathe",
+      "remboursement ostéopathie mutuelle",
+      "ostéopathie remboursement sécurité sociale",
+      "prix ostéopathe La Réunion",
+      "remboursement ostéopathie 974",
+      "ostéopathe La Possession 974",
+    ],
+    excerpt:
+      "« Combien ça coûte ? » et « Est-ce remboursé ? » sont les deux questions que l'on me pose le plus avant une première séance. Voici, clairement, le prix d'une consultation d'ostéopathie à La Réunion, ce que prennent en charge la Sécurité sociale et les mutuelles, et comment vous faire rembourser.",
+    tldr:
+      "L'ostéopathie n'est PAS remboursée par la Sécurité sociale (Assurance Maladie) : ni en métropole, ni à La Réunion. En revanche, la plupart des mutuelles proposent un forfait « médecines douces » qui rembourse tout ou partie de la séance (souvent 20 à 60 € par séance, dans une limite annuelle). À La Réunion, une séance coûte en général entre 50 et 65 €. Au cabinet de La Possession : 60 € (adulte) et 50 € (enfant de moins de 15 ans). Une facture vous est remise pour votre mutuelle.",
+    faq: [
+      {
+        question: "L'ostéopathie est-elle remboursée par la Sécurité sociale ?",
+        answer:
+          "Non. L'ostéopathie est une pratique non conventionnée : l'Assurance Maladie (Sécurité sociale, CPAM) ne rembourse aucune séance d'ostéopathie, que ce soit en métropole ou à La Réunion. La seule exception indirecte concerne les actes réalisés par un médecin ou un kinésithérapeute dans le cadre d'un soin remboursable — mais une consultation chez un ostéopathe D.O. exclusif n'est pas prise en charge par la Sécu.",
+      },
+      {
+        question: "Quel est le prix d'une séance d'ostéopathie à La Réunion ?",
+        answer:
+          "À La Réunion, une séance d'ostéopathie coûte généralement entre 50 et 65 €, un tarif proche de la moyenne nationale. Au cabinet de La Possession, la consultation adulte est à 60 € et la consultation enfant (moins de 15 ans) à 50 €. Le tarif est libre : chaque ostéopathe fixe ses honoraires, il n'y a pas de plafond réglementaire.",
+      },
+      {
+        question: "Comment se faire rembourser une séance d'ostéopathie par sa mutuelle ?",
+        answer:
+          "La plupart des mutuelles proposent un forfait « médecines douces » ou « ostéopathie » qui rembourse tout ou partie de la séance, généralement entre 20 et 60 € par séance, dans une limite de 2 à 5 séances par an. Après la consultation, l'ostéopathe vous remet une facture (note d'honoraires) que vous transmettez à votre mutuelle, par courrier ou via votre espace en ligne. Vérifiez votre contrat pour connaître le montant et le nombre de séances pris en charge.",
+      },
+      {
+        question: "Combien ma mutuelle rembourse-t-elle pour l'ostéopathie ?",
+        answer:
+          "Cela dépend entièrement de votre contrat. Certaines mutuelles remboursent 15 à 20 € par séance, d'autres jusqu'à 50-60 €, souvent dans une enveloppe annuelle (par exemple 100 à 200 € par an tous soins de médecine douce confondus). Le mieux est de consulter votre tableau de garanties à la ligne « ostéopathie » ou « médecines douces », ou d'appeler votre mutuelle avant la séance.",
+      },
+      {
+        question: "L'ostéopathie est-elle remboursée pendant la grossesse ou pour un bébé ?",
+        answer:
+          "La Sécurité sociale ne rembourse pas davantage l'ostéopathie pour une femme enceinte ou un nourrisson : la règle est la même que pour tout le monde. En revanche, de nombreuses mutuelles proposent des forfaits renforcés « maternité » ou « famille » qui incluent des séances d'ostéopathie pour la future maman et le bébé. Vérifiez votre contrat, car ces forfaits sont souvent plus généreux.",
+      },
+      {
+        question: "Faut-il une ordonnance pour consulter un ostéopathe ?",
+        answer:
+          "Non, l'ostéopathie est en accès direct : vous n'avez pas besoin d'ordonnance de votre médecin pour prendre rendez-vous. Vous pouvez consulter directement, par exemple en ligne sur Doctolib. Une ordonnance n'est pas non plus nécessaire pour le remboursement par la mutuelle, qui se base sur la facture remise par l'ostéopathe.",
+      },
+    ],
+    content: `
+<h2>L'ostéopathie est-elle remboursée à La Réunion ?</h2>
+<p>C'est la première question, et la réponse est simple : <strong>non, l'ostéopathie n'est pas remboursée par la Sécurité sociale</strong> — ni à La Réunion, ni en métropole. L'ostéopathie est une pratique dite « non conventionnée » : l'Assurance Maladie (CPAM) ne prend en charge aucune séance réalisée par un ostéopathe.</p>
+<p>Mais ce n'est pas la fin de l'histoire : <strong>la plupart des mutuelles remboursent tout ou partie de la séance</strong> via un forfait « médecines douces ». C'est ce qui permet, en pratique, de réduire nettement le coût réel d'une consultation.</p>
+
+<h2>Le prix d'une séance d'ostéopathie à La Réunion</h2>
+<p>Le tarif d'une consultation est <strong>libre</strong> : chaque ostéopathe fixe ses honoraires, sans plafond réglementaire. À La Réunion, les prix se situent généralement <strong>entre 50 et 65 €</strong>, proches de la moyenne nationale (50 à 70 € selon les régions).</p>
+<p>À mon cabinet de La Possession, les tarifs sont les suivants :</p>
+<ul>
+  <li><strong>Consultation adulte : 60 €</strong></li>
+  <li><strong>Consultation enfant (moins de 15 ans) : 50 €</strong></li>
+</ul>
+<p>Une consultation dure environ 45 minutes à 1 heure, bilan complet inclus. Une <strong>facture (note d'honoraires)</strong> vous est systématiquement remise pour votre mutuelle.</p>
+
+<h2>Comment se faire rembourser par sa mutuelle</h2>
+<p>La grande majorité des complémentaires santé proposent un <strong>forfait « ostéopathie » ou « médecines douces »</strong>. Voici comment en profiter :</p>
+<ol>
+  <li><strong>Vérifiez votre contrat</strong> : cherchez la ligne « ostéopathie » ou « médecines douces » dans votre tableau de garanties. Vous y verrez le montant remboursé par séance et le nombre de séances prises en charge par an.</li>
+  <li><strong>Consultez et réglez la séance</strong> : vous payez l'ostéopathe directement (il n'y a pas de tiers payant en ostéopathie).</li>
+  <li><strong>Récupérez la facture</strong> remise en fin de séance.</li>
+  <li><strong>Transmettez-la à votre mutuelle</strong> : par courrier ou, le plus souvent, en la téléchargeant dans votre espace adhérent en ligne.</li>
+  <li><strong>Recevez votre remboursement</strong> sous quelques jours, selon les modalités de votre contrat.</li>
+</ol>
+
+<h3>Combien les mutuelles remboursent-elles ?</h3>
+<p>Cela varie fortement d'un contrat à l'autre :</p>
+<ul>
+  <li>Certaines remboursent <strong>15 à 20 € par séance</strong></li>
+  <li>D'autres montent jusqu'à <strong>50, voire 60 € par séance</strong></li>
+  <li>Le tout dans une <strong>enveloppe annuelle</strong> (souvent 2 à 5 séances par an, ou un plafond de 100 à 200 € tous soins de médecine douce confondus)</li>
+</ul>
+<p>Concrètement, avec une bonne mutuelle, votre reste à charge sur une séance à 60 € peut tomber à 0 € ou quelques euros. Le mieux est d'<strong>appeler votre mutuelle avant la séance</strong> si vous voulez connaître précisément votre prise en charge.</p>
+
+<h2>Grossesse, bébé, sportif : des forfaits parfois renforcés</h2>
+<p>La Sécurité sociale ne fait pas d'exception (rien n'est remboursé), mais certaines mutuelles proposent des <strong>forfaits renforcés</strong> selon les profils :</p>
+<ul>
+  <li><strong>Forfaits maternité / famille</strong> : souvent plus généreux, ils couvrent l'ostéopathie pour la <a href="/blog/sciatique-grossesse-osteopathe-femme-enceinte">femme enceinte</a> et le <a href="/blog/osteopathe-nourrisson-bebe-coliques-plagiocephalie">nourrisson</a>.</li>
+  <li><strong>Contrats bien-être / sport</strong> : certains incluent davantage de séances de médecine douce, utiles pour les <a href="/blog/osteopathe-du-sport-la-reunion-blessures-recuperation-performance">sportifs</a>.</li>
+</ul>
+<p>Si vous êtes dans l'une de ces situations, vérifiez ces lignes spécifiques : le remboursement peut être bien meilleur que le forfait de base.</p>
+
+<h2>Faut-il une ordonnance ?</h2>
+<p>Non. L'ostéopathie est en <strong>accès direct</strong> : pas besoin d'ordonnance de votre médecin pour prendre rendez-vous, ni pour le remboursement mutuelle. Vous pouvez consulter directement, en prenant rendez-vous en ligne. Cela dit, votre ostéopathe reste attentif et vous réorientera vers un médecin si votre situation le nécessite.</p>
+
+<h2>En résumé</h2>
+<ul>
+  <li><strong>Sécurité sociale</strong> : ne rembourse pas l'ostéopathie (0 €)</li>
+  <li><strong>Prix à La Réunion</strong> : environ 50 à 65 € — au cabinet de La Possession, 60 € (adulte) / 50 € (enfant)</li>
+  <li><strong>Mutuelle</strong> : rembourse souvent tout ou partie via un forfait médecines douces, sur présentation de la facture</li>
+  <li><strong>Ordonnance</strong> : non nécessaire</li>
+</ul>
+
+<h2>Prendre rendez-vous à La Possession (La Réunion)</h2>
+<p>Vous souhaitez consulter ? Je vous reçois à mon cabinet au sein de la Maison de Santé Sakisoigne, à La Possession (97419), accessible depuis Saint-Denis, Le Port, Saint-Paul, La Montagne et tout le nord de La Réunion. Une facture vous est remise à chaque séance pour votre mutuelle.</p>
+<p>Pour toute question sur les tarifs ou le déroulement d'une consultation, n'hésitez pas à me contacter. La prise de rendez-vous se fait directement en ligne :</p>
+<p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {

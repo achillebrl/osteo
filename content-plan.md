@@ -106,6 +106,14 @@
 - [x] **#17** — `effet-rebond-fatigue-apres-osteopathie-normal` — 07/07/2026 *(effet rebond / fatigue après ostéopathie 210/mo, KD~0, compét LOW, tendance +24%/mois, 0 site Réunion top 11 ; pilier E-E-A-T rassurance patient, PAA riches)*
 - [x] **#13** — `osteopathe-du-sport-la-reunion-blessures-recuperation-performance` — 19/07/2026 *(ostéopathie sport 1000/mo compét LOW CPC 1,89€ intent commercial, 0 site Réunion top 17, angle hub sport local trail/surf/foot ; maillage vers pubalgie/hanche/sacro-iliaque/cervicalgie/effet rebond)*
 - [x] **#14** — `osteopathie-senior-arthrose-equilibre-chutes` — 31/07/2026 *(ostéopathie arthrose compét quasi-nulle backlinks 0.4, cluster arthrose KD 1-5, 0 site Réunion top 11, AI Overview présent = format GEO adapté ; angle senior arthrose/équilibre/chutes/douceur ; maillage hanche/lombalgie/cervicalgie)*
+- [x] **#19** — `remboursement-prix-osteopathie-la-reunion-974` — 10/08/2026 *(remboursement/prix : national trop dur (comparateurs mutuelles 28-109 domaines), MAIS version localisée 974 sans concurrence + intent COMMERCIAL/transactionnel fort = conversion RDV ; tarifs réels Vincent 60€/50€ ; AI Overview présent)*
+
+## Audit GSC — semaine 27/07 → 10/08/2026
+
+- 🎉 **RECORD impressions** : 06/08 = **78 impressions** (vs 64 précédent)
+- ✅ Clics réguliers : 3 le 28/07, 2+2 les 03-04/08, 3 le 06/08 — plusieurs jours/semaine
+- ✅ Base ~30-48 impressions/jour, croissance continue
+- 🎯 #19 remboursement/prix local : page à très fort intent de conversion (les gens qui vérifient le prix avant de réserver) ; contourne la concurrence nationale via l'angle 974 ; maillage vers grossesse/nourrisson/sport
 
 ## Audit GSC — semaine 17/07 → 31/07/2026
 
