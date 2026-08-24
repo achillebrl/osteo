@@ -1997,6 +1997,121 @@ export const articles: Article[] = [
 <p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
 `,
   },
+  {
+    slug: "osteopathie-cranienne-mythes-realites",
+    title: "Qu'est-ce que l'ostéopathie crânienne ? Mythes et réalités",
+    description:
+      "L'ostéopathie crânienne intrigue autant qu'elle interroge. Techniques douces, indications réelles, idées reçues : un ostéopathe D.O. fait le point honnêtement. Cabinet à La Possession, La Réunion (974).",
+    date: "2026-08-24",
+    readTime: 8,
+    keywords: [
+      "ostéopathie crânienne",
+      "ostéopathie crânienne adulte",
+      "ostéopathie crânienne bienfaits",
+      "ostéopathie crânienne bébé",
+      "ostéopathie crânienne migraine",
+      "ostéopathe crânien La Réunion",
+      "ostéopathe La Possession 974",
+    ],
+    excerpt:
+      "L'ostéopathie crânienne fascine, intrigue, et suscite parfois le scepticisme. Entre les promesses excessives de certains et le rejet total d'autres, où est la vérité ? En tant qu'ostéopathe D.O. à La Possession, je vous explique honnêtement ce qu'est l'ostéopathie crânienne, ce qu'elle peut apporter, et ce qu'il ne faut pas en attendre.",
+    tldr:
+      "L'ostéopathie crânienne est un ensemble de techniques manuelles très douces appliquées sur le crâne, le visage et le sacrum, pour relâcher les tensions des membranes et des tissus. Elle est particulièrement utile chez le nourrisson (plagiocéphalie, coliques) et sur certains maux de tête, tensions et troubles du sommeil. Ce n'est pas une méthode miracle : elle ne soigne pas les maladies graves et agit sur le fonctionnel, en complément de la médecine. Les techniques sont indolores et sans danger entre de bonnes mains.",
+    faq: [
+      {
+        question: "Qu'est-ce que l'ostéopathie crânienne exactement ?",
+        answer:
+          "C'est un ensemble de techniques manuelles très douces, appliquées sur les os du crâne, le visage et le sacrum, visant à relâcher les tensions des membranes (dont la dure-mère) et des tissus qui entourent le système nerveux. L'ostéopathe exerce des pressions extrêmement légères — souvent quelques grammes — pour redonner de la souplesse et de la mobilité aux structures. C'est une approche subtile, indolore, qui fait partie de la panoplie de l'ostéopathe au même titre que les techniques structurelles ou viscérales.",
+      },
+      {
+        question: "Quels sont les bienfaits de l'ostéopathie crânienne ?",
+        answer:
+          "Elle est surtout utile sur les troubles fonctionnels : maux de tête et migraines de tension, tensions cervicales et de la mâchoire (ATM), troubles du sommeil, stress, et chez le nourrisson les suites d'accouchement, la plagiocéphalie, les coliques ou les régurgitations. Elle peut aussi compléter la prise en charge de certains vertiges ou sinusites chroniques. Son action passe par le relâchement des tensions et l'amélioration de la mobilité, pas par un effet magique.",
+      },
+      {
+        question: "L'ostéopathie crânienne est-elle dangereuse ?",
+        answer:
+          "Non, lorsqu'elle est pratiquée par un ostéopathe D.O. formé. Les techniques sont parmi les plus douces de l'ostéopathie : pressions très légères, sans manipulation forcée ni craquement. Elles conviennent aux publics fragiles comme les nourrissons et les personnes âgées. Comme toute approche, elle a ses limites et ses contre-indications (traumatisme crânien récent, fièvre, pathologie neurologique non explorée), qu'un praticien sérieux vérifie avant de traiter.",
+      },
+      {
+        question: "L'ostéopathie crânienne soigne-t-elle les migraines ?",
+        answer:
+          "Elle ne « guérit » pas la migraine, maladie neurologique complexe, mais elle peut réduire la fréquence et l'intensité des crises chez de nombreux patients, en particulier pour les maux de tête de tension liés aux tensions cervicales et de la mâchoire. Elle agit en complément du suivi médical. J'en parle plus en détail dans mon article sur l'ostéopathie et les maux de tête.",
+      },
+      {
+        question: "Combien de séances d'ostéopathie crânienne faut-il ?",
+        answer:
+          "Cela dépend du motif. Pour un trouble fonctionnel récent, 1 à 3 séances suffisent souvent. Pour un nourrisson (plagiocéphalie, torticolis), le suivi peut demander quelques séances espacées, souvent en lien avec la kinésithérapie. Pour des tensions chroniques, un entretien ponctuel peut être utile. L'ostéopathe adapte le nombre de séances à l'évolution — s'il n'y a aucune amélioration après 2 à 3 séances, il faut réévaluer et parfois réorienter.",
+      },
+      {
+        question: "L'ostéopathie crânienne est-elle scientifiquement prouvée ?",
+        answer:
+          "C'est un point de débat honnête : le concept de « mouvement respiratoire primaire » sur lequel elle s'appuie historiquement reste discuté scientifiquement, et les preuves d'efficacité sont plus solides sur certaines indications (nourrisson, céphalées de tension) que sur d'autres. Ce qui est certain, c'est que les techniques sont douces, sans danger, et que de nombreux patients en ressentent un réel bénéfice sur le confort et les tensions. Un bon ostéopathe reste honnête sur ce que la méthode peut — et ne peut pas — apporter.",
+      },
+    ],
+    content: `
+<h2>Ostéopathie crânienne : de quoi parle-t-on ?</h2>
+<p>L'ostéopathie crânienne est sans doute la facette la plus méconnue — et la plus mal comprise — de l'ostéopathie. Pour les uns, c'est une technique quasi miraculeuse ; pour les autres, une pratique fumeuse. La réalité, comme souvent, est plus nuancée. En tant qu'ostéopathe D.O., je préfère vous en parler <strong>honnêtement</strong>.</p>
+<p>Concrètement, l'ostéopathie crânienne regroupe des <strong>techniques manuelles très douces</strong> appliquées sur les os du crâne, le visage et le sacrum. L'ostéopathe exerce des pressions extrêmement légères — de l'ordre de quelques grammes — pour percevoir et relâcher les tensions des <strong>membranes</strong> (notamment la dure-mère, qui entoure le cerveau et la moelle épinière) et des tissus environnants.</p>
+<p>Ce n'est ni une manipulation qui « craque », ni un massage. C'est une approche subtile, indolore, que le patient ressent souvent comme un moment de profonde détente.</p>
+
+<h2>Comment ça fonctionne (et ce qui fait débat)</h2>
+<p>Historiquement, l'ostéopathie crânienne repose sur l'idée d'un <strong>« mouvement respiratoire primaire »</strong> : une micro-mobilité perçue au niveau du crâne et du sacrum. Soyons transparents : <strong>ce concept fait l'objet de débats scientifiques</strong>, et sa réalité physiologique n'est pas pleinement démontrée.</p>
+<p>Ce qui est établi, en revanche, c'est que :</p>
+<ul>
+  <li>Les techniques sont <strong>douces et sans danger</strong></li>
+  <li>Le relâchement des tensions myofasciales et membraneuses a un effet réel sur le confort</li>
+  <li>De nombreux patients rapportent un bénéfice concret, notamment sur les tensions, le sommeil et les maux de tête</li>
+</ul>
+<p>Un ostéopathe honnête ne vous vendra pas de miracle. Il vous proposera une approche complémentaire, utile sur des indications précises, et vous réorientera si ce n'est pas adapté.</p>
+
+<h2>Les indications où l'ostéopathie crânienne est vraiment utile</h2>
+
+<h3>Chez le nourrisson</h3>
+<p>C'est l'un des domaines où l'ostéopathie crânienne est la plus précieuse. Après la naissance, elle aide à relâcher les tensions du crâne du bébé, et accompagne la <strong>plagiocéphalie</strong> (tête plate), le torticolis, les coliques ou les régurgitations. Les techniques y sont d'une extrême douceur. J'en parle en détail dans mon article sur <a href="/blog/osteopathe-nourrisson-bebe-coliques-plagiocephalie">l'ostéopathie pour le nourrisson</a>.</p>
+
+<h3>Les maux de tête et migraines de tension</h3>
+<p>Les céphalées liées aux tensions cervicales et de la mâchoire répondent souvent bien au travail crânien, qui relâche les structures en cause. Voir mon article sur <a href="/blog/migraine-mal-de-tete-osteopathie">l'ostéopathie et les maux de tête</a>.</p>
+
+<h3>Les tensions de la mâchoire (ATM) et du cou</h3>
+<p>Bruxisme, tensions de la mâchoire, <a href="/blog/cervicalgie-torticolis-cou-bloque-osteopathie">cervicalgies</a> hautes : le crâne, la mandibule et les premières vertèbres forment un ensemble que le travail crânien aide à équilibrer.</p>
+
+<h3>Stress, sommeil et détente</h3>
+<p>Par son action très douce sur le système nerveux, l'ostéopathie crânienne procure souvent une détente profonde, utile en cas de stress, de tensions générales ou de troubles du sommeil légers.</p>
+
+<h2>Les mythes à déconstruire</h2>
+
+<h3>Mythe 1 : « Ça peut tout soigner »</h3>
+<p><strong>Faux.</strong> L'ostéopathie crânienne agit sur le fonctionnel (tensions, confort, mobilité), pas sur les maladies structurelles ou graves. Elle ne remplace ni un diagnostic médical, ni un traitement. Méfiez-vous de quiconque promet de « guérir » une maladie sérieuse par le crânien.</p>
+
+<h3>Mythe 2 : « L'ostéopathe déplace les os du crâne »</h3>
+<p><strong>Faux.</strong> Les os du crâne adulte sont soudés. L'ostéopathe ne « bouge » pas les os : il travaille sur la souplesse des membranes et des tissus, avec des pressions infimes. L'idée de « remettre les os en place » est une image trompeuse.</p>
+
+<h3>Mythe 3 : « C'est de la magie / de l'énergie »</h3>
+<p><strong>Faux.</strong> Il n'y a rien d'ésotérique dans l'ostéopathie crânienne bien pratiquée. C'est un travail manuel sur les tissus, basé sur l'anatomie. Un ostéopathe D.O. sérieux ne mélange pas sa pratique avec des concepts énergétiques non fondés.</p>
+
+<h3>Mythe 4 : « Si je ne ressens rien, ça ne marche pas »</h3>
+<p><strong>Faux.</strong> L'effet est souvent subtil et progressif. Certains patients ressentent une détente immédiate, d'autres un léger effet rebond, d'autres rien de spectaculaire — ce qui n'empêche pas le bénéfice de s'installer dans les jours qui suivent.</p>
+
+<h2>Y a-t-il des contre-indications ?</h2>
+<p>L'ostéopathie crânienne est très sûre, mais un praticien sérieux vérifie toujours l'absence de :</p>
+<ul>
+  <li>Traumatisme crânien récent</li>
+  <li>Fièvre, infection en cours</li>
+  <li>Pathologie neurologique non explorée (maux de tête inhabituels et intenses, signes neurologiques)</li>
+  <li>Hypertension intracrânienne connue</li>
+</ul>
+<p>Dans ces cas, l'avis médical prime. C'est le rôle de l'ostéopathe de savoir reconnaître ces situations et de vous réorienter.</p>
+
+<h2>Une approche parmi d'autres</h2>
+<p>Il est important de comprendre que l'ostéopathie crânienne n'est <strong>qu'une des techniques</strong> à la disposition de l'ostéopathe. En consultation, je l'utilise quand elle est pertinente, en la combinant souvent avec des techniques structurelles, musculaires ou viscérales, selon ce dont votre corps a besoin. L'important n'est pas la technique en elle-même, mais la justesse de son indication.</p>
+
+<h2>Consultation à La Possession (La Réunion)</h2>
+<p>Vous êtes curieux de l'ostéopathie crânienne, ou vous pensez qu'elle pourrait vous aider (maux de tête, tensions, sommeil, ou pour votre bébé) ? Je vous reçois à mon cabinet au sein de la Maison de Santé Sakisoigne, à La Possession (97419), accessible depuis Saint-Denis, Le Port, Saint-Paul, La Montagne et tout le nord de La Réunion.</p>
+<p>Je prends le temps de vous expliquer ce que je fais et pourquoi, sans promesse excessive — juste une approche honnête, adaptée à votre situation.</p>
+<p><a href="https://www.doctolib.fr/osteopathe/la-possession/vincent-magoni" target="_blank" rel="noopener noreferrer"><strong>Prendre rendez-vous sur Doctolib →</strong></a></p>
+`,
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {

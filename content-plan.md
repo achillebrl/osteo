@@ -107,6 +107,14 @@
 - [x] **#13** — `osteopathe-du-sport-la-reunion-blessures-recuperation-performance` — 19/07/2026 *(ostéopathie sport 1000/mo compét LOW CPC 1,89€ intent commercial, 0 site Réunion top 17, angle hub sport local trail/surf/foot ; maillage vers pubalgie/hanche/sacro-iliaque/cervicalgie/effet rebond)*
 - [x] **#14** — `osteopathie-senior-arthrose-equilibre-chutes` — 31/07/2026 *(ostéopathie arthrose compét quasi-nulle backlinks 0.4, cluster arthrose KD 1-5, 0 site Réunion top 11, AI Overview présent = format GEO adapté ; angle senior arthrose/équilibre/chutes/douceur ; maillage hanche/lombalgie/cervicalgie)*
 - [x] **#19** — `remboursement-prix-osteopathie-la-reunion-974` — 10/08/2026 *(remboursement/prix : national trop dur (comparateurs mutuelles 28-109 domaines), MAIS version localisée 974 sans concurrence + intent COMMERCIAL/transactionnel fort = conversion RDV ; tarifs réels Vincent 60€/50€ ; AI Overview présent)*
+- [x] **#15** — `osteopathie-cranienne-mythes-realites` — 24/08/2026 *(ostéopathie crânienne compét quasi-nulle backlinks 0.7, 0 site Réunion top, AI Overview + PAA riches ; angle honnête mythes/réalités E-E-A-T ; maillage nourrisson/migraine/cervicalgie)*
+
+## Audit GSC — semaine 08/08 → 24/08/2026
+
+- 🎉 **RECORD impressions égalé** : 18/08 ET 19/08 = **61 impressions** chacun, 2 clics le 19/08
+- ✅ 45 impressions le 10/08, base ~25-45/jour, clics réguliers (11, 15, 17, 19/08)
+- ✅ Croissance stable et régulière depuis 4 mois
+- 🎯 #15 crânienne : sujet signature qui démystifie (E-E-A-T fort, honnêteté = confiance), complète nourrisson (crânien bébé) + migraine ; AI Overview donc format GEO adapté
 
 ## Audit GSC — semaine 27/07 → 10/08/2026
 
